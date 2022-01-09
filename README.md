@@ -1,6 +1,6 @@
 # Python for Social Science Notebooks
 
-This github repository contains Pythion notebooks for  Ling/BDA 572.  This course is an introduction to Python, basic data science tools, and language analysis.
+This github repository contains Python notebooks for  Ling/BDA 572.  This course is an introduction to Python, basic data science tools, and language analysis.
 
 ##  Introduction to Python module
 
@@ -25,7 +25,7 @@ This github repository contains Pythion notebooks for  Ling/BDA 572.  This cours
 ## Pandas
 
 1.  pandas.ipynb
-2. 02_pandas.ipynb
+2.  02_pandas.ipynb
 3.  general_pandas_intro.ipynb
 4.  pandas_pivot_and_merge.ipynb
 

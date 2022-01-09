@@ -1,0 +1,1245 @@
+<?xml version="1.0" standalone="yes"?>
+
+<DynamicMetaNetwork id="Faux Mesa High">
+<MetaNetwork id="Faux Mesa High">
+<propertyIdentities>
+<propertyIdentity id="transform" type="text" singleValued="false"/></propertyIdentities>
+<property id="transform" value="Thu Sep 13 10:47:55 2012 - symmetrized network Faux Mesa High"/>
+<nodes>
+<nodeclass type="Agent" id="Agent">
+<propertyIdentities>
+<propertyIdentity id="Grade" type="categoryNumber" singleValued="false"/>
+<propertyIdentity id="Race" type="categoryText" singleValued="false"/>
+<propertyIdentity id="Sex" type="categoryText" singleValued="false"/></propertyIdentities>
+<node id="1">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="2">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="3">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="NatAm"/></node>
+<node id="4">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="5">
+<property id="Sex" value="F"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="White"/></node>
+<node id="6">
+<property id="Sex" value="F"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="Hisp"/></node>
+<node id="7">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="8">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="NatAm"/></node>
+<node id="9">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="White"/></node>
+<node id="10">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+<node id="11">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="12">
+<property id="Sex" value="F"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="Hisp"/></node>
+<node id="13">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="14">
+<property id="Sex" value="F"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="Hisp"/></node>
+<node id="15">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="16">
+<property id="Sex" value="F"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="Hisp"/></node>
+<node id="17">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="NatAm"/></node>
+<node id="18">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="19">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="White"/></node>
+<node id="20">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="21">
+<property id="Sex" value="M"/>
+<property id="Grade" value="12"/>
+<property id="Race" value="Hisp"/></node>
+<node id="22">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="23">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="24">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+<node id="25">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="White"/></node>
+<node id="26">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="27">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="28">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+<node id="29">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="30">
+<property id="Sex" value="F"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="NatAm"/></node>
+<node id="31">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="32">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="33">
+<property id="Sex" value="F"/>
+<property id="Grade" value="12"/>
+<property id="Race" value="Hisp"/></node>
+<node id="34">
+<property id="Sex" value="F"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="White"/></node>
+<node id="35">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="Hisp"/></node>
+<node id="36">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="37">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="38">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="39">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="40">
+<property id="Sex" value="F"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="White"/></node>
+<node id="41">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="42">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Other"/></node>
+<node id="43">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="White"/></node>
+<node id="44">
+<property id="Sex" value="M"/>
+<property id="Grade" value="12"/>
+<property id="Race" value="Hisp"/></node>
+<node id="45">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="46">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="NatAm"/></node>
+<node id="47">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="NatAm"/></node>
+<node id="48">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="49">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="50">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="51">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="52">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="53">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="NatAm"/></node>
+<node id="54">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Black"/></node>
+<node id="55">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="56">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="57">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="58">
+<property id="Sex" value="F"/>
+<property id="Grade" value="12"/>
+<property id="Race" value="Hisp"/></node>
+<node id="59">
+<property id="Sex" value="F"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="Hisp"/></node>
+<node id="60">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="61">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="NatAm"/></node>
+<node id="62">
+<property id="Sex" value="F"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="Hisp"/></node>
+<node id="63">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="White"/></node>
+<node id="64">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="65">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="NatAm"/></node>
+<node id="66">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="67">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="68">
+<property id="Sex" value="F"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="Hisp"/></node>
+<node id="69">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="Hisp"/></node>
+<node id="70">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="71">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="72">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="73">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="74">
+<property id="Sex" value="M"/>
+<property id="Grade" value="12"/>
+<property id="Race" value="Black"/></node>
+<node id="75">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="NatAm"/></node>
+<node id="76">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="77">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="78">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="79">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+<node id="80">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="81">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="Hisp"/></node>
+<node id="82">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="83">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="Hisp"/></node>
+<node id="84">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="85">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="86">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="87">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="White"/></node>
+<node id="88">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="89">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="White"/></node>
+<node id="90">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="91">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="Hisp"/></node>
+<node id="92">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="93">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="94">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="95">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="96">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="97">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="98">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+<node id="99">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+<node id="100">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="101">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="White"/></node>
+<node id="102">
+<property id="Sex" value="F"/>
+<property id="Grade" value="12"/>
+<property id="Race" value="NatAm"/></node>
+<node id="103">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="104">
+<property id="Sex" value="F"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="White"/></node>
+<node id="105">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="106">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="107">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="Hisp"/></node>
+<node id="108">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="109">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="110">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="111">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="112">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="113">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+<node id="114">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="115">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="116">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="NatAm"/></node>
+<node id="117">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="118">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Black"/></node>
+<node id="119">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="White"/></node>
+<node id="120">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="Hisp"/></node>
+<node id="121">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="122">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+<node id="123">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Black"/></node>
+<node id="124">
+<property id="Sex" value="F"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="Hisp"/></node>
+<node id="125">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="126">
+<property id="Sex" value="M"/>
+<property id="Grade" value="12"/>
+<property id="Race" value="Hisp"/></node>
+<node id="127">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="128">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="129">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="130">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="131">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="Hisp"/></node>
+<node id="132">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="133">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="134">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="135">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="136">
+<property id="Sex" value="F"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="NatAm"/></node>
+<node id="137">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="138">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="139">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="140">
+<property id="Sex" value="F"/>
+<property id="Grade" value="12"/>
+<property id="Race" value="Hisp"/></node>
+<node id="141">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="White"/></node>
+<node id="142">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="143">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="144">
+<property id="Sex" value="F"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="Hisp"/></node>
+<node id="145">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="146">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Other"/></node>
+<node id="147">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="148">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="Hisp"/></node>
+<node id="149">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+<node id="150">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="151">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="152">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="153">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+<node id="154">
+<property id="Sex" value="F"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="Other"/></node>
+<node id="155">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="156">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="White"/></node>
+<node id="157">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="158">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="159">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Other"/></node>
+<node id="160">
+<property id="Sex" value="F"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="Black"/></node>
+<node id="161">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="162">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="163">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="Hisp"/></node>
+<node id="164">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+<node id="165">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="166">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="White"/></node>
+<node id="167">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="168">
+<property id="Sex" value="M"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="NatAm"/></node>
+<node id="169">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="170">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+<node id="171">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="172">
+<property id="Sex" value="M"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="White"/></node>
+<node id="173">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+<node id="174">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="175">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="176">
+<property id="Sex" value="F"/>
+<property id="Grade" value="12"/>
+<property id="Race" value="Hisp"/></node>
+<node id="177">
+<property id="Sex" value="F"/>
+<property id="Grade" value="12"/>
+<property id="Race" value="NatAm"/></node>
+<node id="178">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="179">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="180">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="181">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="182">
+<property id="Sex" value="F"/>
+<property id="Grade" value="12"/>
+<property id="Race" value="Hisp"/></node>
+<node id="183">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="184">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="NatAm"/></node>
+<node id="185">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="186">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="Hisp"/></node>
+<node id="187">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="Hisp"/></node>
+<node id="188">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="Hisp"/></node>
+<node id="189">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="190">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="191">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="NatAm"/></node>
+<node id="192">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="193">
+<property id="Sex" value="F"/>
+<property id="Grade" value="8"/>
+<property id="Race" value="NatAm"/></node>
+<node id="194">
+<property id="Sex" value="F"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="White"/></node>
+<node id="195">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="196">
+<property id="Sex" value="F"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="197">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="198">
+<property id="Sex" value="M"/>
+<property id="Grade" value="7"/>
+<property id="Race" value="Hisp"/></node>
+<node id="199">
+<property id="Sex" value="F"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="Hisp"/></node>
+<node id="200">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="NatAm"/></node>
+<node id="201">
+<property id="Sex" value="M"/>
+<property id="Grade" value="12"/>
+<property id="Race" value="NatAm"/></node>
+<node id="202">
+<property id="Sex" value="F"/>
+<property id="Grade" value="11"/>
+<property id="Race" value="Hisp"/></node>
+<node id="203">
+<property id="Sex" value="F"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="NatAm"/></node>
+<node id="204">
+<property id="Sex" value="M"/>
+<property id="Grade" value="10"/>
+<property id="Race" value="Black"/></node>
+<node id="205">
+<property id="Sex" value="M"/>
+<property id="Grade" value="9"/>
+<property id="Race" value="NatAm"/></node>
+</nodeclass>
+</nodes>
+<networks>
+<network sourceType="Agent" source="Agent" targetType="Agent" target="Agent" id="Agent x Agent" isDirected="true" allowSelfLoops="true">
+<link source="131" target="89"/>
+<link source="131" target="81"/>
+<link source="181" target="182"/>
+<link source="1" target="96"/>
+<link source="1" target="110"/>
+<link source="1" target="87"/>
+<link source="1" target="100"/>
+<link source="1" target="92"/>
+<link source="1" target="25"/>
+<link source="1" target="174"/>
+<link source="1" target="161"/>
+<link source="1" target="52"/>
+<link source="1" target="151"/>
+<link source="1" target="70"/>
+<link source="1" target="58"/>
+<link source="1" target="127"/>
+<link source="111" target="89"/>
+<link source="178" target="32"/>
+<link source="178" target="165"/>
+<link source="178" target="123"/>
+<link source="200" target="34"/>
+<link source="14" target="182"/>
+<link source="108" target="101"/>
+<link source="108" target="173"/>
+<link source="108" target="79"/>
+<link source="63" target="18"/>
+<link source="63" target="198"/>
+<link source="137" target="96"/>
+<link source="137" target="78"/>
+<link source="137" target="100"/>
+<link source="137" target="179"/>
+<link source="164" target="99"/>
+<link source="164" target="173"/>
+<link source="164" target="79"/>
+<link source="88" target="87"/>
+<link source="88" target="183"/>
+<link source="151" target="1"/>
+<link source="151" target="127"/>
+<link source="127" target="87"/>
+<link source="127" target="150"/>
+<link source="127" target="52"/>
+<link source="127" target="1"/>
+<link source="127" target="151"/>
+<link source="30" target="54"/>
+<link source="30" target="8"/>
+<link source="30" target="104"/>
+<link source="30" target="160"/>
+<link source="124" target="161"/>
+<link source="124" target="160"/>
+<link source="124" target="142"/>
+<link source="155" target="38"/>
+<link source="64" target="22"/>
+<link source="64" target="139"/>
+<link source="64" target="123"/>
+<link source="64" target="157"/>
+<link source="64" target="66"/>
+<link source="38" target="155"/>
+<link source="125" target="204"/>
+<link source="87" target="156"/>
+<link source="87" target="96"/>
+<link source="87" target="110"/>
+<link source="87" target="92"/>
+<link source="87" target="88"/>
+<link source="87" target="25"/>
+<link source="87" target="1"/>
+<link source="87" target="127"/>
+<link source="87" target="183"/>
+<link source="87" target="179"/>
+<link source="25" target="77"/>
+<link source="25" target="87"/>
+<link source="25" target="43"/>
+<link source="25" target="60"/>
+<link source="25" target="92"/>
+<link source="25" target="1"/>
+<link source="25" target="147"/>
+<link source="198" target="63"/>
+<link source="186" target="149"/>
+<link source="2" target="52"/>
+<link source="2" target="100"/>
+<link source="2" target="134"/>
+<link source="2" target="190"/>
+<link source="147" target="25"/>
+<link source="29" target="55"/>
+<link source="29" target="51"/>
+<link source="93" target="27"/>
+<link source="36" target="23"/>
+<link source="36" target="97"/>
+<link source="36" target="167"/>
+<link source="174" target="1"/>
+<link source="196" target="179"/>
+<link source="196" target="134"/>
+<link source="77" target="43"/>
+<link source="77" target="25"/>
+<link source="22" target="64"/>
+<link source="22" target="76"/>
+<link source="22" target="55"/>
+<link source="22" target="123"/>
+<link source="22" target="15"/>
+<link source="22" target="189"/>
+<link source="139" target="64"/>
+<link source="139" target="105"/>
+<link source="139" target="123"/>
+<link source="139" target="47"/>
+<link source="139" target="193"/>
+<link source="139" target="189"/>
+<link source="57" target="133"/>
+<link source="52" target="1"/>
+<link source="52" target="127"/>
+<link source="52" target="2"/>
+<link source="52" target="190"/>
+<link source="170" target="153"/>
+<link source="97" target="36"/>
+<link source="121" target="109"/>
+<link source="122" target="17"/>
+<link source="149" target="165"/>
+<link source="149" target="58"/>
+<link source="149" target="186"/>
+<link source="193" target="139"/>
+<link source="86" target="55"/>
+<link source="191" target="47"/>
+<link source="191" target="189"/>
+<link source="19" target="9"/>
+<link source="176" target="74"/>
+<link source="34" target="187"/>
+<link source="34" target="200"/>
+<link source="187" target="165"/>
+<link source="187" target="75"/>
+<link source="187" target="91"/>
+<link source="187" target="34"/>
+<link source="8" target="104"/>
+<link source="8" target="160"/>
+<link source="8" target="30"/>
+<link source="205" target="9"/>
+<link source="71" target="56"/>
+<link source="31" target="114"/>
+<link source="31" target="185"/>
+<link source="142" target="109"/>
+<link source="142" target="160"/>
+<link source="142" target="124"/>
+<link source="179" target="96"/>
+<link source="179" target="87"/>
+<link source="179" target="137"/>
+<link source="179" target="196"/>
+<link source="79" target="108"/>
+<link source="79" target="99"/>
+<link source="79" target="164"/>
+<link source="79" target="173"/>
+<link source="79" target="47"/>
+<link source="91" target="187"/>
+<link source="182" target="14"/>
+<link source="182" target="181"/>
+<link source="53" target="136"/>
+<link source="53" target="83"/>
+<link source="66" target="64"/>
+<link source="66" target="55"/>
+<link source="66" target="157"/>
+<link source="66" target="82"/>
+<link source="58" target="1"/>
+<link source="58" target="149"/>
+<link source="183" target="87"/>
+<link source="183" target="88"/>
+<link source="183" target="190"/>
+<link source="59" target="21"/>
+<link source="59" target="104"/>
+<link source="59" target="65"/>
+<link source="180" target="138"/>
+<link source="201" target="102"/>
+<link source="201" target="47"/>
+<link source="23" target="36"/>
+<link source="110" target="96"/>
+<link source="110" target="87"/>
+<link source="110" target="92"/>
+<link source="110" target="1"/>
+<link source="110" target="134"/>
+<link source="100" target="96"/>
+<link source="100" target="137"/>
+<link source="100" target="150"/>
+<link source="100" target="1"/>
+<link source="100" target="2"/>
+<link source="185" target="112"/>
+<link source="185" target="114"/>
+<link source="185" target="138"/>
+<link source="185" target="31"/>
+<link source="185" target="132"/>
+<link source="173" target="108"/>
+<link source="173" target="99"/>
+<link source="173" target="164"/>
+<link source="173" target="79"/>
+<link source="92" target="110"/>
+<link source="92" target="87"/>
+<link source="92" target="25"/>
+<link source="92" target="1"/>
+<link source="60" target="43"/>
+<link source="60" target="25"/>
+<link source="56" target="71"/>
+<link source="56" target="129"/>
+<link source="82" target="66"/>
+<link source="44" target="74"/>
+<link source="44" target="136"/>
+<link source="44" target="11"/>
+<link source="133" target="57"/>
+<link source="104" target="8"/>
+<link source="104" target="160"/>
+<link source="104" target="65"/>
+<link source="104" target="30"/>
+<link source="104" target="59"/>
+<link source="18" target="63"/>
+<link source="18" target="195"/>
+<link source="18" target="158"/>
+<link source="18" target="129"/>
+<link source="40" target="16"/>
+<link source="15" target="76"/>
+<link source="15" target="22"/>
+<link source="15" target="55"/>
+<link source="15" target="189"/>
+<link source="47" target="102"/>
+<link source="47" target="74"/>
+<link source="47" target="201"/>
+<link source="47" target="105"/>
+<link source="47" target="139"/>
+<link source="47" target="153"/>
+<link source="47" target="191"/>
+<link source="47" target="79"/>
+<link source="47" target="189"/>
+<link source="61" target="13"/>
+<link source="61" target="55"/>
+<link source="61" target="51"/>
+<link source="144" target="115"/>
+<link source="202" target="136"/>
+<link source="158" target="18"/>
+<link source="158" target="70"/>
+<link source="158" target="195"/>
+<link source="158" target="129"/>
+<link source="17" target="122"/>
+<link source="81" target="131"/>
+<link source="189" target="102"/>
+<link source="189" target="22"/>
+<link source="189" target="139"/>
+<link source="189" target="123"/>
+<link source="189" target="15"/>
+<link source="189" target="47"/>
+<link source="189" target="191"/>
+<link source="114" target="138"/>
+<link source="114" target="185"/>
+<link source="114" target="31"/>
+<link source="76" target="22"/>
+<link source="76" target="15"/>
+<link source="11" target="74"/>
+<link source="11" target="44"/>
+<link source="148" target="194"/>
+<link source="90" target="117"/>
+<link source="190" target="161"/>
+<link source="190" target="52"/>
+<link source="190" target="2"/>
+<link source="190" target="183"/>
+<link source="33" target="140"/>
+<link source="13" target="153"/>
+<link source="13" target="61"/>
+<link source="102" target="201"/>
+<link source="102" target="21"/>
+<link source="102" target="47"/>
+<link source="102" target="189"/>
+<link source="78" target="137"/>
+<link source="146" target="192"/>
+<link source="138" target="114"/>
+<link source="138" target="185"/>
+<link source="138" target="180"/>
+<link source="21" target="140"/>
+<link source="21" target="102"/>
+<link source="21" target="59"/>
+<link source="165" target="199"/>
+<link source="165" target="149"/>
+<link source="165" target="178"/>
+<link source="165" target="187"/>
+<link source="132" target="185"/>
+<link source="132" target="150"/>
+<link source="166" target="160"/>
+<link source="141" target="103"/>
+<link source="157" target="64"/>
+<link source="157" target="55"/>
+<link source="157" target="123"/>
+<link source="157" target="66"/>
+<link source="55" target="22"/>
+<link source="55" target="123"/>
+<link source="55" target="157"/>
+<link source="55" target="66"/>
+<link source="55" target="15"/>
+<link source="55" target="61"/>
+<link source="55" target="86"/>
+<link source="55" target="29"/>
+<link source="55" target="51"/>
+<link source="65" target="104"/>
+<link source="65" target="59"/>
+<link source="167" target="36"/>
+<link source="74" target="136"/>
+<link source="74" target="11"/>
+<link source="74" target="47"/>
+<link source="74" target="44"/>
+<link source="74" target="176"/>
+<link source="68" target="27"/>
+<link source="98" target="192"/>
+<link source="16" target="140"/>
+<link source="16" target="40"/>
+<link source="5" target="204"/>
+<link source="54" target="9"/>
+<link source="54" target="115"/>
+<link source="54" target="30"/>
+<link source="105" target="139"/>
+<link source="105" target="47"/>
+<link source="150" target="96"/>
+<link source="150" target="100"/>
+<link source="150" target="127"/>
+<link source="150" target="132"/>
+<link source="160" target="166"/>
+<link source="160" target="194"/>
+<link source="160" target="8"/>
+<link source="160" target="140"/>
+<link source="160" target="104"/>
+<link source="160" target="142"/>
+<link source="160" target="30"/>
+<link source="160" target="124"/>
+<link source="27" target="68"/>
+<link source="27" target="93"/>
+<link source="117" target="90"/>
+<link source="195" target="18"/>
+<link source="195" target="70"/>
+<link source="195" target="158"/>
+<link source="134" target="110"/>
+<link source="134" target="2"/>
+<link source="134" target="196"/>
+<link source="83" target="53"/>
+<link source="83" target="136"/>
+<link source="51" target="55"/>
+<link source="51" target="61"/>
+<link source="51" target="29"/>
+<link source="129" target="18"/>
+<link source="129" target="56"/>
+<link source="129" target="158"/>
+<link source="156" target="87"/>
+<link source="140" target="194"/>
+<link source="140" target="33"/>
+<link source="140" target="21"/>
+<link source="140" target="160"/>
+<link source="140" target="16"/>
+<link source="32" target="178"/>
+<link source="161" target="1"/>
+<link source="161" target="124"/>
+<link source="161" target="190"/>
+<link source="109" target="121"/>
+<link source="109" target="142"/>
+<link source="192" target="146"/>
+<link source="192" target="98"/>
+<link source="103" target="141"/>
+<link source="70" target="1"/>
+<link source="70" target="195"/>
+<link source="70" target="158"/>
+<link source="89" target="131"/>
+<link source="89" target="111"/>
+<link source="199" target="165"/>
+<link source="112" target="185"/>
+<link source="194" target="140"/>
+<link source="194" target="160"/>
+<link source="194" target="148"/>
+<link source="9" target="54"/>
+<link source="9" target="205"/>
+<link source="9" target="115"/>
+<link source="9" target="19"/>
+<link source="96" target="110"/>
+<link source="96" target="87"/>
+<link source="96" target="137"/>
+<link source="96" target="150"/>
+<link source="96" target="100"/>
+<link source="96" target="1"/>
+<link source="96" target="179"/>
+<link source="43" target="77"/>
+<link source="43" target="60"/>
+<link source="43" target="25"/>
+<link source="204" target="125"/>
+<link source="204" target="75"/>
+<link source="204" target="5"/>
+<link source="123" target="64"/>
+<link source="123" target="22"/>
+<link source="123" target="139"/>
+<link source="123" target="55"/>
+<link source="123" target="157"/>
+<link source="123" target="178"/>
+<link source="123" target="189"/>
+<link source="99" target="164"/>
+<link source="99" target="173"/>
+<link source="99" target="79"/>
+<link source="101" target="108"/>
+<link source="75" target="204"/>
+<link source="75" target="187"/>
+<link source="136" target="53"/>
+<link source="136" target="74"/>
+<link source="136" target="202"/>
+<link source="136" target="83"/>
+<link source="136" target="44"/>
+<link source="115" target="54"/>
+<link source="115" target="9"/>
+<link source="115" target="144"/>
+<link source="153" target="13"/>
+<link source="153" target="170"/>
+<link source="153" target="47"/></network>
+</networks>
+</MetaNetwork>
+</DynamicMetaNetwork>
+

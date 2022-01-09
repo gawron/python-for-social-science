@@ -1,0 +1,151 @@
+"""
+Nice example of bringing networkx into Wordnet.
+ 
+
+"""
+
+# Natural Language Toolkit: code_networkx
+
+import networkx as nx
+import matplotlib
+import sys,random
+from nltk.corpus import wordnet as wn
+from collections import Counter
+
+def traverse(graph, start, node, rel='hyponyms',max_depth=None,prob=1.0,
+             do_leaves=True):
+    """
+    This calls itself recursively following links
+    of type C{rel} extending from C{child}.  C{Start} is the
+    node the recursive traversal started at, passed in
+    so that we can compute the depth of the traversal thus far.
+    This is not the same as the depth of the recursion,
+    which could be computed more easily.  The depth
+    of the traversal is defined as the shortest distance
+    between the start and node.  'rels' is a string
+    that is turned into a method with C{getattr} so it must be legal
+    method name on C{node}, and it must return a container of nodes
+    (e.g., hyponyms,hypernyms, antonyms)
+
+    prob is the prob that a node should be included. So prob=1.0 means
+    include all nodes.
+    """
+    depth = node.shortest_path_distance(start)
+    graph.depth[node.name] = depth
+    #for child in node.hyponyms():
+    for child in getattr(node,rel)():
+        if random.random() > prob:
+            continue
+        if do_leaves or getattr(child,rel)():
+            graph.add_edge(node.name().split('.')[0],
+                           child.name().split('.')[0]) # [_add-edge]
+        else:
+            continue
+        if (max_depth is None) or depth < max_depth:
+            traverse(graph, start, child, rel=rel,max_depth=max_depth) # [_recursive-traversal]
+        else:
+            graph.depth[child.name] = child.shortest_path_distance(start)
+            
+
+def rel_graph(start,rel='hyponyms',max_depth=None,prob=1.0,do_leaves=True,graph_in=None):
+    if graph_in is None:
+        G = nx.Graph() # [_define-graph]
+        G.depth = {}
+    else:
+        G = graph_in
+    traverse(G, start, start,rel=rel,max_depth=max_depth,prob=prob,do_leaves=do_leaves)
+    return G
+
+def graph_draw(graph,with_labels=False,factor=1):
+    nx.draw_graphviz(graph,
+         node_size = [(factor * 16 * graph.degree(n)) for n in graph],
+         node_color = [graph.depth[n] for n in graph],
+         with_labels = with_labels)
+    matplotlib.pyplot.show()
+
+def print_hyponyms (word,fh=None):
+    if fh is None:
+        fh = sys.stdout
+    for w in get_hyponyms(word):
+        print(w, file=fh)
+
+def get_hyponyms(word):
+    return sorted(set([pretty_name(l.name)
+                       for h in get_hyponyms_helper(wn.synsets(word)[0])
+                         for l in h.lemmas]))
+
+def get_hyponyms_helper(ss):
+    hh = ss.hyponyms()
+    for ss in hh:
+        hh.extend(get_hyponyms_helper(ss))
+    return hh
+
+def get_synonyms (form, pos = None, path_length = 1, ic = None):
+
+    # C{lemmas} is our result variable. C{forms} is for keeping track of what
+    # forms we've already done when chasing paths of length > 1.  I.e.,
+    # it keeps us from chasing through graph cycles more than once.
+    forms, lemmas = (set(),Counter( ))
+
+    to_do = set([form])
+    for i in range(path_length):
+        if to_do == set():
+            print('Convergence at path length %d' % (i,))
+            break
+        new_forms = set()
+        for form in to_do:
+            if form not in forms:
+                new_forms.update(get_synonyms_helper (form, forms, lemmas, pos=pos))
+        to_do = new_forms
+
+
+    # Convert 1st result var to list for sorting.
+    lemmas = list(lemmas.items())
+
+    synsets = wn.synsets(form,pos)
+    if ic:
+        ## sort lemmas by jcn distance from primary sense
+        ## primarily of use when path_length > 1
+        primary_sense = synsets[0]
+        lemmas.sort(reverse=True, \
+                    key = lambda x: x[0].synset.jcn_similarity(primary_sense,ic))
+    else:
+        # sort lemmas by the wordnet ordering of their senses for C{form}
+        lemmas.sort(key = lambda x: get_sense_rank(x[0], pos, synsets))
+        
+
+    # Might as well sort forms too. Just use lem list sorting.
+    lem_forms = [pretty_name(l.name) for (l,c) in lemmas]
+    # Order forms by index of their first occurrence in lem_forms
+    lem_forms = [n for (i,n) in enumerate(lem_forms) if n not in lem_forms[:i]]
+    forms.update(new_forms)
+    forms = set([pretty_name(f) for f in forms])
+    return (lem_forms, lemmas, forms)
+
+def get_synonyms_helper (form, forms, lemmas, pos=None):    
+    forms.add(form)
+    new_forms = set()
+    for ss in wn.synsets(form,pos):
+        for l in ss.lemmas:
+            lemmas[l] += 1
+            new_form = l.name
+            if new_form not in forms:
+                new_forms.add(new_form)
+    return new_forms
+
+def pretty_name(lemma_name):
+    """
+    Replace any underscores in lemma names with spaces.
+    """
+    return ' '.join(lemma_name.split('_'))
+
+def get_sense_rank(lemma, pos, synsets):
+    """
+    An alternative::
+      -- return wn.synsets(lemma.name,pos).index(lemma.synset)
+    """
+    try:
+        return synsets.index(lemma.synset)
+    except ValueError:
+        return sys.maxsize
+

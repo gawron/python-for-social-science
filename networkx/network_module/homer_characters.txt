@@ -1,0 +1,561 @@
+Abarbarea         AB Abarbarea, Trojan fountain nymph
+Abas              19 Abas, brother of Polyeidus, killed by Diomedes
+Ablerus           25 Ablerus, Trojan soldier killed by Antilochus
+Acamas            02 Acamas, son of Antenor, lieutenant of Aeneas
+Acamas_2          1U Acamas, Thracian commander, killed by Great
+Achilles          AC Achilles, angry warrior, swift-footed chief of Myrmidons from Phthia
+Actor             57 Actor, brother of Augeias
+Adamas            3W Adamas, son of Asius, killed by Meriones
+Adrestus          03 Adrestus, son of Merops, co-leader of Adresteians
+Adrestus_2        A1 Adrestus, Trojan warrior killed by Patroclus
+Aegaeon           AZ Aegaeon, hundred-armed giant, brother of Cronus
+Aeneas            AE Aeneas, leader of Dardanians
+Aenius            Q2 Aenius, charioteer from Paeonia killed by Achilles
+Aeolus            WI Aeolus, lord of winds
+Aesepus           1Z Aesepus, son of Bucolion and Abarbarea, killed by Euryalus
+Aesymnus          71 Aesymnus, Greek warrior killed by Hector
+Aethra            AA Aethra, Trojan lady in waiting
+Agamede           6V Agamede, eldest daughter of Augeias
+Agamemnon         AG Agamemnon, king of Argos and Mycenae, leader of Greek forces
+Agapenor          9P Agapenor, king of Arcadians
+Agastrophus       3G Agastrophus, Trojan warrior killed by Diomedes
+Agathon           T2 Agathon, son of Priam
+Agelaus           2M Agelaus, Trojan warrior killed by Diomedes
+Agelaus_2         72 Agelaus, Greek warrior killed by Hector
+Agenor            AO Agenor, heir of Antenor, assists Aeneas
+Agrius            52 Agrius, brother of Oeneus
+Alastor           1N Alastor, Lycian speared by Odysseus
+Alastor_2         8W Alastor, Pylian commander
+Alcandrus         1P Alcandrus, Lycian speared by Odysseus
+Alcathous         3T Alcathous, brother-in-law of Aeneas, killed by Idomeneus
+Alcimedon         5E Alcimedon, Myrmidon leader
+Alcimus           8J Alcimus, friend of Achilles
+Alcmaon           6P Alcmaon, Greek warrior killed by Sarpedon
+Alcmene           62 Alcmene, mother of Heracles
+Altes             S2 Altes, king of the Leleges, father of Laothoe
+Althea            7I Althea, wife of Oeneus, curses Meleager
+Amazons           2G Amazons, warlike community of women
+Amisodarus        H0 Amisodarus, father of Atymnius and Maris
+Amopaon           2T Amopaon, Trojan warrior shot by Teucer
+Amphiclus         E0 Amphiclus, Trojan warrior killed by Meges
+Amphidamas        7B Amphidamas, Argonaut from Cythera
+Amphimachus       0M Amphimachus, vain brother of Nastes, co-leader of Carians
+Amphimachus_2     9O Amphimachus, son of Cteatus, leader of an Epeian flotilla
+Amphion           6H Amphion, lieutenant of Meges
+Amphius           04 Amphius, son of Merops, co-leader of Adresteians
+Amphius_2         1J Amphius, fighter from Paesus, killed by Great
+Amphoterus        P0 Amphoterus, Trojan warrior killed by Patroclus
+Amyntor           7L Amyntor, father of Phoenix
+Ancaeus           61 Ancaeus, wrestler once beaten by Nestor
+Anchialus         8E Anchialus, veteran Greek fighter slain by Hector
+Anchises          AI Anchises, father of Aeneas
+Andromache        AH Andromache, wife of Hector
+Anteia            29 Anteia, wife of Oeneus
+Antenor           AN Antenor, aged councilor to Priam
+Antilochus        AL Antilochus, son of Nestor
+Antimachus        36 Antimachus, Trojan councillor
+Antiphates        44 Antiphates, Trojan warrior killed by Leonteus
+Antiphonus        V2 Antiphonus, son of Priam
+Antiphus          0K Antiphus, brother of Mesthles, co-leader of Maeonian forces
+Antiphus_2        34 Antiphus, son of Priam, killed by Agamemnon
+Antiphus_3        9F Antiphus, grandson of Heracles, leader of troops from Dodecanese islands
+Aphareus          7T Aphareus, Greek captain of 100 spearmen, killed by Aeneas
+Aphrodite         AF Aphrodite (Venus), daughter of Zeus and Dione, roots for Trojans
+Apisaon           3S Apisaon, Trojan warrior killed by Eurypylus
+Apisaon_2         N1 Apisaon, Trojan warrior killed by Lycomedes
+Apollo            AP Apollo, son of Zeus and Leto, roots for Trojans
+Arcesilaus        9Z Arcesilaus, Boeotian leader
+Archelochus       01 Archelochus, son of Antenor, lieutenant of Aeneas
+Archeptolemus     2L Archeptolemus, Eniopeus's replacement
+Archesilaus       5W Archesilaus, friend of Menestheus, killed by Hector
+Areilycus         C0 Areilycus, Trojan warrior killed by Patroclus
+Areilycus_2       60 Areilycus, Greek warrior killed by Polydamus
+Areithous         G2 Areithous, driver of Rhigmus, killed by Achilles
+Areithous_2       7Y Areithous, king of Arne in Thrace
+Ares              AR Ares (Mars), son of Zeus, roots for Trojans
+Aretaon           24 Aretaon, Trojan soldier killed by Teucer
+Aretus            O1 Aretus, son of Priam, killed by Automedon
+Ariadne           8Z Ariadne, daughter of Minos
+Artemis           AM Artemis (Cynthia/Diana), daughter of Zeus and Leto, roots for Trojans
+Asaeus            77 Asaeus, Greek warrior killed by Hector
+Ascalaphus        9X Ascalaphus, twin brother of Ialmenus
+Ascanius          0I Ascanius, godlike co-leader of Phrygian forces
+Ascanius_2        4L Ascanius, Trojan warrior
+Asclepius         97 Asclepius, famous physician, father of Machaon and Podaleirius
+Asius             06 Asius, leader of Hellespontian forces
+Assaracus         R1 Assaracus, son of Tros, grandfather of Aeneas
+Asteropaeus       3V Asteropaeus, leader of the Paeonians
+Astyalus          22 Astyalus, Trojan killed by Polypoetes
+Astynous          17 Astynous, Trojan killed by Diomedes
+Astynous_2        4X Astynous, charioteer for Polydamus
+Astyoche          9V Astyoche, mother of Ascalaphus and Ialmenus
+Astyocheia        9J Astyocheia, captured at Ephyra by Heracles
+Astypylus         N2 Astypylus, charioteer from Paeonia killed by Achilles
+Ate               MC Ate, goddess of mischief, eldest daughter of Zeus
+Athene            AT Athene (Minerva), daughter of Zeus, favors Greeks
+Atreus            AS Atreus, high king, father of Agamemnon and Menelaus
+Atymnius          F0 Atymnius, friend of Sarpedon, Trojan warrior killed by Antilochus
+Augeias           AU Augeias, king in Elis, stables cleaned by Heracles
+Autolycus         7C Autolycus, sly grandfather of Odysseus
+Automedon         AD Automedon, charioteer of Achilles
+Autonous          B1 Autonous, Trojan warrior killed by Patroclus
+Autonous_2        76 Autonous, Greek warrior killed by Hector
+Axius             RA Axius, god of river in Macedonia
+Axylus            1V Axylus, popular nobleman in suburban Troy, killed by Diomedes
+Bathycles         5C Bathycles, wealthy Myrmidon, killed by Glaucus
+Bellerophon       BL Bellerophon, king of Lycia after killing Chimera, Solymi, Amazons
+Bias              6I Bias, lieutenant of Menestheus
+Bias_2            8T Bias, Pylian commander
+Bienor            32 Bienor, Trojan commander killed by Agamemnon
+Boreas            BO Boreas, the north wind
+Borus             5L Borus, putative father of Menestheus_2
+Briseis           BR Briseis, prize in Achilles harem
+Bucolion          21 Bucolion, illegitimate eldest son of Laomedon
+Calchas           CA Calchas, wise prophet
+Caletor           4V Caletor, son of Clytius, killed by Great
+Calysius          1W Calysius, charioteer of Axylus, killed by Diomedes
+Cassandra         4A Cassandra, prophetess, daughter of Priam
+Castor            CT Castor, brother of Helen, tamer of horses
+Cebriones         2W Cebriones, half-brother of Hector, Archeptolemus's replacement
+Charis            CI Charis, wife of Hephaestus
+Charops           3L Charops, Trojan warrior, brother of Socus, killed by Odysseus
+Chersidamas       3K Chersidamas, Trojan warrior killed by Odysseus
+Chimera           CM Chimera, monster with head of lioness and tail of snake
+Chiron            CN Chiron, centaur, instructor of Asclepius and Achilles
+Chromius          0F Chromius, co-leader of Mysian forces
+Chromius_2        1E Chromius, son of Priam, killed by Diomedes
+Chromius_3        1O Chromius, Lycian speared by Odysseus
+Chromius_4        2R Chromius, Trojan warrior shot by Teucer
+Chromius_5        8V Chromius, Pylian commander
+Chryseis          CS Chryseis, daughter of Chryses
+Chryses           CH Chryses, priest of Apollo
+Chrysothemis      7P Chrysothemis, daughter of Agamemnon
+Cinyras           78 Cinyras, king of Cyprus
+Cisses            3A Cisses, father of Theano, guardian of Iphidamus
+Cleitus           4W Cleitus, Trojan warrior killed by Teucer
+Cleobolus         I0 Cleobolus, Trojan warrior killed by Little
+Cleopatra         7H Cleopatra, wife of Meleager, daughter of Idas and Marpessa
+Clonius           9Y Clonius, Boeotian leader slain by Agenor
+Clymene           CL Clymene, Trojan lady in waiting, cow-eyed
+Clysonomus        86 Clysonomus, boy killed in quarrel by young Patroclus
+Clytia            7K Clytia, beautiful slave girl of Amyntor
+Clytius           0Q Clytius, brother of Priam
+Clytomedes        63 Clytomedes, boxer once beaten by Nestor
+Coeranus          1M Coeranus, Lycian speared by Odysseus
+Coeranus_2        59 Coeranus, charioteer of Meriones, killed by Hector
+Coon              3B Coon, eldest son of Antenor, killed by Agamemnon after wounding him
+Copreus           5Q Copreus, herald of Eurystheus
+Crethon           8H Crethon, twin brother of Orsilochus_2, lopped down by Aeneas
+Croesmus          4Z Croesmus, Trojan warrior killed by Meges
+Cronus            CR Cronus (Saturn), father of Hades, Poseidon, Zeus
+Daedalus          8Y Daedalus, Athenian architect
+Daetor            2Q Daetor, Trojan warrior shot by Teucer
+Damasus           41 Damasus, Trojan warrior killed by Polypoetes
+Danae             68 Danae, mother of Perseus, had beautiful ankles
+Dardanus          A2 Dardanus, brother of Loagonus, killed by Achilles
+Dares             10 Dares, noble priest of Hephaestus in Troy
+Death             DE Death, twin brother of Sleep
+Deicoon           1H Deicoon, friend of Aeneas, killed by Agamemnon
+Deiochus          5U Deiochus, Greek warrior killed by Paris
+Deiopites         3H Deiopites, Trojan warrior killed by Odysseus
+Deiphobus         DP Deiphobus, son of Priam and Hecuba
+Deipyle           6F Deipyle, mother of Diomedes
+Deipylus          8L Deipylus, companion of Sthenelus
+Deipyrus          7S Deipyrus, Greek captain of 100 spearmen, killed by Helenus
+Deisenor          M1 Deisenor, Trojan leader
+Demeter           DM Demeter (Ceres), goddess with beautiful hair, mother of Persephone
+Democoon          0X Democoon, bastard son of Priam, killed by Odysseus
+Demoleon          U1 Demoleon, son of Antenor, killed by Achilles
+Demuchus          Y1 Demuchus, Trojan warrior killed by Achilles
+Deucalion         E2 Deucalion, Trojan warrior killed by Achilles
+Dia               69 Dia, mother of Peirithous
+Diomede           7E Diomede, slave girl captured by Achilles on Lesbos
+Diomedes          DI Diomedes, king of middle Argos, Tiryns, and Aegina
+Dione             DN Dione, consort of Zeus
+Dionysus          DT Dionysus (Bacchus), god of wine
+Diores            9M Diores, leader of an Epeian flotilla, killed by Peirous
+Dius              X2 Dius, arrogant son of Priam
+Dolon             2X Dolon, rich, swift-footed, ugly Trojan
+Dolops            A0 Dolops, son of Lampus, killed by Menelaus
+Dolops_2          74 Dolops, Greek warrior killed by Hector
+Doryclus          3N Doryclus, illegitmate son of Priam, killed by Great
+Dracius           6G Dracius, lieutenant of Meges
+Dresus            1X Dresus, Trojan killed by Euryalus
+Dryops            X1 Dryops, Trojan warrior killed by Achilles
+Echecles          5I Echecles, married Polymele after Eudorus was born
+Echeclus          C1 Echeclus, Trojan warrior killed by Patroclus
+Echeclus_2        D2 Echeclus, son of Agenor, Trojan warrior killed by Achilles
+Echemmon          1D Echemmon, son of Priam, killed by Diomedes
+Echepolus         0V Echepolus, killed by Antilochus
+Echepolus_2       6C Echepolus, subject of Agamemnon who avoids the war
+Echius            S0 Echius, Trojan warrior killed by Patroclus
+Echius_2          7V Echius, father of Mecisteus_2
+Eeriboea          EE Eeriboea, stepmother of Ephialtes and Otus
+Eetion            2I Eetion, king of Cilicia, father of Andromache
+Eetion_2          H2 Eetion, guest-friend of Priam
+Eileithyia        5G Eileithyia, daughter of Hera, goddess of childbirth
+Eioneus           80 Eioneus, Greek from Magnesia, slain by Hector
+Elasus            G1 Elasus, Trojan warrior killed by Patroclus
+Elatus            26 Elatus, soldier from Pedasus, killed by Agamemnon
+Elephenor         9S Elephenor, leader of the long-haired Abantes
+Eniopeus          2K Eniopeus, Hector's charioteer, killed by Diomedes
+Ennomus           0G Ennomus, augur and co-leader of Mysian forces
+Ennomus_2         3J Ennomus, Trojan warrior killed by Odysseus
+Enyo              EN Enyo (Bellona), goddess of war
+Eos               EO Eos (Aurora), rosy-fingered and saffron-robed goddess of dawn
+Epaltes           Q0 Epaltes, Trojan warrior killed by Patroclus
+Epeigeus          5D Epeigeus, Myrmidon leader killed by Hector
+Epeius            56 Epeius, huge Greek warrior, champion boxer
+Ephialtes         EF Ephialtes, giant, brother of Otus
+Epicles           47 Epicles, comrade of Sarpedon, killed by Great
+Epistor           E1 Epistor, Trojan warrior killed by Patroclus
+Epistrophus       0E Epistrophus, co-leader of Halizonian forces
+Epistrophus_2     9D Epistrophus, brother of Mynes, slain by Achilles
+Epistrophus_3     9T Epistrophus, son of Iphitus, Phocian leader
+Erechtheus        9R Erechtheus, ancient ruler of Athens
+Ereuthalion       7W Ereuthalion, favorite squire of Lycurgus
+Erichtonius       S1 Erichtonius, richest man alive, father of Tros
+Erinnyes          ER Erinnyes (Furies), goddesses of vengeance
+Erymas            K0 Erymas, Trojan warrior killed by Idomeneus
+Erymas_2          O0 Erymas, Trojan warrior killed by Patroclus
+Eteocles          8P Eteocles, brother of Polyneices
+Euchenor          6L Euchenor, son of Polyidus, killed by Paris
+Eudorus           5K Eudorus, Myrmidon leader, son of Hermes and Polymele
+Eumelus           9A Eumelus, leader of Thessalian contingent
+Euneus            8I Euneus, king of Lemnos, son of Janos and Hypsipyle
+Euphemus          0A Euphemus, leader of Ciconian spearmen
+Euphorbus         J1 Euphorbus, son of Panthous, killed by Menelaus after wounding Patroclus
+Europa            64 Europa, mother of Rhadamanthus and Minos
+Eurus             EU Eurus, the east wind
+Euryalus          EA Euryalus, lieutenant of Diomedes
+Euryalus_2        N0 Euryalus, Trojan warrior killed by Patroclus
+Eurybates         EB Eurybates, herald of Agamemnon
+Eurymedon         EM Eurymedon, Greek charioteer
+Eurynome          90 Eurynome, daughter of Oceanus
+Eurypylus         EP Eurypylus, leader of forty ships from Thessaly
+Eurystheus        7U Eurystheus, king of Mycenae, made Heracles labor
+Evippus           V0 Evippus, Trojan warrior killed by Patroclus
+False             FD False Dream, messenger of Zeus
+Ganymede          1G Ganymede, son of Tros, made cupbearer to Olympian by Zeus
+Glaucus           GL Glaucus, comrade and squire of Sarpedon, grandson of Bellerophon
+Glaucus_2         84 Glaucus, son of Sisyphus, father of Bellerophon
+Gorgythion        2V Gorgythion, son of Priam, shot by Teucer
+Graces            GR Graces, handmaidens of Aphrodite
+Great             AJ Great Ajax, king of Salamis
+Greek             GS Greek soldiers, collectively
+Guneus            92 Guneus, king of Cyphus, leader of Thessailian contingent
+Hades             HD Hades (Pluto), king of the underworld
+Haemon            8U Haemon, Pylian commander
+Halius            1Q Halius, Lycian speared by Odysseus
+Harpalion         4G Harpalion, son of Pylaemenes, killed by Meriones
+Hebe              HB Hebe, daughter of Zeus and Hera, goddess of youth
+Hecamede          6Y Hecamede, female slave presented by Achilles to Nestor
+Hector            HT Hector, eldest son of Priam and Hecuba, brilliant commander of Trojan army
+Hecuba            HC Hecuba, wife of Priam, queen of Troy
+Helen             HL Helen, wife of Menelaus, brought to Troy by Paris
+Helenus           HN Helenus, son of Priam, soothsayer
+Helenus_2         8A Helenus, Greek fighter, slain by Hector
+Hephaestus        HP Hephaestus (Vulcan), crippled son of Zeus and Hera, favors Greeks
+Hera              HE Hera (Juno), wife of Zeus, favors Greeks
+Heracles          HR Heracles (Hercules), heroic strong man
+Hermes            HM Hermes (Mercury), son of Zeus, slightly favors the Greeks
+Hesione           1L Hesione, daughter of Laomedon, rescued by Heracles
+Hicetaon          0R Hicetaon, brother of Priam
+Hippocoon         2Z Hippocoon, cousin of Rhesus
+Hippodameia       4C Hippodameia, talented eldest daughter of Anchises
+Hippodamus        3E Hippodamus, Trojan warrior killed by Odysseus
+Hippodamus_2      V1 Hippodamus, driver of Demoleon, killed by Achilles
+Hippolochus       2D Hippolochus, son of Bellerophon and Philonoe, father of Glaucus
+Hippolochus_2     38 Hippolochus, son of Antimachus, killed by Agamemnon
+Hipponous         6Z Hipponous, Greek warrior killed by Hector
+Hippothous        07 Hippothous, twin brother of Pylaeus, co-leader of Pelasgians
+Hippothous_2      W2 Hippothous, son of Priam
+Hippotion         4R Hippotion, Trojan warrior killed by Meriones
+Homer             HO Homer, the poet
+Hours             HA Hours (Horae), goddesses of the seasons
+Hypeirochus       3F Hypeirochus, Trojan warrior killed by Odysseus
+Hypeiron          18 Hypeiron, Trojan killed by Diomedes
+Hyperenor         4U Hyperenor, son of Panthous, Trojan warrior killed by Menelaus
+Hypsenor          16 Hypsenor, son of Trojan priest, killed by Eurypylus
+Hypsenor_2        6N Hypsenor, Greek warrior slain by Deiphobus
+Hypsipyle         6D Hypsipyle, wife of Jason
+Hyrtius           4P Hyrtius, Trojan warrior killed by Great
+Ialmenus          9W Ialmenus, son of Ares and Astyoche, leader of Minyans
+Iamenus           3X Iamenus, fighter with Asius
+Iamenus_2         46 Iamenus, Trojan warrior killed by Leonteus
+Iasus             5V Iasus, Athenian leader killed by Aeneas
+Idaeus            IA Idaeus, Trojan herald
+Idaeus_2          0Z Idaeus, brother of Phegeus, saved by Hephaestus
+Idas              7G Idas, strongest man of his day
+Idomeneus         ID Idomeneus, king of Crete
+Ilioneus          4O Ilioneus, Trojan warrior killed by Peneleos
+Ilus              Q1 Ilus, son of Tros, ancient king of Troy
+Imbrius           48 Imbrius, husband of Medesicaste, killed by Teucer
+Iobates           2A Iobates, ancient king of Lycia, father of Anteia and Philonoe
+Ipheus            U0 Ipheus, Trojan warrior killed by Patroclus
+Iphianassa        7N Iphianassa, daughter of Agamemnon
+Iphiclus          5Y Iphiclus, runner once beaten by Nestor
+Iphidamus         39 Iphidamus, son of Antenor and Theano, killed by Agamemnon
+Iphinous          7Z Iphinous, Greek warrior slain by Glaucus
+Iphis             7D Iphis, slave girl captured by Achilles on Scyros
+Iphition          T1 Iphition, Trojan warrior killed by Achilles
+Iris              IR Iris, golden-winged Olympian messenger
+Isander           2C Isander, son of Bellerophon and Philonoe
+Isus              35 Isus, illegitimate son of Priam, killed by Agamemnon
+Itymoneus         6X Itymoneus, Elean cattleman killed by Nestor
+Janos             6E Janos, leader of the Argonauts
+Lampus            0P Lampus, brother of Priam
+Laodamas          4Y Laodamas, Trojan warrior killed by Great
+Laodameia         2E Laodameia, daughter of Bellerophon and Philonoe
+Laodice           LA Laodice, loveliest daughter of Priam and Hecuba
+Laodice_2         7O Laodice, daughter of Agamemnon
+Laodocus          58 Laodocus, comrade of Antilochus
+Laogonus          Z0 Laogonus, Trojan warrior killed by Meriones
+Laomedon          1K Laomedon, king of Troy, father of Priam, killed by Heracles
+Laothoe           I2 Laothoe, concubine of Priam
+Leiocritus        5B Leiocritus, Greek warrior killed by Aeneas
+Leitus            LT Leitus, leader of Boeotians
+Leonteus          93 Leonteus, co-leader with Polypoetes of Thessalian contingent
+Leto              LE Leto (Latona), mother of Artemis and Apollo
+Leucus            8M Leucus, companion of Odysseus
+Licymnius         9I Licymnius, uncle of Heracles, murdered by Tlepolemus
+Little            AX Little Ajax, king of Locris, handiest with a spear
+Loagonus          Z1 Loagonus, Trojan warrior killed by Achilles
+Lycaon            LY Lycaon, brother of Paris
+Lycomedes         7R Lycomedes, Greek captain of 100 spearmen
+Lycon             J0 Lycon, Trojan warrior killed by Peneleos
+Lycophontes       2S Lycophontes, Trojan warrior shot by Teucer
+Lycophron         5T Lycophron, squire of Great, killed by Hector
+Lycurgus          7X Lycurgus, Arcadian warrior, killer of Areithous_2
+Lycurgus_2        87 Lycurgus, king of the Edonians
+Lysander          3P Lysander, Trojan warrior killed by Great
+Machaon           95 Machaon, physician and co-leader of Thessalian contingent
+Maeon             8O Maeon, Theban warrior, spared by Tydeus
+Maris             G0 Maris, friend of Sarpedon, Trojan warrior killed by Thrasymedes
+Marpessa          7F Marpessa, had beautiful ankles
+Mecisteus         55 Mecisteus, father of Euryalus
+Mecisteus_2       6M Mecisteus, companion of Antilochus, killed by Polydamus
+Medesicaste       49 Medesicaste, illegitimate daughter of Priam
+Medon             K1 Medon, Trojan leader
+Medon_2           98 Medon, step-brother of Little, replaced Philoctetes as leader of Thessalian contingent
+Meges             MG Meges, son of Phylus, flotilla leader from western islands
+Melanippus        2U Melanippus, Trojan warrior shot by Teucer
+Melanippus_2      B0 Melanippus, neighber of Priam, killed by Antilochus
+Melanippus_3      F1 Melanippus, Trojan warrior killed by Patroclus
+Melanippus_4      8K Melanippus, Greek leader
+Melanthius        28 Melanthius, Trojan soldier killed by Eurypylus
+Melas             51 Melas, brother of Oeneus
+Meleager          7J Meleager, son of Oeneus and Althea
+Menelaus          ME Menelaus, brother of Agamemnon, king of Sparta
+Menesthes         8F Menesthes, veteran Greek fighter dispatched by Hector
+Menestheus        MT Menestheus, Athenian leader, renowned chariot-fighter
+Menestheus_2      5O Menestheus, Myrmidon leader, son of Polydora and Spercheius
+Menesthius        81 Menesthius, son of Areithous_2, killed by Paris
+Menoetius         6S Menoetius, father of Patroclus
+Menon             45 Menon, Trojan warrior killed by Leonteus
+Meriones          MR Meriones, comrade and squire of Idomeneus
+Mermerus          4Q Mermerus, Trojan warrior killed by Antilochus
+Merops            05 Merops, king of Percote, soothsayer
+Mesthles          0J Mesthles, brother of Antiphus, co-leader of Maeonian forces
+Mestor            30 Mestor, deceased son of Priam
+Minos             66 Minos, ancient king of Crete
+Mnesus            O2 Mnesus, charioteer from Paeonia killed by Achilles
+Moira             MO Moira, personification of Fate
+Molion            3D Molion, charioteer of Thymbraeus, killed by Odysseus
+Moliones          5A Moliones, twin brothers, purported sons of Actor
+Moliones_2        6T Moliones, twin sons of Poseidon
+Molus             7A Molus, father of Meriones
+Morys             4M Morys, Trojan warrior killed by Meriones
+Mulius            H1 Mulius, Trojan warrior killed by Patroclus
+Mulius_2          C2 Mulius, Trojan warrior killed by Achilles
+Mulius_3          6U Mulius, husband of Agamede, killed by Nestor
+Muses             MU Muses, nine sisters who like to sing
+Mydon             1I Mydon, Pylaemenes's driver, killed by Antilochus
+Mydon_2           M2 Mydon, charioteer from Paeonia killed by Achilles
+Mygdon            0U Mygdon, king of Phrygia
+Mynes             9E Mynes, spearman slain by Achilles
+Nastes            0L Nastes, brother of Amphimachus, co-leader of Carian forces
+Neleus            6W Neleus, king of Pylos, father of Nestor
+Nereids           NR Nereids, sisters of Thetis
+Nestor            NE Nestor, venerable king of Pylus and Dorium
+Night             NI Night, goddess of nighttime
+Niobe             53 Niobe, queen of Thebes
+Nireus            9H Nireus, Symian leader, handsomest Greek excluding Achilles
+Noemon            1R Noemon, Lycian speared by Odysseus
+Noemon_2          6B Noemon, comrade of Antilochus
+Notus             NO Notus, the south wind
+Oceanus           OC Oceanus, father of all streams
+Odius             0D Odius, co-leader of Halizonian forces
+Odius_2           7M Odius, Greek herald
+Odysseus          OD Odysseus (Ulysses), crafty king of Ithaca
+Oedipus           54 Oedipus, king of Thebes
+Oeneus            82 Oeneus, king of Calydon
+Oenomaus          40 Oenomaus, fighter with Asius
+Oileus            33 Oileus, charioteer of Bienor, killed by Agamemnon
+Olympian          OG Olympian gods, collectively
+Ophelestes        2P Ophelestes, Trojan warrior shot by Teucer
+Ophelestes_2      R2 Ophelestes, charioteer from Paeonia killed by Achilles
+Opheltius         1Y Opheltius, Trojan killed by Euryalus
+Opheltius_2       73 Opheltius, Greek warrior killed by Hector
+Opites            75 Opites, Greek warrior killed by Hector
+Oresbius          89 Oresbius, Boeotian landowner, slain by Hector
+Orestes           3Y Orestes, fighter with Asius, killed by Leonteus
+Orestes_2         7Q Orestes, son of Agamemnon, student deferred from draft
+Orestes_3         8C Orestes, Greek charioteer, slain by Hector
+Ormenus           2O Ormenus, Trojan warrior shot by Teucer
+Ormenus_2         43 Ormenus, Trojan warrior killed by Polypoetes
+Orsilochus        2N Orsilochus, Trojan warrior shot by Teucer
+Orsilochus_2      8G Orsilochus, twin brother of Crethon, lopped down by Aeneas
+Orthaeus          4I Orthaeus, Trojan warrior
+Orus              70 Orus, Greek warrior killed by Hector
+Othryoneus        4B Othryoneus, suitor of Cassandra, killed by Idomeneus
+Otreus            0T Otreus, king of Phrygia
+Otus              OT Otus, giant, brother of Ephialtes
+Otus_2            5R Otus, comrade of Meges, killed by Polydamus
+Palmys            4K Palmys, Trojan warrior
+Pammon            U2 Pammon, son of Priam
+Pandarus          PN Pandarus, son of Lycaon, archer who breaks truce
+Pandion           6Q Pandion, bow-bearer of Teucer
+Pandocus          3O Pandocus, Trojan warrior killed by Great
+Panthous          0N Panthous, Trojan elder, formerly priest at Delphi
+Paris             PS Paris (Alexander), son of Priam and friend of Aphrodite
+Patroclus         PA Patroclus, righthand man of Achilles
+Pedaeus           15 Pedaeus, son of Antenor but not Theano, killed by Meges
+Pedasus           20 Pedasus, twin brother of Aesepus, killed by Euryalus
+Peirithous        6A Peirithous, son of Zeus and Dia, king of the Lapiths
+Peirous           09 Peirous, chief of Thracians, killed by Thoas_2
+Peisander         37 Peisander, son of Antimachus, killed by Agamemnon
+Peisander_2       4F Peisander, Trojan warrior killed by Menelaus
+Peisander_3       5F Peisander, Myrmidon leader
+Pelagon           1T Pelagon, attendant of Sarpedon
+Pelagon_2         8X Pelagon, Pylian commander
+Pelegon           J2 Pelegon, father of Asteropaeus, son of Axius and Periboea
+Peleus            PE Peleus, father of Achilles
+Pelops            PC Pelops, charioteer god
+Peneleos          PB Peneleos, leader of Boeotians
+Periboea          K2 Periboea, mother of Pelegon
+Perimus           D1 Perimus, Trojan warrior killed by Patroclus
+Periphas          88 Periphas, huge fighter, bravest of the Aetolians
+Periphetes        4T Periphetes, Trojan warrior killed by Teucer
+Periphetes_2      5P Periphetes, son of Copreus
+Persephone        PP Persephone (Proserpina), wife of Hades, queen of nether world
+Perseus           67 Perseus, Greek hero
+Phaestus          11 Phaestus, son of Maeonian nobleman, speared by Idomeneus
+Phalces           4H Phalces, Trojan warrior, killed by Antilochus
+Phegeus           0Y Phegeus, son of Dares, killed by Diomedes
+Pheidas           6J Pheidas, lieutenant of Menestheus
+Pheidippus        9G Pheidippus, brother of Antiphus_3, leader of troops from Dodecanese islands
+Phereclus         13 Phereclus, Trojan shipbuilder, killed by Meriones
+Philoctetes       99 Philoctetes, famous archer bitten by a snake
+Philonoe          2B Philonoe, wife of Bellerophon
+Phoenix           PX Phoenix, king of Dolopians, tutor and foster father of Achilles
+Phorcys           0H Phorcys, co-leader of Phrygian forces
+Phylacus          27 Phylacus, Trojan soldier killed by Leitus
+Phylas            5H Phylas, father of Polymele
+Phyleus           5X Phyleus, javelin-thrower once beaten by Nestor
+Phylus            FY Phylus, son of Augeias, horseman favored by Zeus
+Pidytes           23 Pidytes, warrior from Percote, killed by Odysseus
+Podaleirius       96 Podaleirius, physician and co-leader of Thessalian contingent
+Podarces          9B Podarces, brother of Protesilaus, leader of Thessalian contingent
+Podarge           PH Podarge, a harpy (snatcher)
+Podes             P1 Podes, son of Eetion, killed by Menelaus
+Polites           PL Polites, son of Priam
+Polybus           31 Polybus, son of Antenor
+Polydamus         PD Polydamus, Trojan prince, son of Panthous
+Polydeuces        PU Polydeuces (Pollux), twin brother of Castor, boxer
+Polydora          5N Polydora, sister of Achilles
+Polydorus         W1 Polydorus, youngest and favorite son of Priam, killed by Achilles
+Polydorus_2       5M Polydorus, javelin-thrower once beaten by Nestor
+Polyeidus         1A Polyeidus, son of Trojan soothsayer, killed by Diomedes
+Polyidus          6K Polyidus, seer from Corinth
+Polymele          5J Polymele, singer and dancer
+Polymelus         W0 Polymelus, Trojan warrior killed by Patroclus
+Polyneices        8Q Polyneices, king of Thebes
+Polyphetes        4J Polyphetes, Trojan warrior
+Polypoetes        94 Polypoetes, son of Peirithous, co-leader of Thessalian contingent
+Polyxeinus        9L Polyxeinus, leader of an Epeian flotilla
+Popyphontes       8N Popyphontes, Theban warrior, killed by Tydeus
+Poseidon          PO Poseidon (Neptune), king of the sea, favors Greeks
+Priam             PR Priam, king of Troy, son of Laomedon
+Proetus           83 Proetus, king of Tiryns, overlord of Bellerophon
+Promachus         5Z Promachus, Greek warrior killed by Acamas
+Pronous           L0 Pronous, Trojan warrior killed by Patroclus
+Protesilaus       9C Protesilaus, the first Greek to land and the first casualty
+Prothoenor        PT Prothoenor, Boeotian chief
+Prothoon          4S Prothoon, Trojan warrior killed by Teucer
+Prothous          91 Prothous, commander of Magnesian forces
+Prytanis          1S Prytanis, Lycian speared by Odysseus
+Pylaemenes        0C Pylaemenes, leader of Paphlagonian forces
+Pylaeus           08 Pylaeus, twin brother of Hippothous, co-leader of Pelasgians
+Pylartes          3R Pylartes, Trojan warrior killed by Great
+Pylartes_2        I1 Pylartes, Trojan warrior killed by Patroclus
+Pylon             42 Pylon, Trojan warrior killed by Polypoetes
+Pyraechmes        0B Pyraechmes, leader of Paeonian archers
+Pyrasus           3Q Pyrasus, Trojan warrior killed by Great
+Pyris             T0 Pyris, Trojan warrior killed by Patroclus
+Rhadamanthus      65 Rhadamanthus, brother of Minos
+Rhea              RH Rhea, consort of Cronus, mother of Zeus, Hera, Poseidon, Hades
+Rhesus            2Y Rhesus, Thracian king, murdured in sleep by Diomedes
+Rhigmus           F2 Rhigmus, Trojan warrior killed by Achilles
+Robots            RO Robots, golden handmaidens fabricated by Hephaestus
+Rumor             RU Rumor, goddess and servant of Zeus
+Sarpedon          SA Sarpedon, son of Zeus and Laodameia, leader of the Lycians
+Satnius           4N Satnius, Trojan warrior killed by Little
+Scamandrius       12 Scamandrius, Trojan archer trained by Artemis, speared by Menelaus
+Scamandrius_2     2J Scamandrius, infant son of Hector and Andromache, nicknamed Astyanax
+Schedius          5S Schedius, Greek warrior killed by Hector
+Schedius_2        9U Schedius, son of Iphitus, Phocian leader
+Semele            SE Semele, mother of Dionysus
+Simoeis           SI Simoeis, river god, tributary of Xanthus
+Simoeisius        0W Simoeisius, killed by Great
+Sisyphus          85 Sisyphus, crafty son of Aeolus
+Sleep             SL Sleep, twin brother of Death
+Socus             3M Socus, wealthy Trojan warrior, killed by Odysseus
+Solymi            2F Solymi, Lycian tribe
+Spercheius        SP Spercheius, tireless river god
+Sthenelaus        Y0 Sthenelaus, Trojan warrior killed by Patroclus
+Sthenelus         ST Sthenelus, lieutenant of Diomedes
+Stichius          6O Stichius, lieutenant of Menestheus, killed by Hector
+Strife            SF Strife, twin of Ares
+Talthybius        TA Talthybius, herald of Agamemnon
+Telamon           TE Telamon, father of Great and Teucer
+Tethys            TT Tethys, wife of Oceanus
+Teucer            TU Teucer, half brother of Great
+Teuthras          8D Teuthras, Greek from Magnesia, slain by Hector
+Thalpius          9N Thalpius, leader of an Epeian flotilla
+Thamyris          9Q Thamyris, Thracian bard
+Theano            14 Theano, wife of Antenor, priestess of Athene
+Themis            TI Themis, fair-cheeked goddess of law
+Thersilochus      L1 Thersilochus, Trojan leader
+Thersilochus_2    L2 Thersilochus, charioteer from Paeonia killed by Achilles
+Thersites         TR Thersites, ugliest man in Greek army
+Thestor           M0 Thestor, Trojan warrior killed by Patroclus
+Thetis            TH Thetis, sea nymph, mother of Achilles
+Thoas             D0 Thoas, Trojan warrior killed by Menelaus
+Thoas_2           9K Thoas, leader of Aetolians
+Thoon             1C Thoon, brother of Xanthus_3, killed by Diomedes
+Thoon_2           3I Thoon, Trojan warrior killed by Odysseus
+Thoon_3           3Z Thoon, fighter with Asius, killed by Antilochus
+Thootes           6R Thootes, Greek herald
+Thrasius          P2 Thrasius, charioteer from Paeonia killed by Achilles
+Thrasymedes       TM Thrasymedes, son of Nestor
+Thrasymelus       X0 Thrasymelus, charioteer of Sarpedon, killed by Patroclus
+Thyestes          TY Thyestes, sheep breeder, brother of Atreus
+Thymbraeus        3C Thymbraeus, Trojan warrior killed by Diomedes
+Thymoetes         0O Thymoetes, Trojan elder
+Tithonus          79 Tithonus, son of Laomedon, mortal consort of Eos
+Tlepolemus        TL Tlepolemus, son of Heracles and Astyocheia, king of Rhodes
+Tlepolemus_2      R0 Tlepolemus, Trojan warrior killed by Patroclus
+Trechus           8B Trechus, Aetolian fighter, slain by Hector
+Troilus           3U Troilus, deceased son of Priam
+Trojan            TS Trojan soldiers, collectively
+Trojan_2          2H Trojan noblewomen, assembled by Hecuba
+Tros              1F Tros, ancient king of Troy
+Tros_2            B2 Tros, son of Alastor, Trojan warrior killed by Achilles
+Tydeus            8R Tydeus, king of Calydon, son of Oeneus, father of Diomedes
+Ucalegon          0S Ucalegon, Trojan elder
+Xanthus           XA Xanthus, son of Zeus, god of the river Scamander
+Xanthus_2         XB Xanthus and Balius, Achilles's divine horses, sired by Zephyr
+Xanthus_3         1B Xanthus, brother of Thoon, killed by Diomedes
+Zephyr            ZF Zephyr, the west wind
+Zeus              ZE Zeus (Jove/Jupiter), king of the gods
