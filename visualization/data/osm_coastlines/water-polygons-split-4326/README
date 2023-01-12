@@ -1,0 +1,36 @@
+
+This data was downloaded from openstreetmapdata.com which offers
+extracts and processings of OpenStreetMap data.
+
+See http://openstreetmapdata.com/ for details.
+
+
+PACKAGE CONTENT
+===============
+
+This package contains OpenStreetMap data of the
+coastline water polygons, split into smaller parts
+
+Layers contained are:
+
+water_polygons.shp:
+
+  42508 Polygon features
+  WGS84 geographic coordinates
+  Extent: (-180.000, -90.000) - (180.000, 90.000)
+
+Date of the data used is 23 Dec 2017 04:45
+
+You can find more information on this data set at
+
+http://openstreetmapdata.com/data/water-polygons
+
+
+LICENSE
+=======
+
+This data is Copyright 2017 OpenStreetMap contributors. It is
+available under the Open Database License (ODbL).
+
+For more information see http://www.openstreetmap.org/copyright
+
