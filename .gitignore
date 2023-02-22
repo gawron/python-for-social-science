@@ -6,6 +6,7 @@ intro/functions_assignment-Copy1.ipynb
 intro/functions_assignment_answers_1_11.ipynb
 */*sidelined.ipynb
 examples/geograohic_data_notes.txt
+*/.ipynb_checkpoints/*
 
 # Compiled source #
 ###################
@@ -23,6 +24,7 @@ examples/geograohic_data_notes.txt
 *.7z
 *.dmg
 *.gz
+*.tgz
 *.iso
 *.jar
 *.rar
