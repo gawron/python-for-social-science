@@ -39,6 +39,7 @@ examples/geograohic_data_notes.txt
 
 # OS generated files #
 ######################
+intro/.DS_Store
 .DS_Store
 .DS_Store?
 ._*
