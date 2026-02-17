@@ -1,0 +1,21 @@
+git Added a github backup source for the data because some students were having trouble downloading data from gawron.sdsu.edu.
+
+
+Since there are no movies entitled "James Bond" in the data I gave you, this is the empty DataFrame.  This is a strange interpretation of the question.  The question asks about the role "James Bond", hence a value in the "character" column.  The leading role part adds the requirement that  "n==1".  There is nothing about the movie's title in the question.   Note: If you're using the original pycon cast data, this query gives the empty DataFrame.  Although there is a 2015 Indian movie entitled "James Bond", it has no characters named James Bond in it.
+
+
+Instead of `set(...)` the pandas way to do this is `.unique()` which returns an array of the unique values in a Pandas Series.
+
+Good opportunity to use Boolean constraints missed.  See the official solution.
+
+Issue: Poitier has played the same role in multiple movies ("Virgil Tibbs").  See official solution.
+
+This is way too many because you haven't dealt with the issue that the same actor often plays JB  in multiple movies, which is what all that discussion included with this question was asking you to do. -1
+
+This question is about the DECADE "1920s" not the year "1920".
+
+=========
+
+Part B
+
+If you hadn't reset your index, your answer would have been simpler because cast_count is a Series: `(cast_count ==  1).sum()`   When you reset the index you make cast_count a DataFrame, and so you have to specify the column "cast_size" == 1.  See solution

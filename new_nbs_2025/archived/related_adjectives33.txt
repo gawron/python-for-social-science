@@ -1,0 +1,1198 @@
+fever.n.02 Lemma('panic.n.01.affright')
+   
+repentance.n.01 Lemma('panic.n.01.affright')
+   Lemma('penitent.a.01.repentant') [repentant]
+   Lemma('penitentiary.s.01.penitentiary') [penitentiary]
+   Lemma('penitential.s.01.penitential') [penitential]
+   Lemma('penitent.a.01.penitent') [penitent]
+   
+pet.n.03 Lemma('panic.n.01.affright')
+   
+conflict.n.02 Lemma('panic.n.01.affright')
+   
+approbation.n.01 Lemma('panic.n.01.affright')
+   
+shame.n.01 Lemma('panic.n.01.affright')
+   
+unassertiveness.n.01 Lemma('panic.n.01.affright')
+   Lemma('unassertive.a.01.unassertive') [unassertive]
+   
+pleasure.n.01 Lemma('panic.n.01.affright')
+   Lemma('pleasant.a.01.pleasant') [pleasant]
+   
+wishfulness.n.01 Lemma('panic.n.01.affright')
+   Lemma('desirous.a.01.wishful') [wishful]
+   
+solicitude.n.01 Lemma('panic.n.01.affright')
+   Lemma('solicitous.s.01.solicitous') [solicitous]
+   
+cold_comfort.n.01 Lemma('panic.n.01.affright')
+   
+alarm.n.01 Lemma('panic.n.01.affright')
+   
+urge.n.02 Lemma('panic.n.01.affright')
+   
+elation.n.02 Lemma('panic.n.01.affright')
+   Lemma('light.a.05.light') [light]
+   
+sentiment.n.01 Lemma('panic.n.01.affright')
+   Lemma('sentimental.s.01.sentimental') [sentimental]
+   
+happiness.n.01 Lemma('panic.n.01.affright')
+   Lemma('felicitous.s.02.felicitous') [felicitous]
+   Lemma('felicitous.s.02.happy') [happy]
+   
+shyness.n.01 Lemma('panic.n.01.affright')
+   Lemma('diffident.a.02.shy') [shy]
+   
+fetish.n.01 Lemma('panic.n.01.affright')
+   
+animosity.n.01 Lemma('panic.n.01.affright')
+   
+hope.n.01 Lemma('panic.n.01.affright')
+   
+infuriation.n.01 Lemma('panic.n.01.affright')
+   
+captivation.n.02 Lemma('panic.n.01.affright')
+   
+poignance.n.01 Lemma('panic.n.01.affright')
+   Lemma('poignant.s.02.poignant') [poignant]
+   
+throes.n.01 Lemma('panic.n.01.affright')
+   
+sadomasochism.n.01 Lemma('panic.n.01.affright')
+   Lemma('sadomasochistic.a.01.sadomasochistic') [sadomasochistic]
+   
+edginess.n.01 Lemma('panic.n.01.affright')
+   Lemma('edgy.s.01.edgy') [edgy]
+   Lemma('uneasy.a.01.uneasy') [uneasy]
+   
+kindheartedness.n.01 Lemma('panic.n.01.affright')
+   Lemma('kindhearted.s.01.kindhearted') [kindhearted]
+   
+pensiveness.n.01 Lemma('panic.n.01.affright')
+   Lemma('brooding.s.01.pensive') [pensive]
+   
+exhilaration.n.01 Lemma('panic.n.01.affright')
+   
+passion.n.05 Lemma('panic.n.01.affright')
+   
+shadow.n.04 Lemma('panic.n.01.affright')
+   
+feelings.n.01 Lemma('panic.n.01.affright')
+   
+melancholy.n.01 Lemma('panic.n.01.affright')
+   
+anglophobia.n.01 Lemma('panic.n.01.affright')
+   Lemma('anglophobic.a.01.Anglophobic') [Anglophobic]
+   
+aggression.n.02 Lemma('panic.n.01.affright')
+   
+surprise.n.01 Lemma('panic.n.01.affright')
+   
+sadness.n.02 Lemma('panic.n.01.affright')
+   Lemma('sad.a.01.sad') [sad]
+   Lemma('sorrowful.a.01.sorrowful') [sorrowful]
+   
+inferiority_complex.n.01 Lemma('panic.n.01.affright')
+   
+sensuality.n.01 Lemma('panic.n.01.affright')
+   Lemma('animal.s.01.sensual') [sensual]
+   
+sadness.n.01 Lemma('panic.n.01.affright')
+   Lemma('sad.a.01.sad') [sad]
+   Lemma('dysphoric.a.01.unhappy') [unhappy]
+   
+astonishment.n.01 Lemma('panic.n.01.affright')
+   
+languor.n.02 Lemma('panic.n.01.affright')
+   Lemma('dispirited.s.01.listless') [listless]
+   
+pleasantness.n.01 Lemma('panic.n.01.affright')
+   Lemma('pleasant.s.02.pleasant') [pleasant]
+   
+worship.n.02 Lemma('panic.n.01.affright')
+   
+good_will.n.03 Lemma('panic.n.01.affright')
+   
+disgruntlement.n.01 Lemma('panic.n.01.affright')
+   
+lividity.n.01 Lemma('panic.n.01.affright')
+   Lemma('livid.s.03.livid') [livid]
+   
+enjoyment.n.01 Lemma('panic.n.01.affright')
+   
+demoralization.n.03 Lemma('panic.n.01.affright')
+   
+worry.n.02 Lemma('panic.n.01.affright')
+   
+coolness.n.01 Lemma('panic.n.01.affright')
+   Lemma('imperturbable.s.01.imperturbable') [imperturbable]
+   Lemma('cool.s.06.cool') [cool]
+   
+apathy.n.01 Lemma('panic.n.01.affright')
+   Lemma('apathetic.s.02.apathetic') [apathetic]
+   
+discomfiture.n.01 Lemma('panic.n.01.affright')
+   
+attachment.n.01 Lemma('panic.n.01.affright')
+   
+grief.n.01 Lemma('panic.n.01.affright')
+   Lemma('brokenhearted.s.01.brokenhearted') [brokenhearted]
+   
+titillation.n.01 Lemma('panic.n.01.affright')
+   
+afterglow.n.02 Lemma('panic.n.01.affright')
+   
+conscience.n.03 Lemma('panic.n.01.affright')
+   Lemma('conscientious.a.02.conscientious') [conscientious]
+   
+gratitude.n.01 Lemma('panic.n.01.affright')
+   
+contentment.n.01 Lemma('panic.n.01.affright')
+   
+technophobia.n.01 Lemma('panic.n.01.affright')
+   
+fury.n.01 Lemma('panic.n.01.affright')
+   Lemma('huffy.s.02.mad') [mad]
+   Lemma('angered.s.01.furious') [furious]
+   
+cruelty.n.02 Lemma('panic.n.01.affright')
+   Lemma('pitiless.s.02.pitiless') [pitiless]
+   Lemma('merciless.a.01.merciless') [merciless]
+   Lemma('pitiless.s.01.ruthless') [ruthless]
+   
+resignation.n.01 Lemma('panic.n.01.affright')
+   
+lovesickness.n.01 Lemma('panic.n.01.affright')
+   Lemma('lovesick.s.01.lovesick') [lovesick]
+   
+dudgeon.n.01 Lemma('panic.n.01.affright')
+   
+despondency.n.01 Lemma('panic.n.01.affright')
+   Lemma('despondent.s.01.despondent') [despondent]
+   Lemma('inconsolable.a.01.disconsolate') [disconsolate]
+   Lemma('brokenhearted.s.01.heartsick') [heartsick]
+   
+oedipus_complex.n.01 Lemma('panic.n.01.affright')
+   
+peace.n.03 Lemma('panic.n.01.affright')
+   
+comfort.n.02 Lemma('panic.n.01.affright')
+   
+longing.n.01 Lemma('panic.n.01.affright')
+   Lemma('athirst.s.01.hungry') [hungry]
+   
+sinking.n.03 Lemma('panic.n.01.affright')
+   
+heartstrings.n.01 Lemma('panic.n.01.affright')
+   
+unfriendliness.n.01 Lemma('panic.n.01.affright')
+   Lemma('unfriendly.s.03.unfriendly') [unfriendly]
+   
+impatience.n.02 Lemma('panic.n.01.affright')
+   Lemma('impatient.s.02.impatient') [impatient]
+   
+amusement.n.01 Lemma('panic.n.01.affright')
+   
+preference.n.01 Lemma('panic.n.01.affright')
+   
+calmness.n.03 Lemma('panic.n.01.affright')
+   Lemma('calm.s.01.calm') [calm]
+   
+temptation.n.02 Lemma('panic.n.01.affright')
+   
+algolagnia.n.01 Lemma('panic.n.01.affright')
+   Lemma('algolagnic.a.01.algolagnic') [algolagnic]
+   
+nymphomania.n.01 Lemma('panic.n.01.affright')
+   Lemma('nymphomaniacal.s.01.nymphomaniacal') [nymphomaniacal]
+   
+joie_de_vivre.n.01 Lemma('panic.n.01.affright')
+   
+agony.n.01 Lemma('panic.n.01.affright')
+   Lemma('agonal.a.01.agonal') [agonal]
+   Lemma('agonizing.s.01.torturous') [torturous]
+   
+fear.n.03 Lemma('panic.n.01.affright')
+   Lemma('godly.s.01.reverent') [reverent]
+   Lemma('respectful.s.02.reverential') [reverential]
+   
+intoxication.n.03 Lemma('panic.n.01.affright')
+   
+oversensitiveness.n.01 Lemma('panic.n.01.affright')
+   Lemma('oversensitive.s.01.oversensitive') [oversensitive]
+   
+good_humor.n.01 Lemma('panic.n.01.affright')
+   Lemma('amiable.s.01.amiable') [amiable]
+   
+fidget.n.01 Lemma('panic.n.01.affright')
+   Lemma('antsy.s.01.fidgety') [fidgety]
+   
+belonging.n.01 Lemma('panic.n.01.affright')
+   
+pining.n.01 Lemma('panic.n.01.affright')
+   
+growing_pains.n.02 Lemma('panic.n.01.affright')
+   
+suspense.n.03 Lemma('panic.n.01.affright')
+   
+sorrow.n.01 Lemma('panic.n.01.affright')
+   
+complacency.n.01 Lemma('panic.n.01.affright')
+   Lemma('complacent.s.01.self-complacent') [self-complacent]
+   Lemma('complacent.s.01.complacent') [complacent]
+   
+plaintiveness.n.01 Lemma('panic.n.01.affright')
+   Lemma('mournful.s.01.plaintive') [plaintive]
+   
+fatigue.n.03 Lemma('panic.n.01.affright')
+   
+scunner.n.01 Lemma('panic.n.01.affright')
+   
+sentimentality.n.02 Lemma('panic.n.01.affright')
+   Lemma('sentimental.s.01.sentimental') [sentimental]
+   
+hate.n.01 Lemma('panic.n.01.affright')
+   
+agape.n.01 Lemma('panic.n.01.affright')
+   
+self-pity.n.01 Lemma('panic.n.01.affright')
+   
+pride.n.02 Lemma('panic.n.01.affright')
+   
+heavyheartedness.n.01 Lemma('panic.n.01.affright')
+   Lemma('heavyhearted.s.01.heavyhearted') [heavyhearted]
+   
+distance.n.04 Lemma('panic.n.01.affright')
+   Lemma('aloof.s.01.distant') [distant]
+   
+bloodlust.n.01 Lemma('panic.n.01.affright')
+   
+sadism.n.01 Lemma('panic.n.01.affright')
+   Lemma('sadistic.a.01.sadistic') [sadistic]
+   
+diffidence.n.01 Lemma('panic.n.01.affright')
+   Lemma('diffident.s.01.diffident') [diffident]
+   
+aggravation.n.01 Lemma('panic.n.01.affright')
+   
+beneficence.n.01 Lemma('panic.n.01.affright')
+   Lemma('beneficent.a.01.beneficent') [beneficent]
+   
+nostalgia.n.01 Lemma('panic.n.01.affright')
+   Lemma('nostalgic.s.01.nostalgic') [nostalgic]
+   
+nirvana.n.01 Lemma('panic.n.01.affright')
+   
+scruple.n.02 Lemma('panic.n.01.affright')
+   Lemma('scrupulous.a.01.scrupulous') [scrupulous]
+   
+umbrage.n.01 Lemma('panic.n.01.affright')
+   Lemma('indignant.s.01.umbrageous') [umbrageous]
+   
+dislike.n.02 Lemma('panic.n.01.affright')
+   
+libido.n.01 Lemma('panic.n.01.affright')
+   Lemma('libidinal.a.01.libidinal') [libidinal]
+   Lemma('lascivious.s.01.libidinous') [libidinous]
+   
+ardor.n.02 Lemma('panic.n.01.affright')
+   
+stage_fright.n.01 Lemma('panic.n.01.affright')
+   
+masochism.n.01 Lemma('panic.n.01.affright')
+   Lemma('masochistic.a.01.masochistic') [masochistic]
+   
+heaviness.n.02 Lemma('panic.n.01.affright')
+   Lemma('heavy.a.04.heavy') [heavy]
+   
+awe.n.01 Lemma('panic.n.01.affright')
+   
+dolor.n.01 Lemma('panic.n.01.affright')
+   Lemma('dolorous.s.01.dolourous') [dolourous]
+   Lemma('dolorous.s.01.dolorous') [dolorous]
+   
+pride.n.01 Lemma('panic.n.01.affright')
+   Lemma('exultant.s.01.prideful') [prideful]
+   
+penis_envy.n.01 Lemma('panic.n.01.affright')
+   
+shamefacedness.n.01 Lemma('panic.n.01.affright')
+   Lemma('shamefaced.s.02.sheepish') [sheepish]
+   Lemma('guilty.s.02.shamefaced') [shamefaced]
+   
+wildness.n.01 Lemma('panic.n.01.affright')
+   Lemma('wild.s.03.wild') [wild]
+   
+carefreeness.n.01 Lemma('panic.n.01.affright')
+   Lemma('blithe.s.02.lightsome') [lightsome]
+   Lemma('carefree.s.02.carefree') [carefree]
+   Lemma('casual.s.01.insouciant') [insouciant]
+   Lemma('blithe.s.02.lighthearted') [lighthearted]
+   
+sensuousness.n.01 Lemma('panic.n.01.affright')
+   Lemma('sensuous.s.01.sensuous') [sensuous]
+   
+angst.n.01 Lemma('panic.n.01.affright')
+   
+optimism.n.01 Lemma('panic.n.01.affright')
+   Lemma('affirmative.s.02.optimistic') [optimistic]
+   
+comfortableness.n.02 Lemma('panic.n.01.affright')
+   Lemma('comfortable.a.02.comfortable') [comfortable]
+   
+dolefulness.n.01 Lemma('panic.n.01.affright')
+   Lemma('doleful.s.01.doleful') [doleful]
+   
+addiction.n.02 Lemma('panic.n.01.affright')
+   
+horror.n.01 Lemma('panic.n.01.affright')
+   
+buck_fever.n.01 Lemma('panic.n.01.affright')
+   
+complex.n.03 Lemma('panic.n.01.affright')
+   
+cold_feet.n.01 Lemma('panic.n.01.affright')
+   
+admiration.n.01 Lemma('panic.n.01.affright')
+   
+emotion.n.01 Lemma('panic.n.01.affright')
+   Lemma('emotional.a.03.emotional') [emotional]
+   
+despisal.n.01 Lemma('panic.n.01.affright')
+   
+peeve.n.01 Lemma('panic.n.01.affright')
+   
+gold_fever.n.01 Lemma('panic.n.01.affright')
+   
+contempt.n.01 Lemma('panic.n.01.affright')
+   Lemma('contemptuous.s.01.contemptuous') [contemptuous]
+   
+concern.n.02 Lemma('panic.n.01.affright')
+   
+blessedness.n.01 Lemma('panic.n.01.affright')
+   Lemma('blessed.s.06.blessed') [blessed]
+   
+suspense.n.01 Lemma('panic.n.01.affright')
+   
+silver_lining.n.01 Lemma('panic.n.01.affright')
+   
+intimidation.n.02 Lemma('panic.n.01.affright')
+   
+amour_propre.n.01 Lemma('panic.n.01.affright')
+   Lemma('conceited.s.01.vain') [vain]
+   
+benevolence.n.01 Lemma('panic.n.01.affright')
+   
+euphoria.n.01 Lemma('panic.n.01.affright')
+   Lemma('euphoric.a.01.euphoric') [euphoric]
+   
+electricity.n.03 Lemma('panic.n.01.affright')
+   Lemma('electric.s.02.electric') [electric]
+   
+self-depreciation.n.01 Lemma('panic.n.01.affright')
+   
+amicability.n.01 Lemma('panic.n.01.affright')
+   
+storminess.n.02 Lemma('panic.n.01.affright')
+   Lemma('stormy.s.02.stormy') [stormy]
+   
+exultation.n.01 Lemma('panic.n.01.affright')
+   Lemma('elated.s.02.jubilant') [jubilant]
+   
+moodiness.n.01 Lemma('panic.n.01.affright')
+   Lemma('dark.s.06.moody') [moody]
+   
+indifference.n.01 Lemma('panic.n.01.affright')
+   Lemma('indifferent.s.07.indifferent') [indifferent]
+   
+philhellenism.n.01 Lemma('panic.n.01.affright')
+   
+easiness.n.01 Lemma('panic.n.01.affright')
+   Lemma('easy.a.03.easy') [easy]
+   
+loyalty.n.02 Lemma('panic.n.01.affright')
+   
+fearlessness.n.01 Lemma('panic.n.01.affright')
+   Lemma('audacious.s.01.fearless') [fearless]
+   
+anglophilia.n.01 Lemma('panic.n.01.affright')
+   Lemma('anglophilic.a.01.Anglophilic') [Anglophilic]
+   
+frisson.n.01 Lemma('panic.n.01.affright')
+   Lemma('chilling.s.01.shuddery') [shuddery]
+   Lemma('chilling.s.01.shivery') [shivery]
+   
+guilt.n.02 Lemma('panic.n.01.affright')
+   Lemma('guilty.s.02.guilty') [guilty]
+   
+forlornness.n.01 Lemma('panic.n.01.affright')
+   Lemma('lonely.s.02.lonely') [lonely]
+   
+misanthropy.n.01 Lemma('panic.n.01.affright')
+   Lemma('misanthropic.s.02.misanthropic') [misanthropic]
+   Lemma('misanthropic.s.02.misanthropical') [misanthropical]
+   
+pessimism.n.01 Lemma('panic.n.01.affright')
+   Lemma('pessimistic.a.01.pessimistic') [pessimistic]
+   
+soft_spot.n.02 Lemma('panic.n.01.affright')
+   
+withdrawal.n.04 Lemma('panic.n.01.affright')
+   
+grudge.n.01 Lemma('panic.n.01.affright')
+   
+abashment.n.01 Lemma('panic.n.01.affright')
+   Lemma('bashful.s.01.bashful') [bashful]
+   
+ambivalence.n.01 Lemma('panic.n.01.affright')
+   Lemma('ambivalent.s.01.ambivalent') [ambivalent]
+   
+friendliness.n.01 Lemma('panic.n.01.affright')
+   Lemma('friendly.s.02.friendly') [friendly]
+   
+tumult.n.02 Lemma('panic.n.01.affright')
+   
+smugness.n.01 Lemma('panic.n.01.affright')
+   Lemma('smug.s.01.smug') [smug]
+   
+state.n.06 Lemma('panic.n.01.affright')
+   
+weepiness.n.01 Lemma('panic.n.01.affright')
+   Lemma('weepy.s.01.weepy') [weepy]
+   Lemma('dolorous.s.01.tearful') [tearful]
+   
+embitterment.n.01 Lemma('panic.n.01.affright')
+   
+despair.n.02 Lemma('panic.n.01.affright')
+   
+bonheur.n.01 Lemma('panic.n.01.affright')
+   
+american_dream.n.01 Lemma('panic.n.01.affright')
+   
+heartburning.n.01 Lemma('panic.n.01.affright')
+   
+bang.n.04 Lemma('panic.n.01.affright')
+   
+radiance.n.03 Lemma('panic.n.01.affright')
+   
+affection.n.01 Lemma('panic.n.01.affright')
+   Lemma('affectionate.s.01.fond') [fond]
+   Lemma('affectionate.s.01.tender') [tender]
+   Lemma('affectionate.s.01.affectionate') [affectionate]
+   Lemma('hearty.s.01.hearty') [hearty]
+   Lemma('affectionate.s.01.warm') [warm]
+   Lemma('warmhearted.a.01.warmhearted') [warmhearted]
+   
+chill.n.04 Lemma('panic.n.01.affright')
+   
+anaphrodisia.n.01 Lemma('panic.n.01.affright')
+   
+mourning.n.01 Lemma('panic.n.01.affright')
+   
+expectation.n.03 Lemma('panic.n.01.affright')
+   
+pain.n.02 Lemma('panic.n.01.affright')
+   Lemma('afflictive.s.01.painful') [painful]
+   
+sorrow.n.02 Lemma('panic.n.01.affright')
+   Lemma('contrite.s.01.rueful') [rueful]
+   
+emotionlessness.n.01 Lemma('panic.n.01.affright')
+   Lemma('emotionless.s.01.emotionless') [emotionless]
+   Lemma('impassive.s.01.impassive') [impassive]
+   Lemma('phlegmatic.s.01.phlegmatical') [phlegmatical]
+   Lemma('impassive.s.01.stolid') [stolid]
+   Lemma('phlegmatic.s.01.phlegmatic') [phlegmatic]
+   
+wrath.n.01 Lemma('panic.n.01.affright')
+   
+glow.n.04 Lemma('panic.n.01.affright')
+   
+bad_temper.n.01 Lemma('panic.n.01.affright')
+   
+presage.n.01 Lemma('panic.n.01.affright')
+   
+tsoris.n.01 Lemma('panic.n.01.affright')
+   
+stomach.n.03 Lemma('panic.n.01.affright')
+   
+devastation.n.02 Lemma('panic.n.01.affright')
+   
+dander.n.02 Lemma('panic.n.01.affright')
+   
+philogyny.n.01 Lemma('panic.n.01.affright')
+   
+misoneism.n.01 Lemma('panic.n.01.affright')
+   
+foreboding.n.01 Lemma('panic.n.01.affright')
+   
+gravity.n.03 Lemma('panic.n.01.affright')
+   Lemma('earnest.s.01.solemn') [solemn]
+   
+appetite.n.01 Lemma('panic.n.01.affright')
+   Lemma('appetent.s.01.appetent') [appetent]
+   
+affect.n.01 Lemma('panic.n.01.affright')
+   Lemma('affectional.s.01.affectional') [affectional]
+   
+concern.n.03 Lemma('panic.n.01.affright')
+   
+mawkishness.n.01 Lemma('panic.n.01.affright')
+   Lemma('bathetic.s.01.mawkish') [mawkish]
+   
+emotional_state.n.01 Lemma('panic.n.01.affright')
+   
+infatuation.n.01 Lemma('panic.n.01.affright')
+   
+rejoicing.n.01 Lemma('panic.n.01.affright')
+   
+inclination.n.05 Lemma('panic.n.01.affright')
+   
+filial_love.n.01 Lemma('panic.n.01.affright')
+   
+devotion.n.01 Lemma('panic.n.01.affright')
+   Lemma('devoted.s.01.devoted') [devoted]
+   
+envy.n.01 Lemma('panic.n.01.affright')
+   Lemma('covetous.s.01.envious') [envious]
+   
+sympathy.n.02 Lemma('panic.n.01.affright')
+   Lemma('sympathetic.a.02.sympathetic') [sympathetic]
+   
+jollity.n.01 Lemma('panic.n.01.affright')
+   Lemma('gay.s.02.jolly') [jolly]
+   Lemma('gay.s.02.jovial') [jovial]
+   
+enthusiasm.n.01 Lemma('panic.n.01.affright')
+   Lemma('enthusiastic.a.01.enthusiastic') [enthusiastic]
+   
+emulation.n.01 Lemma('panic.n.01.affright')
+   
+resentment.n.01 Lemma('panic.n.01.affright')
+   Lemma('rancorous.s.01.rancorous') [rancorous]
+   Lemma('bitter.s.05.bitter') [bitter]
+   
+comfort.n.05 Lemma('panic.n.01.affright')
+   
+daze.n.01 Lemma('panic.n.01.affright')
+   
+gratification.n.01 Lemma('panic.n.01.affright')
+   
+sensibility.n.02 Lemma('panic.n.01.affright')
+   
+soul.n.03 Lemma('panic.n.01.affright')
+   Lemma('soulful.s.01.soulful') [soulful]
+   
+unpleasantness.n.01 Lemma('panic.n.01.affright')
+   Lemma('unpleasant.a.01.unpleasant') [unpleasant]
+   
+anger.n.01 Lemma('panic.n.01.affright')
+   Lemma('choleric.s.01.choleric') [choleric]
+   Lemma('angry.a.01.angry') [angry]
+   
+gloom.n.02 Lemma('panic.n.01.affright')
+   Lemma('gloomy.s.02.gloomy') [gloomy]
+   Lemma('somber.s.02.sombre') [sombre]
+   Lemma('somber.s.02.somber') [somber]
+   
+conditioned_emotional_response.n.01 Lemma('panic.n.01.affright')
+   
+intimidation.n.03 Lemma('panic.n.01.affright')
+   
+anticipation.n.01 Lemma('panic.n.01.affright')
+   Lemma('anticipant.s.01.expectant') [expectant]
+   
+dissatisfaction.n.01 Lemma('panic.n.01.affright')
+   
+malevolence.n.01 Lemma('panic.n.01.affright')
+   Lemma('malevolent.s.01.malevolent') [malevolent]
+   
+fear.n.01 Lemma('panic.n.01.affright')
+   Lemma('fearful.s.01.fearful') [fearful]
+   
+placidity.n.01 Lemma('panic.n.01.affright')
+   Lemma('equable.s.02.placid') [placid]
+   
+protectiveness.n.01 Lemma('panic.n.01.affright')
+   Lemma('protective.s.02.protective') [protective]
+   
+misocainea.n.01 Lemma('panic.n.01.affright')
+   
+gaiety.n.02 Lemma('panic.n.01.affright')
+   Lemma('playful.a.01.playful') [playful]
+   
+hostility.n.03 Lemma('panic.n.01.affright')
+   Lemma('hostile.a.01.hostile') [hostile]
+   Lemma('unfriendly.s.03.inimical') [inimical]
+   
+wistfulness.n.01 Lemma('panic.n.01.affright')
+   Lemma('pensive.s.02.wistful') [wistful]
+   
+unrest.n.02 Lemma('panic.n.01.affright')
+   
+triumph.n.02 Lemma('panic.n.01.affright')
+   Lemma('exultant.s.01.triumphal') [triumphal]
+   
+sensitivity.n.03 Lemma('panic.n.01.affright')
+   Lemma('sensitive.a.02.sensitive') [sensitive]
+   
+self-disgust.n.01 Lemma('panic.n.01.affright')
+   
+fulfillment.n.01 Lemma('panic.n.01.affright')
+   
+the_hots.n.01 Lemma('panic.n.01.affright')
+   
+antipathy.n.01 Lemma('panic.n.01.affright')
+   Lemma('antagonistic.s.02.antipathetical') [antipathetical]
+   Lemma('antagonistic.s.02.antipathetic') [antipathetic]
+   
+discouragement.n.01 Lemma('panic.n.01.affright')
+   
+suffering.n.04 Lemma('panic.n.01.affright')
+   
+ecstasy.n.01 Lemma('panic.n.01.affright')
+   Lemma('ecstatic.s.01.ecstatic') [ecstatic]
+   Lemma('ecstatic.s.01.rapturous') [rapturous]
+   
+humility.n.02 Lemma('panic.n.01.affright')
+   
+encouragement.n.03 Lemma('panic.n.01.affright')
+   
+warpath.n.01 Lemma('panic.n.01.affright')
+   
+mournfulness.n.01 Lemma('panic.n.01.affright')
+   Lemma('contrite.s.01.ruthful') [ruthful]
+   Lemma('mournful.s.01.mournful') [mournful]
+   Lemma('sorrowful.a.01.sorrowful') [sorrowful]
+   
+unhappiness.n.02 Lemma('panic.n.01.affright')
+   Lemma('unhappy.a.01.unhappy') [unhappy]
+   
+weakness.n.05 Lemma('panic.n.01.affright')
+   
+homesickness.n.01 Lemma('panic.n.01.affright')
+   Lemma('homesick.s.01.homesick') [homesick]
+   
+relief.n.01 Lemma('panic.n.01.affright')
+   
+discontentment.n.01 Lemma('panic.n.01.affright')
+   Lemma('discontented.a.01.discontent') [discontent]
+   Lemma('discontented.a.01.discontented') [discontented]
+   
+sensation.n.03 Lemma('panic.n.01.affright')
+   
+sulk.n.01 Lemma('panic.n.01.affright')
+   Lemma('huffish.s.01.sulky') [sulky]
+   
+exuberance.n.01 Lemma('panic.n.01.affright')
+   Lemma('ebullient.s.01.exuberant') [exuberant]
+   
+displeasure.n.01 Lemma('panic.n.01.affright')
+   
+tenderness.n.03 Lemma('panic.n.01.affright')
+   Lemma('tender.a.01.tender') [tender]
+   Lemma('tenderhearted.s.01.tenderhearted') [tenderhearted]
+   
+gusto.n.01 Lemma('panic.n.01.affright')
+   Lemma('zestful.s.01.zestful') [zestful]
+   Lemma('zestful.s.01.zesty') [zesty]
+   
+nausea.n.02 Lemma('panic.n.01.affright')
+   Lemma('nauseating.s.01.nauseous') [nauseous]
+   
+ambition.n.01 Lemma('panic.n.01.affright')
+   Lemma('ambitious.s.02.ambitious') [ambitious]
+   
+joy.n.01 Lemma('panic.n.01.affright')
+   Lemma('joyous.a.01.joyous') [joyous]
+   Lemma('elated.s.02.joyful') [joyful]
+   
+anguish.n.01 Lemma('panic.n.01.affright')
+   
+apprehension.n.01 Lemma('panic.n.01.affright')
+   Lemma('awful.s.02.dread') [dread]
+   Lemma('apprehensive.s.02.apprehensive') [apprehensive]
+   
+confusion.n.03 Lemma('panic.n.01.affright')
+   
+abhorrence.n.01 Lemma('panic.n.01.affright')
+   Lemma('abhorrent.s.01.abhorrent') [abhorrent]
+   Lemma('abominable.s.01.odious') [odious]
+   
+sexual_desire.n.01 Lemma('panic.n.01.affright')
+   Lemma('erotic.s.01.erotic') [erotic]
+   Lemma('lustful.s.03.concupiscent') [concupiscent]
+   
+prurience.n.01 Lemma('panic.n.01.affright')
+   Lemma('lascivious.s.01.lascivious') [lascivious]
+   Lemma('animal.s.01.carnal') [carnal]
+   Lemma('lubricious.s.02.prurient') [prurient]
+   
+civic_pride.n.01 Lemma('panic.n.01.affright')
+   
+embarrassment.n.01 Lemma('panic.n.01.affright')
+   
+velleity.n.01 Lemma('panic.n.01.affright')
+   
+hysteria.n.02 Lemma('panic.n.01.affright')
+   Lemma('hysterical.s.02.hysterical') [hysterical]
+   
+craving.n.01 Lemma('panic.n.01.affright')
+   
+cheerlessness.n.01 Lemma('panic.n.01.affright')
+   Lemma('depressing.a.01.cheerless') [cheerless]
+   Lemma('depressing.a.01.uncheerful') [uncheerful]
+   
+moroseness.n.01 Lemma('panic.n.01.affright')
+   Lemma('dark.s.06.glum') [glum]
+   Lemma('heavy.s.07.sullen') [sullen]
+   Lemma('dark.s.06.morose') [morose]
+   
+passion.n.01 Lemma('panic.n.01.affright')
+   Lemma('passionate.a.01.passionate') [passionate]
+   
+depression.n.04 Lemma('panic.n.01.affright')
+   
+softheartedness.n.01 Lemma('panic.n.01.affright')
+   Lemma('tender.a.01.tender') [tender]
+   Lemma('softhearted.a.01.softhearted') [softhearted]
+   
+wonder.n.01 Lemma('panic.n.01.affright')
+   
+agape.n.02 Lemma('panic.n.01.affright')
+   
+languor.n.01 Lemma('panic.n.01.affright')
+   Lemma('dreamy.s.02.dreamy') [dreamy]
+   
+weight.n.05 Lemma('panic.n.01.affright')
+   Lemma('weighty.s.04.weighty') [weighty]
+   
+puppy_love.n.01 Lemma('panic.n.01.affright')
+   
+cynicism.n.01 Lemma('panic.n.01.affright')
+   
+meekness.n.01 Lemma('panic.n.01.affright')
+   Lemma('meek.s.01.meek') [meek]
+   
+lecherousness.n.01 Lemma('panic.n.01.affright')
+   Lemma('lascivious.s.01.lustful') [lustful]
+   Lemma('lecherous.s.01.lecherous') [lecherous]
+   Lemma('lustful.s.03.lusty') [lusty]
+   
+security.n.03 Lemma('panic.n.01.affright')
+   Lemma('secure.a.01.secure') [secure]
+   
+hesitance.n.01 Lemma('panic.n.01.affright')
+   Lemma('hesitant.s.01.hesitant') [hesitant]
+   
+pique.n.02 Lemma('panic.n.01.affright')
+   
+self-esteem.n.01 Lemma('panic.n.01.affright')
+   
+stupefaction.n.01 Lemma('panic.n.01.affright')
+   
+insecurity.n.02 Lemma('panic.n.01.affright')
+   Lemma('insecure.a.03.insecure') [insecure]
+   
+timidity.n.01 Lemma('panic.n.01.affright')
+   Lemma('timid.a.01.timid') [timid]
+   
+hopelessness.n.01 Lemma('panic.n.01.affright')
+   Lemma('hopeless.s.02.hopeless') [hopeless]
+   
+thing.n.11 Lemma('panic.n.01.affright')
+   
+electra_complex.n.01 Lemma('panic.n.01.affright')
+   
+anxiety.n.02 Lemma('panic.n.01.affright')
+   
+undertow.n.01 Lemma('panic.n.01.affright')
+   
+favor.n.04 Lemma('panic.n.01.affright')
+   
+guilt_pang.n.01 Lemma('panic.n.01.affright')
+   
+compunction.n.01 Lemma('panic.n.01.affright')
+   
+murderousness.n.01 Lemma('panic.n.01.affright')
+   Lemma('homicidal.s.01.murderous') [murderous]
+   
+creepy-crawlies.n.01 Lemma('panic.n.01.affright')
+   
+insight.n.02 Lemma('panic.n.01.affright')
+   Lemma('perceptive.a.01.perceptive') [perceptive]
+   
+harassment.n.01 Lemma('panic.n.01.affright')
+   
+frustration.n.01 Lemma('panic.n.01.affright')
+   
+sex.n.03 Lemma('panic.n.01.affright')
+   Lemma('aphrodisiac.a.01.sexy') [sexy]
+   
+indignation.n.01 Lemma('panic.n.01.affright')
+   
+unconcern.n.02 Lemma('panic.n.01.affright')
+   
+swivet.n.01 Lemma('panic.n.01.affright')
+   
+schadenfreude.n.01 Lemma('panic.n.01.affright')
+   
+downheartedness.n.01 Lemma('panic.n.01.affright')
+   Lemma('dispirited.s.01.dispirited') [dispirited]
+   Lemma('gloomy.s.02.low-spirited') [low-spirited]
+   Lemma('broken.s.03.low') [low]
+   Lemma('gloomy.s.02.downhearted') [downhearted]
+   
+faintness.n.01 Lemma('panic.n.01.affright')
+   Lemma('faint.s.04.faint') [faint]
+   
+mysophilia.n.01 Lemma('panic.n.01.affright')
+   
+mellowness.n.01 Lemma('panic.n.01.affright')
+   Lemma('mellow.s.03.mellow') [mellow]
+   
+hankering.n.01 Lemma('panic.n.01.affright')
+   
+warmheartedness.n.01 Lemma('panic.n.01.affright')
+   Lemma('warmhearted.a.01.warmhearted') [warmhearted]
+   
+sexual_pleasure.n.01 Lemma('panic.n.01.affright')
+   
+disgust.n.01 Lemma('panic.n.01.affright')
+   
+irritability.n.01 Lemma('panic.n.01.affright')
+   Lemma('crabbed.s.01.fussy') [fussy]
+   Lemma('cranky.s.02.irritable') [irritable]
+   Lemma('cranky.s.02.petulant') [petulant]
+   Lemma('fretful.s.02.fretful') [fretful]
+   Lemma('cranky.s.02.peevish') [peevish]
+   
+embarrassment.n.02 Lemma('panic.n.01.affright')
+   
+confidence.n.02 Lemma('panic.n.01.affright')
+   Lemma('confidential.s.03.confidential') [confidential]
+   
+malice.n.01 Lemma('panic.n.01.affright')
+   Lemma('poisonous.s.03.venomous') [venomous]
+   Lemma('despiteful.s.01.spiteful') [spiteful]
+   Lemma('malicious.a.01.malicious') [malicious]
+   
+trepidation.n.01 Lemma('panic.n.01.affright')
+   
+brotherhood.n.03 Lemma('panic.n.01.affright')
+   
+ardor.n.03 Lemma('panic.n.01.affright')
+   Lemma('ardent.s.01.fervent') [fervent]
+   Lemma('ardent.s.01.fervid') [fervid]
+   Lemma('ardent.s.01.fiery') [fiery]
+   
+attrition.n.03 Lemma('panic.n.01.affright')
+   Lemma('contrite.s.01.contrite') [contrite]
+   
+nationalism.n.03 Lemma('panic.n.01.affright')
+   
+levity.n.01 Lemma('panic.n.01.affright')
+   
+discomfort.n.02 Lemma('panic.n.01.affright')
+   Lemma('afflictive.s.01.sore') [sore]
+   
+isolation.n.02 Lemma('panic.n.01.affright')
+   
+amorousness.n.02 Lemma('panic.n.01.affright')
+   Lemma('amative.s.01.amative') [amative]
+   Lemma('amatory.s.01.amorous') [amorous]
+   Lemma('aphrodisiac.a.01.sexy') [sexy]
+   
+empathy.n.01 Lemma('panic.n.01.affright')
+   Lemma('empathic.s.01.empathetic') [empathetic]
+   
+jealousy.n.01 Lemma('panic.n.01.affright')
+   
+fondness.n.01 Lemma('panic.n.01.affright')
+   Lemma('fond.s.03.fond') [fond]
+   
+delight.n.01 Lemma('panic.n.01.affright')
+   
+fit.n.01 Lemma('panic.n.01.affright')
+   
+regard.n.06 Lemma('panic.n.01.affright')
+   
+misopedia.n.01 Lemma('panic.n.01.affright')
+   
+survivor_guilt.n.01 Lemma('panic.n.01.affright')
+   
+repugnance.n.01 Lemma('panic.n.01.affright')
+   Lemma('abhorrent.s.01.repugnant') [repugnant]
+   
+zeal.n.02 Lemma('panic.n.01.affright')
+   Lemma('avid.s.02.zealous') [zealous]
+   
+mercifulness.n.01 Lemma('panic.n.01.affright')
+   Lemma('merciful.a.01.merciful') [merciful]
+   
+love.n.04 Lemma('panic.n.01.affright')
+   
+sulkiness.n.02 Lemma('panic.n.01.affright')
+   Lemma('huffish.s.01.huffish') [huffish]
+   Lemma('huffish.s.01.sulky') [sulky]
+   
+scare.n.02 Lemma('panic.n.01.affright')
+   Lemma('chilling.s.01.scarey') [scarey]
+   
+anxiousness.n.02 Lemma('panic.n.01.affright')
+   Lemma('anxious.s.02.anxious') [anxious]
+   
+stewing.n.01 Lemma('panic.n.01.affright')
+   
+joylessness.n.01 Lemma('panic.n.01.affright')
+   Lemma('joyless.a.01.joyless') [joyless]
+   
+ingratitude.n.01 Lemma('panic.n.01.affright')
+   Lemma('ungrateful.a.01.ungrateful') [ungrateful]
+   
+dysphoria.n.01 Lemma('panic.n.01.affright')
+   Lemma('dysphoric.a.01.dysphoric') [dysphoric]
+   
+misology.n.01 Lemma('panic.n.01.affright')
+   
+tranquillity.n.02 Lemma('panic.n.01.affright')
+   Lemma('placid.s.01.tranquil') [tranquil]
+   Lemma('placid.s.01.quiet') [quiet]
+   
+buoyancy.n.01 Lemma('panic.n.01.affright')
+   Lemma('buoyant.s.02.buoyant') [buoyant]
+   Lemma('buoyant.s.02.perky') [perky]
+   
+oppression.n.03 Lemma('panic.n.01.affright')
+   Lemma('oppressive.s.02.oppressive') [oppressive]
+   
+quality_of_life.n.01 Lemma('panic.n.01.affright')
+   
+heartlessness.n.01 Lemma('panic.n.01.affright')
+   Lemma('coldhearted.a.01.coldhearted') [coldhearted]
+   Lemma('hardhearted.s.02.hardhearted') [hardhearted]
+   Lemma('hardhearted.a.01.heartless') [heartless]
+   
+gloat.n.01 Lemma('panic.n.01.affright')
+   
+liking.n.01 Lemma('panic.n.01.affright')
+   
+eagerness.n.01 Lemma('panic.n.01.affright')
+   Lemma('eager.a.01.eager') [eager]
+   Lemma('avid.s.02.avid') [avid]
+   
+acquired_taste.n.01 Lemma('panic.n.01.affright')
+   
+vindictiveness.n.01 Lemma('panic.n.01.affright')
+   Lemma('revengeful.s.01.vengeful') [vengeful]
+   Lemma('revengeful.s.01.vindictive') [vindictive]
+   
+frustration.n.03 Lemma('panic.n.01.affright')
+   
+distress.n.01 Lemma('panic.n.01.affright')
+   
+ego.n.01 Lemma('panic.n.01.affright')
+   Lemma('conceited.s.01.egotistic') [egotistic]
+   Lemma('arrogant.s.01.self-important') [self-important]
+   
+forgiveness.n.01 Lemma('panic.n.01.affright')
+   
+stir.n.02 Lemma('panic.n.01.affright')
+   
+love.n.01 Lemma('panic.n.01.affright')
+   
+class_feeling.n.01 Lemma('panic.n.01.affright')
+   
+alienation.n.01 Lemma('panic.n.01.affright')
+   
+huffiness.n.01 Lemma('panic.n.01.affright')
+   Lemma('huffy.s.01.huffy') [huffy]
+   
+commiseration.n.01 Lemma('panic.n.01.affright')
+   Lemma('hapless.s.01.piteous') [piteous]
+   Lemma('hapless.s.01.pathetic') [pathetic]
+   
+covetousness.n.01 Lemma('panic.n.01.affright')
+   
+cheerfulness.n.02 Lemma('panic.n.01.affright')
+   Lemma('cheerful.s.02.cheerful') [cheerful]
+   
+gaiety.n.01 Lemma('panic.n.01.affright')
+   
+disapproval.n.01 Lemma('panic.n.01.affright')
+   
+desire.n.01 Lemma('panic.n.01.affright')
+   
+antagonism.n.03 Lemma('panic.n.01.affright')
+   Lemma('antagonistic.a.03.antagonistic') [antagonistic]
+   
+gladness.n.01 Lemma('panic.n.01.affright')
+   Lemma('gladsome.s.01.gladsome') [gladsome]
+   Lemma('glad.s.03.glad') [glad]
+   
+happiness.n.02 Lemma('panic.n.01.affright')
+   Lemma('happy.a.01.happy') [happy]
+   
+defeatism.n.01 Lemma('panic.n.01.affright')
+   
+hilarity.n.01 Lemma('panic.n.01.affright')
+   Lemma('elated.s.02.gleeful') [gleeful]
+   Lemma('hilarious.s.01.hilarious') [hilarious]
+   Lemma('gay.s.02.mirthful') [mirthful]
+   
+annoyance.n.02 Lemma('panic.n.01.affright')
+   
+temper.n.02 Lemma('panic.n.01.affright')
+   Lemma('moody.s.02.moody') [moody]
+   
+ardor.n.01 Lemma('panic.n.01.affright')
+   Lemma('avid.s.02.zealous') [zealous]
+   
+entrancement.n.01 Lemma('panic.n.01.affright')
+   
+consolation.n.01 Lemma('panic.n.01.affright')
+   
+misery.n.02 Lemma('panic.n.01.affright')
+   
+woe.n.02 Lemma('panic.n.01.affright')
+   Lemma('woebegone.s.02.woeful') [woeful]
+   
+self-consciousness.n.01 Lemma('panic.n.01.affright')
+   Lemma('awkward.s.06.uneasy') [uneasy]
+   Lemma('uncomfortable.a.01.uncomfortable') [uncomfortable]
+   Lemma('self-conscious.s.02.self-conscious') [self-conscious]
+   
+caprice.n.01 Lemma('panic.n.01.affright')
+   Lemma('capricious.s.02.capricious') [capricious]
+   
+gratefulness.n.01 Lemma('panic.n.01.affright')
+   Lemma('appreciative.s.01.appreciative') [appreciative]
+   Lemma('grateful.a.01.grateful') [grateful]
+   Lemma('grateful.a.01.thankful') [thankful]
+   
+belligerence.n.01 Lemma('panic.n.01.affright')
+   Lemma('aggressive.s.03.belligerent') [belligerent]
+   
+self-torture.n.01 Lemma('panic.n.01.affright')
+   
+creeps.n.02 Lemma('panic.n.01.affright')
+   
+dignity.n.01 Lemma('panic.n.01.affright')
+   
+wish.n.01 Lemma('panic.n.01.affright')
+   
+disappointment.n.01 Lemma('panic.n.01.affright')
+   
+hero_worship.n.01 Lemma('panic.n.01.affright')
+   
+chagrin.n.01 Lemma('panic.n.01.affright')
+   
+helplessness.n.03 Lemma('panic.n.01.affright')
+   Lemma('helpless.s.02.helpless') [helpless]
+   
+world-weariness.n.01 Lemma('panic.n.01.affright')
+   Lemma('bored.s.01.world-weary') [world-weary]
+   
+blahs.n.01 Lemma('panic.n.01.affright')
+   
+togetherness.n.01 Lemma('panic.n.01.affright')
+   Lemma('together.s.01.together') [together]
+   
+wound.n.03 Lemma('panic.n.01.affright')
+   
+jocundity.n.01 Lemma('panic.n.01.affright')
+   Lemma('gay.s.02.jocund') [jocund]
+   Lemma('jesting.s.01.jocular') [jocular]
+   
+pang.n.01 Lemma('panic.n.01.affright')
+   
+maleficence.n.01 Lemma('panic.n.01.affright')
+   Lemma('maleficent.a.01.maleficent') [maleficent]
+   
+stomach.n.04 Lemma('panic.n.01.affright')
+   
+sanguinity.n.01 Lemma('panic.n.01.affright')
+   Lemma('sanguine.s.01.sanguine') [sanguine]
+   
+earnestness.n.01 Lemma('panic.n.01.affright')
+   Lemma('earnest.s.01.sincere') [sincere]
+   Lemma('dear.s.03.earnest') [earnest]
+   
+aphrodisia.n.01 Lemma('panic.n.01.affright')
+   
+hope.n.02 Lemma('panic.n.01.affright')
+   
+satyriasis.n.01 Lemma('panic.n.01.affright')
+   
+boredom.n.01 Lemma('panic.n.01.affright')
+   Lemma('boring.s.01.tedious') [tedious]
+   
+ill_humor.n.01 Lemma('panic.n.01.affright')
+   
+compassion.n.01 Lemma('panic.n.01.affright')
+   Lemma('compassionate.a.01.compassionate') [compassionate]
+   
+compatibility.n.01 Lemma('panic.n.01.affright')
+   
+disinclination.n.01 Lemma('panic.n.01.affright')
+   
+razbliuto.n.01 Lemma('panic.n.01.affright')
+   
+satisfaction.n.01 Lemma('panic.n.01.affright')
+   
+misogyny.n.01 Lemma('panic.n.01.affright')
+   Lemma('misogynous.s.01.misogynous') [misogynous]
+   Lemma('misogynic.s.01.misogynic') [misogynic]
+   
+testiness.n.01 Lemma('panic.n.01.affright')
+   Lemma('huffy.s.01.touchy') [touchy]
+   Lemma('cranky.s.02.testy') [testy]
+   Lemma('cranky.s.02.tetchy') [tetchy]
+   
+hopefulness.n.02 Lemma('panic.n.01.affright')
+   Lemma('hopeful.a.01.hopeful') [hopeful]
+   
+jitteriness.n.01 Lemma('panic.n.01.affright')
+   Lemma('edgy.s.01.jittery') [jittery]
+   Lemma('edgy.s.01.jumpy') [jumpy]
+   Lemma('edgy.s.01.restive') [restive]
+   Lemma('anxious.s.02.nervous') [nervous]
+   
+lovingness.n.01 Lemma('panic.n.01.affright')
+   Lemma('loving.a.01.loving') [loving]
+   Lemma('caring.s.01.caring') [caring]
+   
+sweet_tooth.n.01 Lemma('panic.n.01.affright')
+   
+willies.n.01 Lemma('panic.n.01.affright')
+   
+technophilia.n.01 Lemma('panic.n.01.affright')
+   
+approval.n.02 Lemma('panic.n.01.affright')
+   
+leaning.n.01 Lemma('panic.n.01.affright')
+   
+broken_heart.n.01 Lemma('panic.n.01.affright')
+   
+irascibility.n.01 Lemma('panic.n.01.affright')
+   Lemma('bristly.s.01.splenetic') [splenetic]
+   Lemma('choleric.s.02.irascible') [irascible]
+   
+amorousness.n.01 Lemma('panic.n.01.affright')
+   Lemma('enamored.s.01.enamored') [enamored]
+   Lemma('amative.s.01.amorous') [amorous]
+   
+mental_anguish.n.01 Lemma('panic.n.01.affright')
+   
+closeness.n.01 Lemma('panic.n.01.affright')
+   Lemma('close.a.02.close') [close]
+   
+agitation.n.03 Lemma('panic.n.01.affright')
+   
+misogamy.n.01 Lemma('panic.n.01.affright')
+   
+panic.n.01 Lemma('panic.n.01.affright')
+   Lemma('panicky.s.01.panicky') [panicky]
+   

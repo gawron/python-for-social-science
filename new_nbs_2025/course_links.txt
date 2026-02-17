@@ -1,0 +1,26 @@
+
+## Python course notebooks (BDA 572 San Diego State University)
+
+
+These are the core notebooks for course content.  They are designed to be used in conjunctions with the online Python textbook, which is [here.](https://gawron.sdsu.edu/python_for_ss/course_core/book_draft/index.html)
+
+1. [Python Types](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/intro/python_types_nb_lecture.ipynb)  [Types Workbook](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/intro/Types%20Discussion%20Workbook.ipynb)
+2. [Python sets](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/intro/sets_intro.ipynb)
+3. [A deeper dive into sets](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/intro/set_operations.ipynb)
+4. [Loops, Functions](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/intro/functions_nb_2024.ipynb)
+5. [Modules, namespaces, and classes](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/intro/modules_namespaces_and_classes.ipynb)
+6. [Iterators, iterables, and generators notebook (optional)](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/intro/Iterators_iterables_generators_with_examples.ipynb)
+7. [Programming exercises (optional)](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/intro/programming_nb.ipynb)
+8. [More difficult programming exercises (optional)](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/intro/new_problems.ipynb)
+9. [The logic of functions: code dependencies and encapsulation (optional)](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/intro/logic_of_functions.ipynb)
+10. [Numpy: numerical computing in Python](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/numpy/numpy.ipynb)
+11. [Boolean arrays discussion (adapted from van der Plas)](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/numpy/02_06_Boolean_Arrays_and_Masks.ipynb)
+12. [Boolean exercises](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/numpy/Boolean_in_numpy_nb.ipynb)
+13. [Pandas I](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/pandas/bda_pandas_intro.ipynb)
+14. [Pandas II](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/pandas/bda_pandas_intro_part_2.ipynb)
+15. [Simple regression (scikit learn)](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/text_classification/simple_regression.ipynb)
+16. [Dimensionality reduction (more scikit learn)](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/text_classification/Dimensionality%20Reduction.ipynb#scrollTo=IExO8JAxkYB9)
+17. [Classification](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/text_classification/regression_and_classification.ipynb)
+18. [Support Vector Machines (linear models in scikit learn)](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/text_classification/linear_classifier_svm.ipynb)
+19. [Simple text processing](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/text_classification/simple_text_processing.ipynb)
+20. [Insult Detection (Classification example)](https://colab.research.google.com/github/gawron/python-for-social-science/blob/master/text_classification/Insults_with_Naive_Bayes.ipynb)

@@ -1,0 +1,39 @@
+/*---------------------------------------------------------------------------------*/
+/* Initialize TailwindCSS */
+/*---------------------------------------------------------------------------------*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*---------------------------------------------------------------------------------*/
+/* Apply DaisyUI theme/TailwindCSS classes to the scrollbar */
+/* reference: https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar */
+/*---------------------------------------------------------------------------------*/
+
+/*
+::-webkit-scrollbar-thumb {
+  @apply bg-secondary rounded-full;
+}
+
+::-webkit-scrollbar {
+  @apply h-2 w-2 bg-primary-focus;
+}
+
+::-webkit-scrollbar-corner {
+  @apply bg-red-400;
+}
+*/
+
+/*---------------------------------------------------------------------------------*/
+/* why does Daisy UI make stupid decisions for the table */
+/*---------------------------------------------------------------------------------*/
+
+/* like not wrapping the words on the tables */
+.table :where(th, td) {
+  @apply whitespace-normal;
+}
+
+/* and making the first table header sticky */
+.table th:first-child {
+  @apply relative;
+}

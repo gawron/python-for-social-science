@@ -1,0 +1,1712 @@
+fever.n.02 fever
+   hectic fevered feverish feverous febrile 
+repentance.n.01 repentance
+   recurrent reparable repeatable penitent perennial quotable repentant repeated rectifiable 
+repentance.n.01 penitence
+   repentant penitentiary penitential penitent 
+repentance.n.01 penance
+   penal punishable penial pennate penile 
+pet.n.03 pet
+   testy nettlesome irritable petulant favorite stonelike pettish best-loved favourite scratchy techy petalous petaled preferent pet peckish favored cranky fractious petrous preferred petalled tetchy peevish 
+conflict.n.02 conflict
+   at_odds contradictory conflicting self-contradictory 
+approbation.n.01 approbation
+   affirmative plausive approbative approving approbatory 
+shame.n.01 shame
+   shamed fictitious shamefaced fictive pretended scandalous hangdog ignominious disgraced dishonored sham put_on false shameful disgraceful inglorious opprobrious shocking shamanistic guilty discredited assumed shamanist black 
+unassertiveness.n.01 unassertiveness
+   unassertive 
+pleasure.n.01 pleasure
+   pleasing pleasurable proud_of gratifying pleased pleasant enjoyable 
+pleasure.n.01 pleasance
+   pleasing pleasurable proud_of gratifying pleased pleasant enjoyable 
+wishfulness.n.01 wishfulness
+   desirous aspirant aspiring wishful 
+solicitude.n.01 solicitude
+   
+solicitude.n.01 solicitousness
+   solicitous 
+cold_comfort.n.01 cold_comfort
+   
+alarm.n.01 alarm
+   alarmed alarming 
+alarm.n.01 dismay
+   aghast dismayed appalled appalling dismaying shocked 
+alarm.n.01 consternation
+   
+urge.n.02 urge
+   pressing urgent 
+urge.n.02 itch
+   
+elation.n.02 elation
+   elemental uncomplicated elated gleeful simple primary elementary joyful unproblematic jubilant elating exhilarating 
+elation.n.02 high_spirits
+   
+elation.n.02 lightness
+   faint light light-colored sluttish lit loose swooning calorie-free clean light-headed abstemious unaccented promiscuous lite low-cal unclouded lightsome wakeful idle scant lighted illuminated short well-lighted clear tripping lightheaded easy wanton weak 
+sentiment.n.01 sentiment
+   sentimental mushy soupy animate slushy mawkish schmalzy sentient drippy kitschy bathetic maudlin schmaltzy soppy hokey 
+happiness.n.01 happiness
+   well-chosen felicitous happy glad 
+happiness.n.01 felicity
+   barbarous cruel vicious savage fell roughshod brutal 
+shyness.n.01 shyness
+   timid unsure diffident shy 
+fetish.n.01 fetish
+   foetal fetal fettered shackled 
+animosity.n.01 animosity
+   
+animosity.n.01 animus
+   animate alive carnal animalistic enlivening animistic sensual animated animal fleshly animating animist animatistic sentient 
+animosity.n.01 bad_blood
+   
+hope.n.01 hope
+   hopeful promising bright 
+infuriation.n.01 infuriation
+   maddened maddening angered furious infuriating infuriated vexing exasperating enraged 
+infuriation.n.01 enragement
+   maddened angered furious enraged infuriated 
+captivation.n.02 captivation
+   captivated wrapped imprisoned engrossed captive bewitching enwrapped charmed entrancing confined captivating enthralled fascinating intent delighted beguiled jailed entranced enchanting absorbed enthralling 
+captivation.n.02 enchantment
+   fascinating captivating bewitching enchanting entrancing enchanted enthralling 
+captivation.n.02 enthrallment
+   captivated enthralled beguiled enchanting fascinating captivating entranced bewitching delighted charmed entrancing enthralling 
+captivation.n.02 fascination
+   absorbing transfixed fascinated mesmerized mesmerised hypnotized enthralling spell-bound engrossing fascinating gripping spellbound captivating bewitching enchanting hypnotised entrancing riveting 
+poignance.n.01 poignance
+   affecting touching poignant 
+poignance.n.01 poignancy
+   affecting touching poignant 
+throes.n.01 throes
+   
+sadomasochism.n.01 sadomasochism
+   sadomasochistic 
+edginess.n.01 edginess
+   uptight overstrung high-strung highly_strung edgy jittery jumpy restive nervy 
+edginess.n.01 uneasiness
+   awkward nervous anxious unquiet ill_at_ease restless uneasy queasy 
+edginess.n.01 inquietude
+   
+edginess.n.01 disquietude
+   
+kindheartedness.n.01 kindheartedness
+   kindhearted kind-hearted 
+kindheartedness.n.01 kind-heartedness
+   
+pensiveness.n.01 pensiveness
+   pendent nodding pensionable pondering meditative pendulous musing broody pensive brooding cernuous drooping dependent contemplative pending pendant reflective ruminative wistful weeping 
+pensiveness.n.01 brooding
+   pensive contemplative reflective ruminative brooding pondering meditative musing broody 
+exhilaration.n.01 exhilaration
+   elating exhilarated exhilarating stimulating gladdened 
+exhilaration.n.01 excitement
+   aroused frantic unrestrained emotional irritable excitable excitant worked_up excited exciting excitatory mad excitative delirious activated 
+passion.n.05 passion
+   inactive passe demode cursory short-lived transient pass old-fashioned tolerable passee perfunctory antique passing casual passionate ex passive peaceful fugacious old-hat outmoded passant passable ephemeral transitory fair_to_middling adequate 
+shadow.n.04 shadow
+   shadowed shady umbrageous shadowy 
+feelings.n.01 feelings
+   
+melancholy.n.01 melancholy
+   melancholic sombre melancholy somber 
+anglophobia.n.01 Anglophobia
+   Anglophobic 
+aggression.n.02 aggression
+   aggressive strong-growing fast-growing belligerent 
+aggression.n.02 aggressiveness
+   aggressive strong-growing fast-growing belligerent 
+surprise.n.01 surprise
+   surprised surprising 
+sadness.n.02 sadness
+   sadistic distressing lamentable deplorable sorry sad pitiful 
+sadness.n.02 sorrow
+   grieving bereft bereaved mourning sorrowing sorrowful grief-stricken 
+sadness.n.02 sorrowfulness
+   grieving bereft bereaved mourning sorrowing sorrowful grief-stricken 
+inferiority_complex.n.01 inferiority_complex
+   
+sensuality.n.01 sensuality
+   carnal sensorial sensual fleshly animal perceived arresting sultry sensory sensitive reasonable yellow receptive sensate centripetal sensed sensible sensationalistic scandalmongering stunning sensational 
+sensuality.n.01 sensualness
+   carnal sensorial sensual fleshly animal perceived arresting sultry sensory sensitive reasonable yellow receptive sensate centripetal sensed sensible sensationalistic scandalmongering stunning sensational 
+sensuality.n.01 sensualism
+   carnal sensorial sensual fleshly animal perceived arresting sultry sensory sensitive reasonable yellow receptive sensate centripetal sensed sensible sensationalistic scandalmongering stunning sensational 
+sadness.n.01 sadness
+   sadistic distressing lamentable deplorable sorry sad pitiful 
+sadness.n.01 unhappiness
+   distressed infelicitous unhappy dysphoric 
+astonishment.n.01 astonishment
+   astounded astonished amazed astonishing amazing astounding staggering stunned stupefying astonied 
+astonishment.n.01 amazement
+   astounded astonished awe-inspiring amazed astonishing awing amazing stunned awesome awful astonied 
+languor.n.02 languor
+   languorous dreamy lackadaisical languid 
+languor.n.02 lassitude
+   
+languor.n.02 listlessness
+   dispirited listless 
+pleasantness.n.01 pleasantness
+   pleasing pleasurable proud_of gratifying pleased pleasant enjoyable 
+worship.n.02 worship
+   godly deserving worshipful worth reverent adoring 
+worship.n.02 adoration
+   adored addible fond doting idolized adorable endearing addable worshipful worshipped adoring adulatory lovely idolised 
+good_will.n.03 good_will
+   
+good_will.n.03 goodwill
+   
+disgruntlement.n.01 disgruntlement
+   disgruntled dissatisfied 
+lividity.n.01 lividity
+   ashen blanched bloodless black-and-blue white livid 
+enjoyment.n.01 enjoyment
+   gratifying pleasurable enjoyable 
+demoralization.n.03 demoralization
+   discouraged disturbed demoralized disheartened crazy mad demoralizing demoralising demure brainsick humbling unbalanced demeaning demoralised coy humiliating demented overmodest sick unhinged dispiriting disheartening mortifying 
+demoralization.n.03 demoralisation
+   discouraged disturbed demoralized disheartened crazy mad demoralizing demoralising demure brainsick humbling unbalanced demeaning demoralised coy humiliating demented overmodest sick unhinged dispiriting disheartening mortifying 
+worry.n.02 worry
+   troubling perturbing distressing worrying disquieted upset disturbing worried distressed disturbed worrisome apprehensive distressful 
+worry.n.02 trouble
+   troubling perturbing distressing worrying riotous disruptive disturbing troubled troublous worrisome turbulent distressful tumultuous 
+coolness.n.01 coolness
+   nerveless cool coolheaded 
+coolness.n.01 imperturbability
+   unflappable imperturbable 
+coolness.n.01 imperturbableness
+   unflappable imperturbable 
+apathy.n.01 apathy
+   
+discomfiture.n.01 discomfiture
+   disappointed defeated discomfited foiled frustrated thwarted 
+discomfiture.n.01 discomposure
+   discomposed 
+discomfiture.n.01 disconcertion
+   disconcerting upsetting discombobulated disconcerted 
+discomfiture.n.01 disconcertment
+   disconcerting upsetting discombobulated disconcerted 
+attachment.n.01 attachment
+   attached committed attachable connected affiliated 
+attachment.n.01 fond_regard
+   
+grief.n.01 grief
+   
+grief.n.01 heartache
+   
+grief.n.01 heartbreak
+   grievous heartrending heartbreaking 
+grief.n.01 brokenheartedness
+   heartbroken brokenhearted heartsick 
+titillation.n.01 titillation
+   teased tingling erotic titillating titillated tickling 
+afterglow.n.02 afterglow
+   
+conscience.n.03 conscience
+   conscious witting 
+gratitude.n.01 gratitude
+   
+contentment.n.01 contentment
+   concentric cross-grained contented perverse hidden artificial stilted homocentric depending_on conciliatory contrived contingent_upon contrarious dependant_on contingent compromising wayward dependant_upon out_of_sight contralateral conciliative flexible saturated dependent_on concentrical contingent_on contrary hard concealed obstinate content dependent_upon concealing concise concentrated adverse hokey 
+technophobia.n.01 technophobia
+   technophobic 
+fury.n.01 fury
+   maddened tempestuous wild fierce furious angered ferocious infuriated raging savage angry enraged 
+fury.n.01 rage
+   ragged tempestuous wild furious raging angry hot 
+fury.n.01 madness
+   insane furious infuriating disturbed excited crazy mad huffy maddening made exasperating vexing brainsick enraged infuriated unbalanced unrestrained angered demented delirious maddened frantic sick unhinged harebrained sore 
+cruelty.n.02 cruelty
+   barbarous cruel vicious savage fell roughshod brutal 
+cruelty.n.02 mercilessness
+   merciless unmerciful 
+cruelty.n.02 pitilessness
+   unpitying ruthless pitiless unkind remorseless 
+cruelty.n.02 ruthlessness
+   remorseless pitiless ruthless unpitying 
+resignation.n.01 resignation
+   
+resignation.n.01 surrender
+   
+lovesickness.n.01 lovesickness
+   lovesick 
+dudgeon.n.01 dudgeon
+   
+dudgeon.n.01 high_dudgeon
+   
+despondency.n.01 despondency
+   despondent heartsick 
+despondency.n.01 despondence
+   despondent heartsick 
+despondency.n.01 heartsickness
+   heartbroken despondent brokenhearted heartsick 
+despondency.n.01 disconsolateness
+   disconsolate gloomy dingy dreary drab grim sorry inconsolable drear blue dismal dark unconsolable 
+oedipus_complex.n.01 Oedipus_complex
+   
+oedipus_complex.n.01 Oedipal_complex
+   
+peace.n.03 peace
+   peaceable peace-loving pacific passive peaceful 
+peace.n.03 peacefulness
+   peaceable peace-loving pacific passive peaceful 
+peace.n.03 peace_of_mind
+   
+peace.n.03 repose
+   restful reposeful relaxing 
+peace.n.03 serenity
+   dried-up serrate sear tranquil shrivelled successive sequential toothed consecutive serrated downy puberulent sequent serous serene sericeous nonparallel serial shriveled notched sere withered saw-toothed pubescent calm in_series unagitated 
+peace.n.03 heartsease
+   
+peace.n.03 ataraxis
+   tranquillising tranquillizing tranquilising ataractic sedative ataraxic tranquilizing 
+comfort.n.02 comfort
+   consolatory cheering well-heeled well-fixed comfy comforting consoling well-situated well-off comfortable prosperous comforted easy satisfying well-to-do 
+longing.n.01 longing
+   foresighted farseeing foresightful farsighted longsighted tenacious retentive recollective long longish prospicient 
+longing.n.01 yearning
+   
+longing.n.01 hungriness
+   hungry athirst thirsty 
+sinking.n.03 sinking
+   sinkable 
+sinking.n.03 sinking_feeling
+   
+heartstrings.n.01 heartstrings
+   
+unfriendliness.n.01 unfriendliness
+   inimical hostile uncongenial unfriendly 
+impatience.n.02 impatience
+   impatient raring 
+amusement.n.01 amusement
+   amusive laughable diverting funny comic amused amusing comical risible diverted mirthful entertained 
+preference.n.01 preference
+   favourite favorite pet preferable prefatory prefatorial preferential favored introductory best-loved preferred discriminatory preferent 
+preference.n.01 penchant
+   
+preference.n.01 predilection
+   
+preference.n.01 taste
+   neat refined tasteful 
+calmness.n.03 calmness
+   tranquil unagitated calm serene 
+temptation.n.02 temptation
+   alluring tempting tantalising temptable beguiling tantalizing enticing 
+algolagnia.n.01 algolagnia
+   algolagnic 
+algolagnia.n.01 algophilia
+   
+nymphomania.n.01 nymphomania
+   
+joie_de_vivre.n.01 joie_de_vivre
+   
+agony.n.01 agony
+   
+agony.n.01 torment
+   hag-ridden torrential hagridden tormented anguished tortured 
+agony.n.01 torture
+   harrowing torturing excruciating agonising torturous agonizing torturesome tormented anguished tortured 
+fear.n.03 fear
+   frightful dreaded dread terrible trepid timorous horrific frightening dire horrendous fearsome dreadful awful direful cowardly fearful 
+fear.n.03 reverence
+   worshipful telltale revealing revivalistic revenant revised restorative renewing revived revitalising recurring venerating reviving reverent august revitalizing reanimated godly telling respectful revered reverential venerable 
+fear.n.03 awe
+   awed aware abominable atrocious fearsome mindful dread awing unspeakable awestruck dire frightening cognizant awe-inspiring weary cognisant painful horrendous aweary awesome awful terrible fearful frightful awestricken amazing horrific nasty dreadful direful tremendous dreaded 
+fear.n.03 veneration
+   excusable venerating venal venial venous respectful bribable corruptible purchasable august minor dishonest venereal revered reverential venerable forgivable genital 
+intoxication.n.03 intoxication
+   heady inebriated intoxicant intoxicating intoxicated drunk 
+oversensitiveness.n.01 oversensitiveness
+   oversensitive 
+good_humor.n.01 good_humor
+   
+good_humor.n.01 good_humour
+   
+good_humor.n.01 good_temper
+   
+good_humor.n.01 amiability
+   good-humoured amiable genial good-humored cordial affable 
+fidget.n.01 fidget
+   
+fidget.n.01 fidgetiness
+   fretful itchy fidgety antsy 
+fidget.n.01 restlessness
+   unsatisfied uneasy ungratified restless 
+belonging.n.01 belonging
+   
+pining.n.01 pining
+   pineal pinnated pinioned pinnate 
+growing_pains.n.02 growing_pains
+   
+suspense.n.03 suspense
+   suspenseful nail-biting suspensive cliff-hanging 
+sorrow.n.01 sorrow
+   grieving bereft bereaved mourning sorrowing sorrowful grief-stricken 
+complacency.n.01 complacency
+   self-satisfied self-complacent complacent 
+complacency.n.01 complacence
+   self-satisfied self-complacent complacent 
+complacency.n.01 self-complacency
+   
+complacency.n.01 self-satisfaction
+   
+plaintiveness.n.01 plaintiveness
+   plaintive mournful 
+fatigue.n.03 fatigue
+   worn-out dog-tired spent worn_out fagged fatigued washed-out played_out exhausted 
+scunner.n.01 scunner
+   
+sentimentality.n.02 sentimentality
+   sentimental mushy soupy animate slushy mawkish schmalzy sentient drippy kitschy bathetic maudlin schmaltzy soppy hokey 
+hate.n.01 hate
+   hateful hatted scorned despised mean hated detested 
+hate.n.01 hatred
+   hateful hatted scorned despised mean hated detested 
+agape.n.01 agape
+   agape gaping 
+self-pity.n.01 self-pity
+   
+pride.n.02 pride
+   imperious rejoicing prideful disdainful exulting triumphal swaggering sniffy jubilant triumphant haughty supercilious exultant overbearing lordly 
+heavyheartedness.n.01 heavyheartedness
+   heavyhearted 
+distance.n.04 distance
+   distant aloof upstage removed remote distal 
+distance.n.04 aloofness
+   upstage aloof distant 
+bloodlust.n.01 bloodlust
+   
+sadism.n.01 sadism
+   sadistic distressing lamentable deplorable sorry sad pitiful 
+diffidence.n.01 diffidence
+   timid unsure diffident shy 
+diffidence.n.01 self-doubt
+   
+diffidence.n.01 self-distrust
+   
+aggravation.n.01 aggravation
+   exacerbating provoked exasperating aggravating aggravated 
+aggravation.n.01 exasperation
+   maddening browned_off exasperated exacerbating cheesed_off infuriating exasperating vexing aggravating 
+beneficence.n.01 beneficence
+   benevolent good beneficent beneficial benefic philanthropic eleemosynary beneficed 
+nostalgia.n.01 nostalgia
+   nostalgic 
+nirvana.n.01 nirvana
+   
+nirvana.n.01 enlightenment
+   enlightening edifying informative illuminating enlightened educated 
+scruple.n.02 scruple
+   
+scruple.n.02 qualm
+   
+scruple.n.02 misgiving
+   
+umbrage.n.01 umbrage
+   indignant outraged incensed umbrageous shadowed shady shadowy 
+umbrage.n.01 offense
+   
+umbrage.n.01 offence
+   cancelled off standoffish prescribed offish official turned sour 
+dislike.n.02 dislike
+   disliked dislikable 
+libido.n.01 libido
+   
+ardor.n.02 ardor
+   torrid fiery fervent ardent warm perfervid fervid impassioned 
+ardor.n.02 ardour
+   
+stage_fright.n.01 stage_fright
+   
+masochism.n.01 masochism
+   masochistic 
+heaviness.n.02 heaviness
+   great operose wakeless with_child gruelling laboured weighed_down weighty sonorous lumbering clayey labored leaden profound overweight toilsome expectant fleshy threatening backbreaking lowering grueling sound arduous big enceinte grievous intemperate dense hard cloggy punishing heavy laborious large gravid sullen grave ponderous impenetrable 
+awe.n.01 awe
+   awed aware abominable atrocious fearsome mindful dread awing unspeakable awestruck dire frightening cognizant awe-inspiring weary cognisant painful horrendous aweary awesome awful terrible fearful frightful awestricken amazing horrific nasty dreadful direful tremendous dreaded 
+dolor.n.01 dolor
+   tearful lachrymose dolourous mournful dolorous doleful weeping 
+dolor.n.01 dolour
+   tearful lachrymose dolourous dolorous weeping 
+pride.n.01 pride
+   imperious rejoicing prideful disdainful exulting triumphal swaggering sniffy jubilant triumphant haughty supercilious exultant overbearing lordly 
+pride.n.01 pridefulness
+   imperious rejoicing prideful disdainful exulting triumphal swaggering sniffy jubilant triumphant haughty supercilious exultant overbearing lordly 
+penis_envy.n.01 penis_envy
+   
+shamefacedness.n.01 shamefacedness
+   shamed shamefaced sheepish hangdog guilty 
+shamefacedness.n.01 sheepishness
+   sheepish shamefaced sheeplike 
+wildness.n.01 wildness
+   wild groundless furious raging violent uncivilised crazy waste godforsaken tempestuous unwarranted barbarian unfounded hazardous angry uncivilized untamed barbaric idle savage raving_mad gaga baseless risky dotty fantastic 
+wildness.n.01 abandon
+   deserted derelict abandoned 
+carefreeness.n.01 carefreeness
+   harum-scarum unworried devil-may-care carefree happy-go-lucky freewheeling slaphappy 
+carefreeness.n.01 insouciance
+   nonchalant casual insouciant 
+carefreeness.n.01 lightheartedness
+   blithesome lightsome lighthearted blithe light-hearted 
+carefreeness.n.01 lightsomeness
+   blithesome lightsome light lighthearted blithe light-hearted tripping 
+sensuousness.n.01 sensuousness
+   sensuous 
+angst.n.01 angst
+   
+optimism.n.01 optimism
+   optimal optimistic optimum affirmative 
+comfortableness.n.02 comfortableness
+   consolatory cheering well-heeled well-fixed comfy comforting consoling well-situated well-off comfortable prosperous comforted easy satisfying well-to-do 
+dolefulness.n.01 dolefulness
+   tearful lachrymose dolourous mournful dolorous doleful weeping 
+addiction.n.02 addiction
+   addicted addictive habit-forming 
+horror.n.01 horror
+   horrid dread dreaded terrible direful hideous frightening outrageous dire horrendous fearsome dreadful awful horary fearful horrific 
+buck_fever.n.01 buck_fever
+   
+complex.n.03 complex
+   complex 
+cold_feet.n.01 cold_feet
+   
+admiration.n.01 admiration
+   admired admirable 
+admiration.n.01 esteem
+   prestigious honored esteemed 
+emotion.n.01 emotion
+   aroused emotive affectional emotional affective worked_up excited 
+despisal.n.01 despisal
+   unworthy vile wretched scorned detested desperate heroic despicable slimy worthless despised despairing dire hated do-or-die ugly 
+despisal.n.01 despising
+   unworthy vile wretched scorned detested desperate heroic despicable slimy worthless despised despairing dire hated do-or-die ugly 
+peeve.n.01 peeve
+   testy nettlesome miffed pissed_off irritable irritated petulant pettish stung scratchy techy riled peeved peckish cranky fractious steamed nettled pissed annoyed roiled tetchy peevish 
+gold_fever.n.01 gold_fever
+   
+contempt.n.01 contempt
+   contemptible 
+contempt.n.01 disdain
+   imperious prideful contemptuous disdainful scornful insulting swaggering sniffy haughty supercilious overbearing lordly 
+contempt.n.01 scorn
+   contemptuous scorned disdainful scornful insulting despised hated detested 
+contempt.n.01 despite
+   vindictive despiteful spiteful 
+concern.n.02 concern
+   interested concerned implicated 
+concern.n.02 care
+   careful carousing orgiastic deliberate bacchic thrifty heedful bacchanal caring measured bacchanalian 
+concern.n.02 fear
+   frightful dreaded dread terrible trepid timorous horrific frightening dire horrendous fearsome dreadful awful direful cowardly fearful 
+blessedness.n.01 blessedness
+   blamed damn darned blame blasted damned deuced goddamned Blessed beatified blest goddam blessed goddamn infernal 
+blessedness.n.01 beatitude
+   
+blessedness.n.01 beatification
+   beat vincible bushed all_in beatable saintlike sainted angelical vanquishable angelic beatific beatified beaten blessed saintly dead 
+suspense.n.01 suspense
+   suspenseful nail-biting suspensive cliff-hanging 
+silver_lining.n.01 silver_lining
+   
+silver_lining.n.01 bright_side
+   
+intimidation.n.02 intimidation
+   intimidated daunting intimidating 
+amour_propre.n.01 amour_propre
+   
+amour_propre.n.01 conceit
+   swollen egotistical egotistic vain conceited swollen-headed self-conceited 
+amour_propre.n.01 self-love
+   
+amour_propre.n.01 vanity
+   vanished vaned fledged 
+benevolence.n.01 benevolence
+   sympathetic benevolent charitable beneficent good-hearted philanthropic freehearted kindly large-hearted eleemosynary openhearted 
+euphoria.n.01 euphoria
+   
+euphoria.n.01 euphory
+   euphoriant euphoric 
+electricity.n.03 electricity
+   electoral galvanic galvanising elite elect electrical galvanizing elective elected electric 
+self-depreciation.n.01 self-depreciation
+   
+amicability.n.01 amicability
+   amoristic amatory inexpert amicable unskilled amenable ameliorative amelioratory American amentaceous unpaid amateurish amateur amentiferous conformable ameliorating recreational tractable romantic amorous meliorative amative 
+amicability.n.01 amicableness
+   amoristic amatory inexpert amicable unskilled amenable ameliorative amelioratory American amentaceous unpaid amateurish amateur amentiferous conformable ameliorating recreational tractable romantic amorous meliorative amative 
+storminess.n.02 storminess
+   stormy tempestuous 
+exultation.n.01 exultation
+   rejoicing prideful exulting triumphal jubilant triumphant exultant 
+exultation.n.01 jubilance
+   rejoicing elated prideful gleeful exulting triumphal joyful jubilant triumphant exultant 
+exultation.n.01 jubilancy
+   rejoicing elated prideful gleeful exulting triumphal joyful jubilant triumphant exultant 
+exultation.n.01 jubilation
+   rejoicing elated prideful gleeful exulting triumphal joyful jubilant triumphant exultant 
+moodiness.n.01 moodiness
+   glowering moody dour glum morose saturnine sullen temperamental dark sour 
+indifference.n.01 indifference
+   immaterial so-so neutral apathetic deaf indifferent unbiassed inert unbiased 
+philhellenism.n.01 philhellenism
+   Graecophilic philhellene philhellenic Graecophile 
+easiness.n.01 easiness
+   leisurely well-heeled well-fixed light gentle well-situated easygoing well-off comfortable prosperous promiscuous sluttish soft easy wanton well-to-do loose 
+easiness.n.01 relaxation
+   restful relaxant relaxed reposeful relaxing 
+loyalty.n.02 loyalty
+   
+fearlessness.n.01 fearlessness
+   audacious brave unafraid intrepid unfearing fearless dauntless hardy 
+fearlessness.n.01 bravery
+   
+anglophilia.n.01 Anglophilia
+   Anglophilic 
+frisson.n.01 frisson
+   
+frisson.n.01 shiver
+   shivering trembling shaky 
+frisson.n.01 chill
+   shivery shuddery scarey chilly Chilean parky scary chilling 
+frisson.n.01 quiver
+   
+frisson.n.01 shudder
+   shuddering 
+frisson.n.01 thrill
+   
+frisson.n.01 tingle
+   tingling tickling titillating 
+guilt.n.02 guilt
+   
+guilt.n.02 guilty_conscience
+   
+guilt.n.02 guilt_feelings
+   
+guilt.n.02 guilt_trip
+   
+forlornness.n.01 forlornness
+   forlorn 
+forlornness.n.01 loneliness
+   alone solitary unfrequented sole lone only lonely lonesome 
+forlornness.n.01 desolation
+   stark barren bare desolate bleak 
+misanthropy.n.01 misanthropy
+   misanthropic cynical misanthropical 
+pessimism.n.01 pessimism
+   pessimum pessimistic pessimal 
+soft_spot.n.02 soft_spot
+   
+withdrawal.n.04 withdrawal
+   
+withdrawal.n.04 detachment
+   uninvolved degage detachable set-apart unaffectionate detached uncaring free separated isolated 
+grudge.n.01 grudge
+   grudging niggardly scrimy 
+grudge.n.01 score
+   
+grudge.n.01 grievance
+   grieving atrocious weighty monstrous bereaved heartbreaking heartrending sorrowing mourning grievous bereft dangerous serious heavy severe grief-stricken grave life-threatening flagitious 
+abashment.n.01 abashment
+   abashed chagrined embarrassed 
+abashment.n.01 bashfulness
+   blate bashful 
+ambivalence.n.01 ambivalence
+   ambulant ambivalent ambitious challenging ambulatory brownish-yellow yellow-brown amber 
+ambivalence.n.01 ambivalency
+   ambulant ambivalent ambitious challenging ambulatory brownish-yellow yellow-brown amber 
+friendliness.n.01 friendliness
+   well-disposed friendly favorable 
+tumult.n.02 tumult
+   
+tumult.n.02 turmoil
+   
+smugness.n.01 smugness
+   self-satisfied smug 
+state.n.06 state
+   inactive stated still motionless statant imposing electrostatic stative baronial static noble declared statuesque stable stately statistical courtly unchanging formal stationary 
+weepiness.n.01 weepiness
+   weepy 
+weepiness.n.01 tearfulness
+   tearful fierce lachrymose dolourous dolorous violent vehement trigger-happy tearing weeping 
+embitterment.n.01 embitterment
+   
+despair.n.02 despair
+   despairing desperate 
+bonheur.n.01 bonheur
+   
+american_dream.n.01 American_Dream
+   
+heartburning.n.01 heartburning
+   
+bang.n.04 bang
+   banging whopping humongous walloping thumping 
+bang.n.04 boot
+   booted 
+bang.n.04 charge
+   charged supercharged chargeable indictable aerated 
+bang.n.04 rush
+   first-come-first-serve rushed rush 
+bang.n.04 flush
+   flush reddened moneyed red-faced loaded wealthy crimson red flushed rose-cheeked rosy-cheeked affluent rosy 
+bang.n.04 thrill
+   
+bang.n.04 kick
+   
+radiance.n.03 radiance
+   refulgent beamy radial beaming radiate radiant radiating stellate effulgent 
+affection.n.01 affection
+   fond emotive stirred affectional lovesome affectionate tender affective affecting touching poignant warm unnatural moved touched affected 
+affection.n.01 affectionateness
+   fond emotive stirred affectional lovesome affectionate tender affective affecting touching poignant warm unnatural moved touched affected 
+affection.n.01 fondness
+   fond doting tender lovesome affectionate partial adoring warm 
+affection.n.01 tenderness
+   crank tensional tender lovesome untoughened tippy tending raw warm sensitive given minded tenderized tendencious affectionate disposed fond tendentious apt tenderised cranky sore 
+affection.n.01 heart
+   heartening inspiriting 
+affection.n.01 warmness
+   fond warming calefacient tender lovesome affectionate warmed ardent warm strong quick 
+affection.n.01 warmheartedness
+   warmhearted 
+affection.n.01 philia
+   
+chill.n.04 chill
+   shivery shuddery scarey chilly Chilean parky scary chilling 
+chill.n.04 pall
+   palatable palatalized lenitive mitigatory palatine pallid palatial palatalised wan toothsome palsy-walsy alleviative alleviatory chummy palish matey mitigative pale sick palliative palatal pally 
+anaphrodisia.n.01 anaphrodisia
+   
+mourning.n.01 mourning
+   grieving bereft bereaved mourning mournful plaintive sorrowing doleful grief-stricken 
+mourning.n.01 bereavement
+   grieving bereft bereaved mourning sorrowing grief-stricken 
+expectation.n.03 expectation
+   great with_child expectable expectant heavy anticipant large gravid big enceinte anticipative expected 
+pain.n.02 pain
+   irritating terrible pained abominable painful unspeakable offended atrocious dreadful awful afflictive sore 
+pain.n.02 painfulness
+   irritating terrible pained abominable painful unspeakable offended atrocious dreadful awful afflictive sore 
+sorrow.n.02 sorrow
+   grieving bereft bereaved mourning sorrowing sorrowful grief-stricken 
+sorrow.n.02 regret
+   too_bad bad regrettable sorry regretful 
+sorrow.n.02 rue
+   contrite rueful ruthful remorseful 
+sorrow.n.02 ruefulness
+   contrite rueful ruthful remorseful 
+emotionlessness.n.01 emotionlessness
+   passionless emotionless 
+emotionlessness.n.01 impassivity
+   torrid expressionless deadpan unexpressive impassive impassable poker-faced fiery fervent ardent stolid perfervid fervid unpassable impassioned 
+emotionlessness.n.01 impassiveness
+   torrid expressionless deadpan unexpressive impassive impassable poker-faced fiery fervent ardent stolid perfervid fervid unpassable impassioned 
+emotionlessness.n.01 phlegm
+   
+emotionlessness.n.01 indifference
+   immaterial so-so neutral apathetic deaf indifferent unbiassed inert unbiased 
+emotionlessness.n.01 stolidity
+   impassive stolid 
+emotionlessness.n.01 unemotionality
+   reticent unemotional restrained 
+wrath.n.01 wrath
+   
+glow.n.04 glow
+   glowering moody dour glum morose saturnine sullen glowing dark sour 
+bad_temper.n.01 bad_temper
+   
+bad_temper.n.01 ill_temper
+   
+presage.n.01 presage
+   present presentational presentable 
+tsoris.n.01 tsoris
+   
+stomach.n.03 stomach
+   stomachic stomachal gastric 
+devastation.n.02 devastation
+   withering annihilating annihilative devastating crushing 
+dander.n.02 dander
+   dandyish foppish dandified 
+dander.n.02 hackles
+   
+philogyny.n.01 philogyny
+   
+misoneism.n.01 misoneism
+   
+foreboding.n.01 foreboding
+   foreboding portentous fateful 
+foreboding.n.01 premonition
+   premonitory precursory 
+foreboding.n.01 presentiment
+   
+foreboding.n.01 boding
+   barefaced brazen-faced insolent audacious brassy bodacious bald-faced brazen 
+gravity.n.03 gravity
+   dangerous serious inscribed graven incised sober sculptured severe heavy sedate solemn weighty grave life-threatening sculpted grievous etched engraved 
+gravity.n.03 solemnity
+   earnest sober sincere solemn grave sedate 
+appetite.n.01 appetite
+   appetitive 
+appetite.n.01 appetency
+   appetising appetizing appetent 
+appetite.n.01 appetence
+   appetising appetizing appetent 
+affect.n.01 affect
+   fond emotive stirred affectional lovesome affectionate tender affective affecting touching poignant warm unnatural moved touched affected 
+concern.n.03 concern
+   interested concerned implicated 
+mawkishness.n.01 mawkishness
+   sentimental mushy soupy slushy mawkish schmalzy drippy kitschy bathetic maudlin schmaltzy soppy hokey 
+mawkishness.n.01 bathos
+   
+emotional_state.n.01 emotional_state
+   
+emotional_state.n.01 spirit
+   spirituous enlivened mettlesome spectral spiritualistic ghostly spunky spirited peppy gamy bouncing zippy game ghostlike gamey religious gritty phantasmal spiritual bouncy spiritous spiritualist unearthly apparitional 
+infatuation.n.01 infatuation
+   potty taken_with enamored soft_on infatuated in_love smitten 
+rejoicing.n.01 rejoicing
+   rejoicing prideful exulting triumphal jubilant triumphant exultant 
+inclination.n.05 inclination
+   disposed fain inclined prepared 
+filial_love.n.01 filial_love
+   
+devotion.n.01 devotion
+   devoted devotional 
+devotion.n.01 devotedness
+   devoted devotional 
+envy.n.01 envy
+   jealous enviable envious covetous 
+envy.n.01 enviousness
+   jealous enviable envious covetous 
+sympathy.n.02 sympathy
+   
+sympathy.n.02 fellow_feeling
+   
+jollity.n.01 jollity
+   jolly rocky gay merry bumpy jocund jolting jolty jumpy mirthful jovial rough 
+jollity.n.01 jolliness
+   jolly rocky gay merry bumpy jocund jolting jolty jumpy mirthful jovial rough 
+jollity.n.01 joviality
+   gay jocund Jovian jolly mirthful jovial merry 
+enthusiasm.n.01 enthusiasm
+   
+emulation.n.01 emulation
+   emaciated bony wasted skeletal gaunt rivalrous emulous cadaverous haggard pinched 
+resentment.n.01 resentment
+   resentful 
+resentment.n.01 bitterness
+   acerb acrimonious barbed bitterish acrid virulent biting acerbic mordacious bitter sulfurous nipping blistering acid vitriolic sharp-tasting sulphurous pungent caustic 
+resentment.n.01 gall
+   galling nettlesome galore knightly pesky Gallican vexing galled lofty pestiferous Gallic dashing majestic gallant teasing vexatious proud chafed irritating bothersome abounding plaguy annoying pestering plaguey French chivalrous 
+resentment.n.01 rancor
+   rancorous 
+resentment.n.01 rancour
+   
+comfort.n.05 comfort
+   consolatory cheering well-heeled well-fixed comfy comforting consoling well-situated well-off comfortable prosperous comforted easy satisfying well-to-do 
+daze.n.01 daze
+   logy groggy dazed stupid stunned foggy stuporous stupefied 
+daze.n.01 shock
+   aghast dismayed narrow-minded shameful appalled disgraceful shocking shockable scandalous lurid shocked 
+daze.n.01 stupor
+   logy groggy dazed foggy stuporous 
+gratification.n.01 gratification
+   pleasurable grateful congratulatory gratifying complimentary gratified raspy gratuitous free rasping gratulatory costless scratchy grating gratis rough sweet thankful gravelly enjoyable 
+gratification.n.01 satisfaction
+   satisfactory acceptable 
+sensibility.n.02 sensibility
+   carnal sensorial sensual fleshly animal perceived arresting sultry sensory sensitive reasonable yellow receptive sensate centripetal sensed sensible sensationalistic scandalmongering stunning sensational 
+soul.n.03 soul
+   soulful 
+soul.n.03 soulfulness
+   soulful 
+unpleasantness.n.01 unpleasantness
+   unpleasant graceless unpleasing 
+anger.n.01 anger
+   maddened angulate angered furious infuriated angular enraged 
+anger.n.01 choler
+   hotheaded short-tempered irascible quick-tempered hot-tempered choleric 
+anger.n.01 ire
+   irrational Irish ireful Iranian irate irenic Persian 
+gloom.n.02 gloom
+   low low-spirited sorry gloomy dingy drear dispirited blue sulky dreary drab grim dismal depressed glooming gloomful disconsolate down_in_the_mouth downhearted dark downcast down 
+gloom.n.02 gloominess
+   low low-spirited sorry gloomy dingy drear dispirited blue sulky dreary drab grim dismal depressed glooming gloomful disconsolate down_in_the_mouth downhearted dark downcast down 
+gloom.n.02 somberness
+   somber drab sober melancholy sombre 
+gloom.n.02 sombreness
+   somber drab sober melancholy sombre 
+conditioned_emotional_response.n.01 conditioned_emotional_response
+   
+conditioned_emotional_response.n.01 CER
+   scarlet ruby blood-red cerise bright_blue red cerous cherry carmine ruby-red cerulean ceric reddish sky-blue azure crimson cherry-red ruddy cereal 
+conditioned_emotional_response.n.01 conditioned_emotion
+   
+intimidation.n.03 intimidation
+   intimidated daunting intimidating 
+anticipation.n.01 anticipation
+   prevenient anticipated expectant awaited anticipatory anticipant hoped-for anticipative 
+anticipation.n.01 expectancy
+   great with_child expectable expectant heavy anticipant large gravid big enceinte anticipative expected 
+dissatisfaction.n.01 dissatisfaction
+   dissatisfactory disappointing unsatisfying 
+malevolence.n.01 malevolence
+   malevolent evil malefic malign 
+malevolence.n.01 malignity
+   malign malefic malignant malevolent evil 
+fear.n.01 fear
+   frightful dreaded dread terrible trepid timorous horrific frightening dire horrendous fearsome dreadful awful direful cowardly fearful 
+fear.n.01 fearfulness
+   frightful dreaded dread terrible trepid timorous horrific frightening dire horrendous fearsome dreadful awful direful cowardly fearful 
+fear.n.01 fright
+   atrocious fearsome dread horrifying panicked frightened frightening dire panic-stricken scared terrified horrendous awful horrible panic-struck terrible ugly fearful frightful panicky horrific dreadful direful tremendous dreaded 
+placidity.n.01 placidity
+   equable still good-tempered even-tempered tranquil placid smooth unruffled quiet 
+placidity.n.01 placidness
+   equable still good-tempered even-tempered tranquil placid smooth unruffled quiet 
+protectiveness.n.01 protectiveness
+   protective protected protecting saved 
+misocainea.n.01 misocainea
+   
+gaiety.n.02 gaiety
+   
+gaiety.n.02 playfulness
+   played playful playable 
+hostility.n.03 hostility
+   hostile uncongenial unfriendly 
+hostility.n.03 enmity
+   
+hostility.n.03 ill_will
+   
+wistfulness.n.01 wistfulness
+   wistful pensive 
+unrest.n.02 unrest
+   unrefreshed unrested 
+triumph.n.02 triumph
+   rejoicing prideful victorious exulting triumphal jubilant triumphant exultant 
+sensitivity.n.03 sensitivity
+   sensitive supersensitive sensible allergic tender supersensitized sensitized raw hypersensitive hypersensitized hypersensitised sensitizing sensitising sensitised supersensitised sore 
+sensitivity.n.03 sensitiveness
+   sensitive supersensitive sensible allergic tender supersensitized sensitized raw hypersensitive hypersensitized hypersensitised sensitizing sensitising sensitised supersensitised sore 
+self-disgust.n.01 self-disgust
+   
+self-disgust.n.01 self-hatred
+   
+fulfillment.n.01 fulfillment
+   fulfilled 
+fulfillment.n.01 fulfilment
+   fulfilled 
+the_hots.n.01 the_hots
+   
+antipathy.n.01 antipathy
+   
+antipathy.n.01 aversion
+   avoidable aversive evitable avertable avertible 
+antipathy.n.01 distaste
+   repellant revolting unsavory wicked foul distasteful yucky repelling loathly skanky disgustful unsavoury repellent loathsome disgusting 
+discouragement.n.01 discouragement
+   discouraging discouraged demoralised demoralized disheartened 
+discouragement.n.01 disheartenment
+   demoralizing demoralising discouraged dispiriting disheartening demoralised demoralized disheartened 
+discouragement.n.01 dismay
+   aghast dismayed appalled appalling dismaying shocked 
+suffering.n.04 suffering
+   wretched suffering endurable sufferable miserable supportable bearable 
+suffering.n.04 hurt
+   hurtful injurious wounded weakened deleterious hurt 
+ecstasy.n.01 ecstasy
+   
+ecstasy.n.01 rapture
+   rapt vulturous enraptured vulturine predatory ravening raptorial ecstatic rapacious rhapsodic rapturous 
+ecstasy.n.01 transport
+   transportable moveable transferrable transferable movable 
+ecstasy.n.01 exaltation
+   noble-minded idealistic exalted high-flown lofty rarefied rarified ennobling exalting elevated high-minded sublime grand 
+ecstasy.n.01 raptus
+   rapt vulturous enraptured vulturine predatory ravening raptorial ecstatic rapacious rhapsodic rapturous 
+humility.n.02 humility
+   
+humility.n.02 humbleness
+   base low baseborn demeaning broken menial lowly small humiliated humiliating mortifying humble crushed humbled modest humbling 
+encouragement.n.03 encouragement
+   encouraging encouraged bucked_up supporting 
+warpath.n.01 warpath
+   
+mournfulness.n.01 mournfulness
+   grieving bereft bereaved mourning mournful plaintive sorrowing doleful grief-stricken 
+mournfulness.n.01 sorrowfulness
+   grieving bereft bereaved mourning sorrowing sorrowful grief-stricken 
+mournfulness.n.01 ruthfulness
+   contrite rueful ruthful remorseful 
+unhappiness.n.02 unhappiness
+   distressed infelicitous unhappy dysphoric 
+weakness.n.05 weakness
+   faint enfeebling light cut imperfect thinned watery debilitative faded vitiated frail debile diminished unaccented hurt infirm lessened enervating rickety sapless decrepit attenuate washy attenuated weakened fallible weakly weakening feeble weak 
+homesickness.n.01 homesickness
+   homesick 
+relief.n.01 relief
+   alleviated projecting sticking sticking_out eased projected protruding relieved jutting 
+relief.n.01 alleviation
+   alleviative alleviatory alleviated palliative eased lenitive mitigatory relieved mitigative 
+relief.n.01 assuagement
+   
+discontentment.n.01 discontentment
+   discontent discontented 
+discontentment.n.01 discontent
+   discontent discontented 
+discontentment.n.01 discontentedness
+   discontent discontented 
+sensation.n.03 sensation
+   carnal sensorial sensual fleshly animal perceived arresting sultry sensory sensitive reasonable yellow receptive sensate centripetal sensed sensible sensationalistic scandalmongering stunning sensational 
+sulk.n.01 sulk
+   
+sulk.n.01 sulkiness
+   gloomy huffish sluggish sulky glooming gloomful 
+exuberance.n.01 exuberance
+   extravagant riotous luxuriant profuse excessive exuberant high-spirited overweening ebullient lush 
+displeasure.n.01 displeasure
+   displeasing displeased 
+tenderness.n.03 tenderness
+   crank tensional tender lovesome untoughened tippy tending raw warm sensitive given minded tenderized tendencious affectionate disposed fond tendentious apt tenderised cranky sore 
+tenderness.n.03 tenderheartedness
+   tenderhearted 
+gusto.n.01 gusto
+   
+gusto.n.01 relish
+   relativistic related related_to relational relative comparative proportional 
+gusto.n.01 zest
+   zestful barmy zesty yeasty 
+gusto.n.01 zestfulness
+   zestful barmy zesty yeasty 
+nausea.n.02 nausea
+   
+ambition.n.01 ambition
+   
+ambition.n.01 aspiration
+   aspirant aspiring wishful 
+ambition.n.01 dream
+   dreamed 
+joy.n.01 joy
+   elated gleeful joyous joyful jubilant 
+joy.n.01 joyousness
+   elated gleeful joyous joyful jubilant 
+joy.n.01 joyfulness
+   elated gleeful joyous joyful jubilant 
+anguish.n.01 anguish
+   anguished tortured tormented 
+anguish.n.01 torment
+   hag-ridden torrential hagridden tormented anguished tortured 
+anguish.n.01 torture
+   harrowing torturing excruciating agonising torturous agonizing torturesome tormented anguished tortured 
+apprehension.n.01 apprehension
+   worried apprehended comprehended discerning apprehensive appreciated 
+apprehension.n.01 apprehensiveness
+   worried apprehended comprehended discerning apprehensive appreciated 
+apprehension.n.01 dread
+   dread terrible abominable painful unspeakable horrific frightening dire horrendous atrocious fearsome dreadful awful direful fearful dreaded 
+confusion.n.03 confusion
+   illogical mixed-up confusable confused disconnected mazed disoriented scattered mistakable disjointed confusing puzzling perplexing garbled lost confounded bemused disordered baffled broken upset unconnected befuddled at_sea bewildered 
+confusion.n.03 discombobulation
+   discombobulated disconcerted 
+abhorrence.n.01 abhorrence
+   repulsive obscene detestable abhorrent repugnant 
+abhorrence.n.01 abomination
+   execrable abominable detestable painful unspeakable atrocious dreadful awful terrible odious 
+abhorrence.n.01 detestation
+   repulsive execrable scorned repugnant obscene abominable detestable despised abhorrent hated detested odious 
+abhorrence.n.01 execration
+   woeful wretched execrable deplorable abominable detestable miserable damnable odious 
+abhorrence.n.01 loathing
+   revolting wicked foul distasteful yucky repelling loathly skanky disgustful repellent repellant loathsome disgusting 
+abhorrence.n.01 odium
+   peculiar unpaired odorous perfumed remaining rummy funny singular unmated scented left_over sweet-scented odd uneven queer leftover sweet-smelling unexpended unmatched left oddish rum sweet curious odoriferous 
+sexual_desire.n.01 sexual_desire
+   
+sexual_desire.n.01 eros
+   
+sexual_desire.n.01 concupiscence
+   concupiscent lustful lusty 
+sexual_desire.n.01 physical_attraction
+   
+prurience.n.01 prurience
+   salacious lustful lubricious prurient 
+prurience.n.01 pruriency
+   salacious lustful lubricious prurient 
+prurience.n.01 lasciviousness
+   libidinous lustful lascivious lewd 
+prurience.n.01 carnality
+   carnal sensual carnivorous animal fleshly carnation 
+prurience.n.01 lubricity
+   lubricated greased 
+civic_pride.n.01 civic_pride
+   
+civic_pride.n.01 civic_spirit
+   
+embarrassment.n.01 embarrassment
+   abashed embarrassed awkward embarrassing sticky mortified unenviable chagrined mortifying humiliated 
+velleity.n.01 velleity
+   velar 
+hysteria.n.02 hysteria
+   
+craving.n.01 craving
+   craven craved desired recreant 
+cheerlessness.n.01 cheerlessness
+   depressing cheerless uncheerful 
+cheerlessness.n.01 uncheerfulness
+   depressing cheerless uncheerful 
+moroseness.n.01 moroseness
+   glowering moody dour glum morose saturnine sullen dark sour 
+moroseness.n.01 glumness
+   glowering moody dour glum morose saturnine sullen dark sour 
+moroseness.n.01 sullenness
+   glowering moody dour glum heavy threatening lowering morose saturnine sullen dark sour 
+passion.n.01 passion
+   inactive passe demode cursory short-lived transient pass old-fashioned tolerable passee perfunctory antique passing casual passionate ex passive peaceful fugacious old-hat outmoded passant passable ephemeral transitory fair_to_middling adequate 
+passion.n.01 passionateness
+   inactive passe demode cursory short-lived transient pass old-fashioned tolerable passee perfunctory antique passing casual passionate ex passive peaceful fugacious old-hat outmoded passant passable ephemeral transitory fair_to_middling adequate 
+depression.n.04 depression
+   gloomy depressing low low-spirited down_in_the_mouth uncheerful grim downcast dispirited blue downhearted depressed down depressant cheerless 
+softheartedness.n.01 softheartedness
+   soft-boiled softhearted 
+softheartedness.n.01 tenderness
+   crank tensional tender lovesome untoughened tippy tending raw warm sensitive given minded tenderized tendencious affectionate disposed fond tendentious apt tenderised cranky sore 
+wonder.n.01 wonder
+   wonderful inquisitive wondrous howling rattling questioning marvelous speculative marvellous terrific wondering tremendous fantastic grand 
+wonder.n.01 wonderment
+   wonderful inquisitive wondrous howling rattling questioning marvelous speculative marvellous terrific wondering tremendous fantastic grand 
+wonder.n.01 admiration
+   admired admirable 
+agape.n.02 agape
+   agape gaping 
+agape.n.02 agape_love
+   
+languor.n.01 languor
+   languorous dreamy lackadaisical languid 
+languor.n.01 dreaminess
+   woolgathering dreamy moony languorous lackadaisical languid 
+weight.n.05 weight
+   weighted leaden 
+puppy_love.n.01 puppy_love
+   
+puppy_love.n.01 calf_love
+   
+puppy_love.n.01 crush
+   low broken humbled devastating humiliated crushed crushing 
+puppy_love.n.01 infatuation
+   potty taken_with enamored soft_on infatuated in_love smitten 
+cynicism.n.01 cynicism
+   misanthropic cynical misanthropical 
+meekness.n.01 meekness
+   spiritless meek mild tame modest 
+meekness.n.01 submission
+   submissive slavish subservient 
+lecherousness.n.01 lecherousness
+   lecherous 
+lecherousness.n.01 lust
+   lustrous lustful concupiscent burnished bright libidinous glistening glossy lubricious prurient shiny lascivious lewd lusty sheeny salacious shining 
+lecherousness.n.01 lustfulness
+   lustrous lustful concupiscent burnished bright libidinous glistening glossy lubricious prurient shiny lascivious lewd lusty sheeny salacious shining 
+security.n.03 security
+   untroubled dependable inviolable secure unsweet good unafraid impregnable unassailable unattackable safe sec strong 
+hesitance.n.01 hesitance
+   hesitant hesitating 
+hesitance.n.01 hesitancy
+   hesitant hesitating 
+pique.n.02 pique
+   salty zesty engaging savory savoury piquant spicy 
+pique.n.02 temper
+   tempering temporal temperate hardened toughened treated irregular impermanent moderate worldly tempered temporary secular 
+pique.n.02 irritation
+   galling testy nettlesome peevish miffed pissed_off irritable irritated petulant pesky excitable pettish vexing irritative stung pestiferous scratchy techy riled painful teasing vexatious irritating bothersome peckish plaguy annoying pestering cranky plaguey fractious steamed nettled pissed annoyed roiled tetchy peeved 
+self-esteem.n.01 self-esteem
+   
+self-esteem.n.01 self-pride
+   
+stupefaction.n.01 stupefaction
+   
+insecurity.n.02 insecurity
+   unsafe insecure 
+timidity.n.01 timidity
+   faint fainthearted unsure timid shy faint-hearted diffident 
+timidity.n.01 timidness
+   faint fainthearted unsure timid shy faint-hearted diffident 
+timidity.n.01 timorousness
+   well-timed trepid timed seasonable well_timed timorous timely fearful 
+hopelessness.n.01 hopelessness
+   hopeless 
+thing.n.11 thing
+   
+electra_complex.n.01 Electra_complex
+   
+anxiety.n.02 anxiety
+   nervous anxious unquiet uneasy queasy dying 
+undertow.n.01 undertow
+   
+favor.n.04 favor
+   favourite favorite pet favored friendly golden best-loved prosperous preferred well-disposed favourable lucky preferent favorable 
+favor.n.04 favour
+   golden favorable prosperous lucky favourable 
+guilt_pang.n.01 guilt_pang
+   
+compunction.n.01 compunction
+   
+compunction.n.01 remorse
+   contrite rueful ruthful remorseful 
+compunction.n.01 self-reproach
+   
+murderousness.n.01 murderousness
+   murderous homicidal murdered 
+creepy-crawlies.n.01 creepy-crawlies
+   
+insight.n.02 insight
+   insightful 
+insight.n.02 perceptiveness
+   intelligible graspable apprehensible perceivable understandable perceptive perceptual perceived sensed 
+insight.n.02 perceptivity
+   intelligible graspable apprehensible perceivable understandable perceptive perceptual perceived sensed 
+harassment.n.01 harassment
+   harassed harried vexed annoyed pestered 
+harassment.n.01 torment
+   hag-ridden torrential hagridden tormented anguished tortured 
+frustration.n.01 frustration
+   frustrative thwarting frustrating disappointed defeated discomfited foiled frustrated thwarted 
+frustration.n.01 defeat
+   regardful deferential deferent disappointed defeated discomfited foiled frustrated thwarted 
+sex.n.03 sex
+   sexist sexed intimate sexual 
+sex.n.03 sexual_urge
+   
+indignation.n.01 indignation
+   indignant incensed outraged umbrageous 
+indignation.n.01 outrage
+   outer horrid eccentric extortionate knocked_out gonzo hideous unconscionable forbidden outlandish outraged incensed outlying flakey outrageous bizarre tabu outre freaky extinct taboo flaky off-the-wall verboten kayoed freakish proscribed prohibited indignant exorbitant umbrageous usurious KO'd stunned steep out horrific 
+unconcern.n.02 unconcern
+   unconcerned 
+swivet.n.01 swivet
+   
+schadenfreude.n.01 Schadenfreude
+   
+downheartedness.n.01 downheartedness
+   gloomy low low-spirited down_in_the_mouth grim downcast dispirited blue downhearted depressed down 
+downheartedness.n.01 dejectedness
+   dejected 
+downheartedness.n.01 low-spiritedness
+   
+downheartedness.n.01 lowness
+   base low low-spirited menial humiliated crushed petty gloomy low-down low-toned baseborn lowered dispirited lowly blue subaltern humbled modest secondary scurvy lower-ranking grim threatening lowering miserable depressed depleted low-pitched scummy junior-grade down_in_the_mouth broken heavy abject small sullen downhearted humble downcast down 
+downheartedness.n.01 dispiritedness
+   gloomy demoralizing listless low low-spirited demoralising down_in_the_mouth dispiriting grim downcast disheartening dispirited blue downhearted depressed down 
+faintness.n.01 faintness
+   faint swooning fainthearted wispy light light-headed dim timid vague lightheaded faint-hearted feeble weak shadowy 
+mysophilia.n.01 mysophilia
+   
+mellowness.n.01 mellowness
+   high mellowed mellow laid-back 
+hankering.n.01 hankering
+   
+hankering.n.01 yen
+   
+warmheartedness.n.01 warmheartedness
+   warmhearted 
+warmheartedness.n.01 warmth
+   fond warming calefacient tender lovesome affectionate warmed ardent warm strong quick 
+sexual_pleasure.n.01 sexual_pleasure
+   
+disgust.n.01 disgust
+   revolting tired_of disgusted wicked loathsome sick foul distasteful sick_of yucky repelling loathly skanky disgustful repellent repellant disgusting fed_up 
+irritability.n.01 irritability
+   galling testy nettlesome peevish miffed pissed_off irritable irritated petulant pesky excitable pettish vexing irritative stung pestiferous scratchy techy riled painful teasing vexatious irritating bothersome peckish plaguy annoying pestering cranky plaguey fractious steamed nettled pissed annoyed roiled tetchy peeved 
+irritability.n.01 crossness
+   thwartwise fussy ill-tempered crossed crabby transversal grumpy crabbed cross transverse grouchy bad-tempered 
+irritability.n.01 fretfulness
+   latticelike fidgety whiny itchy querulous interlaced latticed antsy whiney fretful fretted 
+irritability.n.01 fussiness
+   fussy ill-tempered particular crabby picky grumpy crabbed cross finicky busy finical grouchy bad-tempered 
+irritability.n.01 peevishness
+   testy nettlesome miffed pissed_off irritable irritated petulant pettish stung scratchy techy riled peeved peckish cranky fractious steamed nettled pissed annoyed roiled tetchy peevish 
+irritability.n.01 petulance
+   testy nettlesome irritable petulant favorite stonelike pettish best-loved favourite scratchy techy petalous petaled preferent pet peckish favored cranky fractious petrous preferred petalled tetchy peevish 
+irritability.n.01 choler
+   hotheaded short-tempered irascible quick-tempered hot-tempered choleric 
+embarrassment.n.02 embarrassment
+   abashed embarrassed awkward embarrassing sticky mortified unenviable chagrined mortifying humiliated 
+confidence.n.02 confidence
+   confident sure-footed confidential positive surefooted convinced secret confiding 
+malice.n.01 malice
+   manful virile male ductile pliable malleable pliant tractile malarial tensile manly Malian manlike 
+malice.n.01 maliciousness
+   malicious 
+malice.n.01 spite
+   vindictive despiteful spiteful 
+malice.n.01 spitefulness
+   vindictive despiteful spiteful 
+malice.n.01 venom
+   deadly poisonous venomous vicious venomed virulent 
+trepidation.n.01 trepidation
+   timorous trepid fearful 
+brotherhood.n.03 brotherhood
+   brotherlike brotherly fraternal 
+ardor.n.03 ardor
+   torrid fiery fervent ardent warm perfervid fervid impassioned 
+ardor.n.03 ardour
+   
+ardor.n.03 fervor
+   torrid fiery fervent ardent perfervid fervid impassioned 
+ardor.n.03 fervour
+   
+ardor.n.03 fervency
+   torrid fiery fervent ardent perfervid fervid impassioned 
+ardor.n.03 fire
+   fired dismissed discharged pink-slipped laid-off 
+ardor.n.03 fervidness
+   torrid fiery fervent ardent perfervid fervid impassioned 
+attrition.n.03 attrition
+   attrited attritional 
+attrition.n.03 contrition
+   contrite rueful ruthful remorseful 
+attrition.n.03 contriteness
+   contrite rueful ruthful remorseful 
+nationalism.n.03 nationalism
+   flag-waving naturistic ultranationalistic realistic lifelike raw naturalistic nativist interior naturalized superpatriotic jingoistic instinctive native nativistic nationalist born national aboriginal natal internal chauvinistic rude established innate nationalistic natural home naturalised 
+levity.n.01 levity
+   
+discomfort.n.02 discomfort
+   
+discomfort.n.02 soreness
+   sensitive sororal tender painful raw sisterly mad huffy afflictive sore sisterlike 
+discomfort.n.02 irritation
+   galling testy nettlesome peevish miffed pissed_off irritable irritated petulant pesky excitable pettish vexing irritative stung pestiferous scratchy techy riled painful teasing vexatious irritating bothersome peckish plaguy annoying pestering cranky plaguey fractious steamed nettled pissed annoyed roiled tetchy peeved 
+isolation.n.02 isolation
+   stranded isolationistic stray isolable isolationist set-apart quarantined disjunct detached obscure marooned separated isolated apart isolating 
+amorousness.n.02 amorousness
+   amoristic amatory inexpert amicable unskilled amenable ameliorative amelioratory American amentaceous unpaid amateurish amateur amentiferous conformable ameliorating recreational tractable romantic amorous meliorative amative 
+amorousness.n.02 eroticism
+   erotic titillating 
+amorousness.n.02 erotism
+   erotic titillating 
+amorousness.n.02 sexiness
+   aphrodisiac aphrodisiacal sexy 
+amorousness.n.02 amativeness
+   amoristic amatory inexpert amicable unskilled amenable ameliorative amelioratory American amentaceous unpaid amateurish amateur amentiferous conformable ameliorating recreational tractable romantic amorous meliorative amative 
+empathy.n.01 empathy
+   
+jealousy.n.01 jealousy
+   
+jealousy.n.01 green-eyed_monster
+   
+fondness.n.01 fondness
+   fond doting tender lovesome affectionate partial adoring warm 
+fondness.n.01 fancy
+   fancied fictitious fancy fabricated fictional 
+fondness.n.01 partiality
+   fond partizan partible partial partisan parted 
+delight.n.01 delight
+   captivated enthralled beguiled delicious delightful entranced delighted charmed 
+delight.n.01 delectation
+   delectable yummy scrumptious delicious sexually_attractive luscious pleasant-tasting toothsome 
+fit.n.01 fit
+   fitted fitting spasmodic interrupted fitful fitter primed set fit healthier meet off-and-on 
+fit.n.01 tantrum
+   
+fit.n.01 scene
+   scenic 
+fit.n.01 conniption
+   
+regard.n.06 regard
+   deferential deferent regardful regardant 
+regard.n.06 respect
+   healthy hefty respectable sizable estimable goodly good well-thought-of various venerating tidy respected respective honorable goodish sizeable respectful several reverential 
+misopedia.n.01 misopedia
+   
+survivor_guilt.n.01 survivor_guilt
+   
+repugnance.n.01 repugnance
+   repulsive obscene detestable abhorrent repugnant 
+repugnance.n.01 repulsion
+   repulsive obscene detestable hideous abhorrent repugnant 
+repugnance.n.01 revulsion
+   
+repugnance.n.01 horror
+   horrid dread dreaded terrible direful hideous frightening outrageous dire horrendous fearsome dreadful awful horary fearful horrific 
+zeal.n.02 zeal
+   avid zealous 
+mercifulness.n.01 mercifulness
+   merciful 
+mercifulness.n.01 mercy
+   merciful 
+love.n.04 love
+   lovable endearing adorable loverly loveable loverlike lovely loving loved 
+love.n.04 sexual_love
+   
+love.n.04 erotic_love
+   
+sulkiness.n.02 sulkiness
+   gloomy huffish sluggish sulky glooming gloomful 
+sulkiness.n.02 huffishness
+   sulky huffish 
+scare.n.02 scare
+   scared frightened scarred marred 
+scare.n.02 panic_attack
+   
+anxiousness.n.02 anxiousness
+   nervous anxious unquiet uneasy queasy dying 
+anxiousness.n.02 disquiet
+   disquieted disquieting upset worried distressed disturbed 
+stewing.n.01 stewing
+   boiled stewed poached 
+joylessness.n.01 joylessness
+   joyless 
+ingratitude.n.01 ingratitude
+   
+ingratitude.n.01 ungratefulness
+   thankless ungrateful discourteous ungracious unthankful 
+dysphoria.n.01 dysphoria
+   
+misology.n.01 misology
+   
+tranquillity.n.02 tranquillity
+   tranquillising tranquillizing calm still tranquilising tranquil serene ataractic placid unagitated smooth unruffled sedative ataraxic tranquilizing quiet 
+tranquillity.n.02 tranquility
+   tranquillising tranquillizing calm still tranquilising tranquil serene ataractic placid unagitated smooth unruffled sedative ataraxic tranquilizing quiet 
+tranquillity.n.02 quietness
+   muted still subdued tranquil placid hushed smooth unruffled restrained quiet 
+tranquillity.n.02 quietude
+   
+buoyancy.n.01 buoyancy
+   buoyant floaty perky chirpy 
+buoyancy.n.01 perkiness
+   buoyant perky chirpy 
+oppression.n.03 oppression
+   tyrannous oppressed laden oppressive tyrannical 
+oppression.n.03 oppressiveness
+   tyrannous oppressed laden oppressive tyrannical 
+quality_of_life.n.01 quality_of_life
+   
+heartlessness.n.01 heartlessness
+   hardhearted heartless 
+heartlessness.n.01 coldheartedness
+   coldhearted 
+heartlessness.n.01 hardheartedness
+   unfeeling stonyhearted hardhearted heartless 
+gloat.n.01 gloat
+   
+gloat.n.01 gloating
+   
+gloat.n.01 glee
+   gleeful jubilant elated joyful 
+liking.n.01 liking
+   sympathetic likable similar probable like same liked likeable potential comparable likely appealing alike corresponding 
+eagerness.n.01 eagerness
+   eager 
+eagerness.n.01 avidity
+   zealous greedy devouring esurient avid 
+eagerness.n.01 avidness
+   zealous greedy devouring esurient avid 
+eagerness.n.01 keenness
+   lancinate great incisive cracking smashing lancinating bully cutting nifty knifelike groovy peachy piercing penetrating penetrative sharp slap-up keen swell dandy exquisite neat not_bad stabbing corking bang-up discriminating acute 
+acquired_taste.n.01 acquired_taste
+   
+vindictiveness.n.01 vindictiveness
+   revengeful despiteful vindictive vengeful spiteful 
+vindictiveness.n.01 vengefulness
+   vengeful revengeful vindictive 
+frustration.n.03 frustration
+   frustrative thwarting frustrating disappointed defeated discomfited foiled frustrated thwarted 
+distress.n.01 distress
+   worrying deplorable sorry sad disturbed pitiful in_a_bad_way disquieted dysphoric stressed distressed worrisome troubling perturbing distressing hard-pressed unhappy distressful lamentable upset disturbing worried hard_put 
+distress.n.01 hurt
+   hurtful injurious wounded weakened deleterious hurt 
+distress.n.01 suffering
+   wretched suffering endurable sufferable miserable supportable bearable 
+ego.n.01 ego
+   egocentric egoistic self-centred self-centered egoistical 
+ego.n.01 egotism
+   swollen egotistical egotistic narcissistic vain self-loving conceited swollen-headed self-conceited 
+ego.n.01 self-importance
+   
+forgiveness.n.01 forgiveness
+   excusable bad exonerative forgiving forged venial absolvitory forgivable 
+stir.n.02 stir
+   aroused stirred stimulated stirred_up stirring rousing moved touched affected soul-stirring 
+love.n.01 love
+   lovable endearing adorable loverly loveable loverlike lovely loving loved 
+class_feeling.n.01 class_feeling
+   
+alienation.n.01 alienation
+   nutrient exotic nourishing nutritive foreign alienating alimentative disoriented alienable estranged nutritious alienated alimentary alien anomic alimental 
+alienation.n.01 disaffection
+   rebellious ill-affected malcontent disaffected 
+alienation.n.01 estrangement
+   estranging alienated estranged 
+huffiness.n.01 huffiness
+   feisty thin-skinned touchy mad huffy sore 
+commiseration.n.01 commiseration
+   comose becoming amusing risible comal forthcoming funny coming decent comely comical fair commiserative comate approaching sightly comic bonnie mirthful laughable decorous comme_il_faut bonny seemly upcoming 
+commiseration.n.01 pity
+   distressing lamentable pathetic misfortunate wretched deplorable sorry sad pitiable pitiful miserable piteous poor hapless 
+commiseration.n.01 ruth
+   contrite rueful ruthful remorseful 
+commiseration.n.01 pathos
+   
+covetousness.n.01 covetousness
+   coveted jealous grabby envious prehensile covetous desired sought_after greedy avaricious grasping in_demand 
+cheerfulness.n.02 cheerfulness
+   cheering unsportsmanlike foul two-timing comforting unsporting cheerful upbeat adulterous cheating dirty pollyannaish satisfying 
+cheerfulness.n.02 blitheness
+   blithesome lightsome lighthearted blithe light-hearted 
+gaiety.n.01 gaiety
+   
+gaiety.n.01 merriment
+   festal brisk lively gay rattling jocund spanking alert snappy festive zippy jolly mirthful jovial merry 
+disapproval.n.01 disapproval
+   disapproving 
+desire.n.01 desire
+   desirous coveted desired suitable worthy sought_after craved desirable wishful in_demand 
+antagonism.n.03 antagonism
+   counter antipathetic incompatible antagonistic antipathetical 
+gladness.n.01 gladness
+   happy glad beaming exhilarated gladdened 
+gladness.n.01 gladfulness
+   happy glad beaming exhilarated gladdened 
+gladness.n.01 gladsomeness
+   gladsome 
+happiness.n.02 happiness
+   well-chosen felicitous happy glad 
+defeatism.n.01 defeatism
+   regardful deferential deferent disappointed defeated discomfited foiled frustrated thwarted 
+hilarity.n.01 hilarity
+   hilarious cragged hilly uproarious mountainous screaming hilar craggy 
+hilarity.n.01 mirth
+   mirrored involved mired 
+hilarity.n.01 mirthfulness
+   gay laughable jocund funny comic amusing comical jolly risible mirthful jovial merry 
+hilarity.n.01 glee
+   gleeful jubilant elated joyful 
+hilarity.n.01 gleefulness
+   gleeful jubilant elated joyful 
+annoyance.n.02 annoyance
+   galling nettlesome miffed pissed_off harried irritated pesky vexing vexed stung pestiferous pestered riled teasing vexatious irritating bothersome harassed plaguy annoying pestering plaguey steamed nettled pissed annoyed roiled peeved 
+annoyance.n.02 chafe
+   chafed galled 
+annoyance.n.02 vexation
+   galling nettlesome harried infuriating pesky maddening vexing exasperating vexed pestiferous pestered teasing vexatious irritating bothersome harassed plaguy annoying pestering plaguey annoyed 
+temper.n.02 temper
+   tempering temporal temperate hardened toughened treated irregular impermanent moderate worldly tempered temporary secular 
+temper.n.02 mood
+   
+temper.n.02 humor
+   humane humorous humanitarian human-centred humoral humourous humanistic humanist humic human humified human-centered 
+temper.n.02 humour
+   humorous humourous 
+ardor.n.01 ardor
+   torrid fiery fervent ardent warm perfervid fervid impassioned 
+ardor.n.01 ardour
+   
+ardor.n.01 elan
+   elemental uncomplicated elated gleeful simple primary elementary joyful unproblematic jubilant elating exhilarating 
+ardor.n.01 zeal
+   avid zealous 
+entrancement.n.01 entrancement
+   captivated enchanting enteral beguiling intestinal bewitching charmed entrancing captivating enthralled alluring enteric fascinating enticing tempting beguiled entranced delighted enthralling 
+entrancement.n.01 ravishment
+   ravishing raped ravaging ravenous famished rapacious raptorial sacked starved voracious ravaged predatory pillaged esurient edacious despoiled wolfish vulturous vulturine ravening sharp-set 
+consolation.n.01 consolation
+   comforting consolable consoling consolatory 
+consolation.n.01 solace
+   
+consolation.n.01 solacement
+   
+misery.n.02 misery
+   
+woe.n.02 woe
+   woeful deplorable execrable wretched miserable woebegone 
+woe.n.02 woefulness
+   woeful deplorable execrable wretched miserable woebegone 
+self-consciousness.n.01 self-consciousness
+   
+self-consciousness.n.01 uneasiness
+   awkward nervous anxious unquiet ill_at_ease restless uneasy queasy 
+self-consciousness.n.01 uncomfortableness
+   uncomfortable 
+caprice.n.01 caprice
+   
+caprice.n.01 impulse
+   hotheaded driving whimsical tearaway impetuous brainish capricious impulsive madcap unprompted 
+caprice.n.01 whim
+   
+gratefulness.n.01 gratefulness
+   pleasurable grateful congratulatory gratifying complimentary gratified raspy gratuitous free rasping gratulatory costless scratchy grating gratis rough sweet thankful gravelly enjoyable 
+gratefulness.n.01 thankfulness
+   grateful thankful 
+gratefulness.n.01 appreciativeness
+   appreciable appreciative apprehended comprehended appreciated 
+belligerence.n.01 belligerence
+   aggressive militant war-ridden warring belligerent 
+belligerence.n.01 belligerency
+   aggressive militant war-ridden warring belligerent 
+self-torture.n.01 self-torture
+   
+self-torture.n.01 self-torment
+   
+creeps.n.02 creeps
+   
+dignity.n.01 dignity
+   ennobling self-respectful dignified dignifying self-respecting 
+dignity.n.01 self-respect
+   
+dignity.n.01 self-regard
+   
+dignity.n.01 self-worth
+   
+wish.n.01 wish
+   desirous aspirant aspiring wishful 
+wish.n.01 wishing
+   desirous aspirant aspiring wishful 
+wish.n.01 want
+   cherished treasured absent deficient wanting missing wanted lacking precious 
+disappointment.n.01 disappointment
+   dissatisfactory unsatisfying disappointing disappointed defeated discomfited foiled frustrated thwarted 
+disappointment.n.01 letdown
+   
+hero_worship.n.01 hero_worship
+   
+chagrin.n.01 chagrin
+   abashed chagrined embarrassed 
+chagrin.n.01 humiliation
+   embarrassed low demeaning broken mortified humiliated humiliating mortifying crushed humbled humbling 
+chagrin.n.01 mortification
+   deadly embarrassed demeaning embarrassing mortified humiliated mortifying humiliating gangrenous humbling mortal deathly 
+helplessness.n.03 helplessness
+   helpless lost incapacitated 
+world-weariness.n.01 world-weariness
+   
+world-weariness.n.01 Weltschmerz
+   
+blahs.n.01 blahs
+   
+togetherness.n.01 togetherness
+   together 
+wound.n.03 wound
+   wound wounding stabbing wounded hurt 
+jocundity.n.01 jocundity
+   gay jocund jolly mirthful jovial merry 
+jocundity.n.01 jocularity
+   jesting jocose joking jocular 
+pang.n.01 pang
+   
+pang.n.01 stab
+   knifelike piercing lancinate wounding stabbing lancinating keen cutting 
+pang.n.01 twinge
+   
+maleficence.n.01 maleficence
+   malign malefic maleficent malevolent evil 
+stomach.n.04 stomach
+   stomachic stomachal gastric 
+sanguinity.n.01 sanguinity
+   sanguine gory sanguinary slaughterous florid butcherly sanguineous rubicund bloody-minded bloodthirsty ruddy 
+sanguinity.n.01 sanguineness
+   sanguine gory sanguinary slaughterous florid butcherly sanguineous rubicund bloody-minded bloodthirsty ruddy 
+earnestness.n.01 earnestness
+   dear heartfelt earnest sincere solemn businesslike devout 
+earnestness.n.01 seriousness
+   dangerous serious severe good unplayful sober grave life-threatening grievous 
+earnestness.n.01 sincerity
+   sintered solemn sincere earnest 
+aphrodisia.n.01 aphrodisia
+   
+hope.n.02 hope
+   hopeful promising bright 
+satyriasis.n.01 satyriasis
+   
+boredom.n.01 boredom
+   
+boredom.n.01 ennui
+   
+boredom.n.01 tedium
+   
+ill_humor.n.01 ill_humor
+   
+ill_humor.n.01 ill_humour
+   
+ill_humor.n.01 distemper
+   
+compassion.n.01 compassion
+   compassionate 
+compassion.n.01 compassionateness
+   compassionate 
+compatibility.n.01 compatibility
+   compatible 
+disinclination.n.01 disinclination
+   disinclined 
+razbliuto.n.01 razbliuto
+   
+satisfaction.n.01 satisfaction
+   satisfactory acceptable 
+misogyny.n.01 misogyny
+   
+misogyny.n.01 misogynism
+   misogynistic misogynous misogynic 
+testiness.n.01 testiness
+   peckish testy nettlesome scratchy techy irritable cranky fractious pettish petulant tetchy peevish 
+testiness.n.01 touchiness
+   feisty ticklish thin-skinned touchy huffy delicate 
+testiness.n.01 tetchiness
+   peckish testy nettlesome scratchy techy irritable cranky fractious pettish petulant tetchy peevish 
+hopefulness.n.02 hopefulness
+   hopeful promising bright 
+jitteriness.n.01 jitteriness
+   uptight overstrung high-strung edgy highly_strung jittery jumpy restive nervy 
+jitteriness.n.01 jumpiness
+   uptight rocky bumpy overstrung jolting high-strung highly_strung edgy jittery jolty jumpy restive nervy rough 
+jitteriness.n.01 nervousness
+   flighty unquiet anxious nervous aflutter neural uneasy queasy spooky skittish 
+jitteriness.n.01 restiveness
+   rested reposeful restive nervy restful uptight restorative renewing revitalising recuperative jumpy reviving high-strung highly_strung relaxing overstrung jittery revitalizing edgy 
+lovingness.n.01 lovingness
+   lovable endearing adorable loverly loveable loverlike lovely loving loved 
+lovingness.n.01 caring
+   careful carousing orgiastic deliberate bacchic thrifty heedful bacchanal caring measured bacchanalian 
+sweet_tooth.n.01 sweet_tooth
+   
+willies.n.01 willies
+   headstrong froward willful willing self-willed wilful unforced uncoerced 
+technophilia.n.01 technophilia
+   technophilic 
+approval.n.02 approval
+   approved affirmative approbative plausive approving approbatory sanctioned 
+leaning.n.01 leaning
+   thin atilt tipped tilted lean canted skimpy leaning 
+leaning.n.01 propensity
+   
+leaning.n.01 tendency
+   crank tensional tender lovesome untoughened tippy tending raw warm sensitive given minded tenderized tendencious affectionate disposed fond tendentious apt tenderised cranky sore 
+broken_heart.n.01 broken_heart
+   
+irascibility.n.01 irascibility
+   hotheaded short-tempered irascible quick-tempered hot-tempered choleric 
+irascibility.n.01 short_temper
+   
+irascibility.n.01 spleen
+   
+irascibility.n.01 quick_temper
+   
+amorousness.n.01 amorousness
+   amoristic amatory inexpert amicable unskilled amenable ameliorative amelioratory American amentaceous unpaid amateurish amateur amentiferous conformable ameliorating recreational tractable romantic amorous meliorative amative 
+amorousness.n.01 enamoredness
+   potty taken_with enamored soft_on infatuated in_love smitten 
+mental_anguish.n.01 mental_anguish
+   
+closeness.n.01 closeness
+   closing close confining unopen nigh unaired closemouthed closed tightlipped airless secretive tight close-fitting near shut snug unsympathetic skinny closelipped closed_in cheeseparing stuffy penny-pinching faithful 
+closeness.n.01 intimacy
+   intimal versed inner intimate sexual knowledgeable informal cozy familiar internal 
+agitation.n.03 agitation
+   agitated provoking agitating agitative 
+misogamy.n.01 misogamy
+   
+panic.n.01 panic
+   
+panic.n.01 terror
+   wonderful tremendous grand wondrous tellurian howling rattling marvellous terrene terrifying marvelous mundane terrific terrestrial fantastic telluric 
+panic.n.01 affright
+   

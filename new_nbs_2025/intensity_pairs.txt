@@ -1,0 +1,746 @@
+American_Dream                	ambition aspiration dream
+Anglophilia                   	admiration esteem
+Anglophobia                   	dislike
+CER                           	emotion
+Electra_complex               	complex
+Oedipal_complex               	complex
+Oedipus_complex               	complex
+Schadenfreude                 	delectation delight
+Weltschmerz                   	melancholy
+abandon                       	passion passionateness
+abashment                     	embarrassment
+abhorrence                    	disgust hate hatred
+abomination                   	disgust hate hatred
+acquired_taste                	penchant predilection preference taste
+addiction                     	craving
+admiration                    	amazement astonishment liking
+adoration                     	love
+affright                      	fear fearfulness fright
+afterglow                     	pleasantness
+agape                         	love love
+agape_love                    	love
+aggravation                   	annoyance chafe vexation
+aggression                    	enmity hostility ill_will
+aggressiveness                	enmity hostility ill_will
+agony                         	hurt suffering
+alarm                         	fear fearfulness fright
+algolagnia                    	sexual_pleasure
+algophilia                    	sexual_pleasure
+alienation                    	dislike
+alleviation                   	comfort
+aloofness                     	indifference
+amativeness                   	concupiscence eros physical_attraction sexual_desire
+ambition                      	desire
+amiability                    	humor humour mood temper
+amicability                   	friendliness
+amicableness                  	friendliness
+amorousness                   	concupiscence eros love physical_attraction sexual_desire
+amour_propre                  	pride pridefulness
+amusement                     	delectation delight
+anaphrodisia                  	concupiscence eros physical_attraction sexual_desire
+anger                         	emotion
+angst                         	anxiety
+anguish                       	distress hurt suffering
+animosity                     	enmity hostility ill_will
+animus                        	enmity hostility ill_will
+annoyance                     	anger choler ire
+antagonism                    	dislike enmity hostility ill_will
+anticipation                  	expectation
+antipathy                     	dislike
+anxiety                       	emotion
+anxiousness                   	anxiety
+aphrodisia                    	concupiscence eros physical_attraction sexual_desire
+appetence                     	craving
+appetency                     	craving
+appetite                      	craving
+appreciativeness              	gratitude
+apprehension                  	fear fearfulness fright
+apprehensiveness              	fear fearfulness fright
+approbation                   	approval
+approval                      	liking
+ardor                         	avidity avidness eagerness keenness love passion passionateness
+ardour                        	avidity avidness eagerness keenness love passion passionateness
+aspiration                    	desire
+assuagement                   	comfort
+ataraxis                      	quietness quietude tranquility tranquillity
+attachment                    	affection affectionateness fondness heart philia tenderness warmheartedness warmness
+attrition                     	regret rue ruefulness sorrow
+aversion                      	dislike
+avidity                       	enthusiasm
+avidness                      	enthusiasm
+awe                           	admiration emotion wonder wonderment
+bad_blood                     	enmity hostility ill_will
+bad_temper                    	anger choler ire
+bang                          	excitement exhilaration
+bashfulness                   	embarrassment
+bathos                        	sentimentality
+beatification                 	felicity happiness
+beatitude                     	felicity happiness
+belligerence                  	enmity hostility ill_will
+belligerency                  	enmity hostility ill_will
+belonging                     	happiness
+beneficence                   	benevolence
+benevolence                   	love
+bereavement                   	sadness sorrow sorrowfulness
+bitterness                    	enmity hostility ill_will
+blahs                         	boredom ennui tedium
+blessedness                   	felicity happiness
+blitheness                    	happiness
+bloodlust                     	desire
+boding                        	apprehension apprehensiveness dread
+bonheur                       	happiness
+boot                          	excitement exhilaration
+boredom                       	dissatisfaction
+bright_side                   	consolation solace solacement
+broken_heart                  	sorrow
+brokenheartedness             	sorrow
+brooding                      	melancholy
+brotherhood                   	friendliness
+buck_fever                    	fever
+buoyancy                      	blitheness cheerfulness
+calf_love                     	love
+caprice                       	desire
+captivation                   	liking
+care                          	anxiety
+carefreeness                  	blitheness cheerfulness
+caring                        	love
+carnality                     	amativeness amorousness eroticism erotism sexiness
+chafe                         	anger choler ire
+chagrin                       	embarrassment
+charge                        	excitement exhilaration
+cheerfulness                  	happiness
+cheerlessness                 	sadness unhappiness
+chill                         	apprehension apprehensiveness dread fear fearfulness fright
+choler                        	distemper emotion ill_humor ill_humour
+civic_pride                   	pride
+civic_spirit                  	pride
+class_feeling                 	enmity hostility ill_will
+closeness                     	belonging
+cold_comfort                  	consolation solace solacement
+cold_feet                     	timidity timidness timorousness
+coldheartedness               	unconcern
+comfort                       	gratification pleasance pleasure satisfaction
+comfortableness               	belonging
+commiseration                 	fellow_feeling sympathy
+compassion                    	fellow_feeling sympathy
+compassionateness             	fellow_feeling sympathy
+compatibility                 	fellow_feeling sympathy
+complacence                   	satisfaction
+complacency                   	satisfaction
+compunction                   	regret rue ruefulness sorrow
+conceit                       	pride pridefulness
+concern                       	anxiety fellow_feeling sympathy
+concupiscence                 	desire
+conditioned_emotion           	emotion
+conditioned_emotional_response	emotion
+confidence                    	security
+conflict                      	ambivalence ambivalency
+confusion                     	embarrassment
+conniption                    	bad_temper ill_temper
+conscience                    	shame
+consolation                   	comfort
+consternation                 	fear fearfulness fright
+contempt                      	dislike
+contentment                   	happiness
+contriteness                  	regret rue ruefulness sorrow
+contrition                    	regret rue ruefulness sorrow
+coolness                      	calmness
+covetousness                  	enviousness envy
+craving                       	desire
+creeps                        	fear fearfulness fright
+creepy-crawlies               	dislike
+crossness                     	distemper ill_humor ill_humour
+cruelty                       	coldheartedness hardheartedness heartlessness
+crush                         	love
+cynicism                      	pessimism
+dander                        	anger choler ire
+daze                          	stupefaction
+defeat                        	disappointment letdown
+defeatism                     	resignation surrender
+dejectedness                  	sadness unhappiness
+delectation                   	pleasance pleasure
+delight                       	pleasance pleasure
+demoralisation                	depression
+demoralization                	depression
+depression                    	sadness unhappiness
+desolation                    	sadness unhappiness
+despisal                      	hate hatred
+despising                     	hate hatred
+despite                       	dislike
+despondence                   	depression
+despondency                   	depression
+detachment                    	indifference
+detestation                   	disgust hate hatred
+devotedness                   	love
+devotion                      	love
+diffidence                    	timidity timidness timorousness
+dignity                       	pride pridefulness
+disaffection                  	dislike
+disappointment                	dissatisfaction
+disapproval                   	dislike
+discombobulation              	embarrassment
+discomfiture                  	anxiety embarrassment
+discomfort                    	hurt suffering
+discomposure                  	anxiety embarrassment
+disconcertion                 	anxiety embarrassment
+disconcertment                	anxiety embarrassment
+disconsolateness              	depression
+discontent                    	hungriness longing yearning
+discontentedness              	hungriness longing yearning
+discontentment                	hungriness longing yearning
+discouragement                	despair
+disdain                       	dislike
+disgruntlement                	discontent discontentedness discontentment
+disgust                       	dislike
+disheartenment                	despair
+disinclination                	dislike
+dismay                        	despair fear fearfulness fright
+dispiritedness                	sadness unhappiness
+displeasure                   	annoyance chafe dissatisfaction vexation
+disquiet                      	anxiety
+disquietude                   	anxiety
+dissatisfaction               	discontent discontentedness discontentment
+distance                      	indifference
+distaste                      	dislike
+distemper                     	humor humour mood temper
+distress                      	pain painfulness
+dolefulness                   	sadness unhappiness
+dolor                         	brokenheartedness grief heartache heartbreak
+dolour                        	brokenheartedness grief heartache heartbreak
+downheartedness               	sadness unhappiness
+dread                         	fear fearfulness fright
+dream                         	desire
+dreaminess                    	easiness relaxation
+dudgeon                       	indignation outrage
+dysphoria                     	depression discontent discontentedness discontentment
+eagerness                     	enthusiasm
+earnestness                   	gravity solemnity
+easiness                      	quietness quietude tranquility tranquillity
+ecstasy                       	emotional_state spirit
+edginess                      	anxiety
+ego                           	pride pridefulness
+egotism                       	pride pridefulness
+elan                          	avidity avidness eagerness keenness
+elation                       	joy joyfulness joyousness
+electricity                   	stir
+embarrassment                 	emotional_state shame spirit
+embitterment                  	unhappiness
+emotional_state               	emotion
+emotionlessness               	apathy
+empathy                       	fellow_feeling sympathy
+emulation                     	ambition aspiration dream
+enamoredness                  	love
+enchantment                   	liking
+encouragement                 	hope
+enjoyment                     	pleasance pleasure
+enlightenment                 	beatification beatitude blessedness
+enmity                        	hate hatred
+ennui                         	dissatisfaction
+enragement                    	anger choler ire
+enthrallment                  	liking
+entrancement                  	delectation delight
+enviousness                   	bitterness gall rancor rancour resentment
+envy                          	bitterness gall rancor rancour resentment
+eros                          	desire
+erotic_love                   	concupiscence eros physical_attraction sexual_desire
+eroticism                     	concupiscence eros physical_attraction sexual_desire
+erotism                       	concupiscence eros physical_attraction sexual_desire
+esteem                        	liking
+estrangement                  	dislike
+euphoria                      	elation high_spirits lightness
+euphory                       	elation high_spirits lightness
+exaltation                    	emotional_state spirit
+exasperation                  	annoyance chafe vexation
+excitement                    	joy joyfulness joyousness
+execration                    	disgust hate hatred
+exhilaration                  	joy joyfulness joyousness
+expectancy                    	expectation
+exuberance                    	enthusiasm joy joyfulness joyousness
+exultation                    	joy joyfulness joyousness
+fancy                         	liking
+fascination                   	liking
+fatigue                       	boredom ennui tedium
+favor                         	approval
+favour                        	approval
+fear                          	anxiety emotion emotion
+fearfulness                   	emotion
+feelings                      	sensitiveness sensitivity
+felicity                      	emotional_state spirit
+fervency                      	passion passionateness
+fervidness                    	passion passionateness
+fervor                        	passion passionateness
+fervour                       	passion passionateness
+fetish                        	concupiscence eros physical_attraction sexual_desire
+fever                         	anticipation expectancy
+fidget                        	agitation
+fidgetiness                   	agitation
+filial_love                   	love
+fire                          	passion passionateness
+fit                           	bad_temper ill_temper
+flush                         	excitement exhilaration
+fond_regard                   	affection affectionateness fondness heart philia tenderness warmheartedness warmness
+fondness                      	liking
+foreboding                    	apprehension apprehensiveness dread
+forgiveness                   	mercifulness mercy
+forlornness                   	sadness unhappiness
+fretfulness                   	distemper ill_humor ill_humour
+friendliness                  	liking
+fright                        	emotion
+frisson                       	fear fearfulness fright
+frustration                   	annoyance chafe disappointment letdown vexation
+fulfillment                   	satisfaction
+fulfilment                    	satisfaction
+fury                          	anger choler ire
+fussiness                     	distemper ill_humor ill_humour
+gaiety                        	happiness levity
+gall                          	enmity hostility ill_will
+gladfulness                   	happiness
+gladness                      	happiness
+gladsomeness                  	happiness
+glee                          	gaiety merriment satisfaction
+gleefulness                   	gaiety merriment
+gloat                         	satisfaction
+gloating                      	satisfaction
+gloom                         	apprehension apprehensiveness dread melancholy
+gloominess                    	apprehension apprehensiveness dread melancholy
+glumness                      	moodiness
+gold_fever                    	fever
+good_humor                    	humor humour mood temper
+good_humour                   	humor humour mood temper
+good_temper                   	humor humour mood temper
+good_will                     	friendliness
+goodwill                      	friendliness
+gratefulness                  	gratitude
+gratification                 	emotional_state spirit
+green-eyed_monster            	enviousness envy
+grief                         	sorrow
+grievance                     	bitterness gall rancor rancour resentment
+growing_pains                 	pain painfulness
+grudge                        	bitterness gall rancor rancour resentment
+guilt                         	compunction remorse self-reproach
+guilt_feelings                	compunction remorse self-reproach
+guilt_pang                    	pang stab twinge
+guilt_trip                    	compunction remorse self-reproach
+guilty_conscience             	compunction remorse self-reproach
+gusto                         	enjoyment enthusiasm
+hackles                       	anger choler ire
+hankering                     	hungriness longing yearning
+happiness                     	emotional_state spirit
+harassment                    	annoyance chafe vexation
+hardheartedness               	unconcern
+hate                          	emotion
+hatred                        	emotion
+heartache                     	sorrow
+heartbreak                    	sorrow
+heartburning                  	bitterness gall rancor rancour resentment
+heartlessness                 	unconcern
+heartsease                    	quietness quietude tranquility tranquillity
+heartsickness                 	depression
+heartstrings                  	compassion compassionateness love
+heaviness                     	sadness unhappiness
+heavyheartedness              	melancholy
+helplessness                  	depression
+hero_worship                  	admiration esteem
+hesitance                     	diffidence self-distrust self-doubt
+hesitancy                     	diffidence self-distrust self-doubt
+high_dudgeon                  	indignation outrage
+high_spirits                  	joy joyfulness joyousness
+hilarity                      	gaiety merriment
+homesickness                  	nostalgia
+hope                          	anticipation expectancy
+hopefulness                   	hope
+hopelessness                  	despair
+horror                        	disgust fear fearfulness fright
+hostility                     	hate hatred
+huffiness                     	anger choler ire
+huffishness                   	bitterness gall rancor rancour resentment
+humiliation                   	embarrassment
+hungriness                    	desire
+hurt                          	pain pain painfulness painfulness
+hysteria                      	fear fearfulness fright
+ill_humor                     	humor humour mood temper
+ill_humour                    	humor humour mood temper
+ill_temper                    	anger choler ire
+ill_will                      	hate hatred
+impassiveness                 	apathy
+impassivity                   	apathy
+impatience                    	fidget fidgetiness restlessness
+imperturbability              	calmness
+imperturbableness             	calmness
+impulse                       	desire
+inclination                   	liking
+indifference                  	apathy unconcern
+indignation                   	anger choler ire
+infatuation                   	love passion passionateness
+inferiority_complex           	complex
+infuriation                   	anger choler ire
+inquietude                    	anxiety
+insecurity                    	anxiety
+insight                       	sensibility
+insouciance                   	blitheness cheerfulness
+intimacy                      	belonging
+intimidation                  	discouragement disheartenment dismay fear fearfulness fright
+intoxication                  	excitement exhilaration
+irascibility                  	bad_temper ill_temper
+ire                           	emotion
+irritability                  	distemper ill_humor ill_humour
+irritation                    	annoyance chafe hurt suffering vexation
+isolation                     	alienation disaffection estrangement
+itch                          	desire
+jealousy                      	enviousness envy
+jitteriness                   	anxiety
+jocularity                    	gaiety merriment
+jocundity                     	gaiety merriment
+joie_de_vivre                 	enjoyment
+jolliness                     	amiability gaiety good_humor good_humour good_temper merriment
+jollity                       	amiability gaiety good_humor good_humour good_temper merriment
+joviality                     	amiability gaiety good_humor good_humour good_temper merriment
+joy                           	emotion
+joyfulness                    	emotion
+joylessness                   	cheerlessness uncheerfulness
+joyousness                    	emotion
+jubilance                     	joy joyfulness joyousness
+jubilancy                     	joy joyfulness joyousness
+jubilation                    	joy joyfulness joyousness
+jumpiness                     	anxiety
+keenness                      	enthusiasm
+kick                          	excitement exhilaration
+kind-heartedness              	fellow_feeling sympathy
+kindheartedness               	fellow_feeling sympathy
+languor                       	apathy easiness relaxation
+lasciviousness                	amativeness amorousness eroticism erotism sexiness
+lassitude                     	apathy
+leaning                       	inclination
+lecherousness                 	concupiscence eros physical_attraction sexual_desire
+letdown                       	dissatisfaction
+libido                        	concupiscence eros physical_attraction sexual_desire
+lightheartedness              	blitheness cheerfulness
+lightness                     	joy joyfulness joyousness
+lightsomeness                 	blitheness cheerfulness
+listlessness                  	apathy
+lividity                      	fury madness rage
+loathing                      	disgust hate hatred
+loneliness                    	sadness unhappiness
+longing                       	desire
+love                          	concupiscence emotion eros physical_attraction sexual_desire
+lovesickness                  	pining
+lovingness                    	love
+low-spiritedness              	sadness unhappiness
+lowness                       	sadness unhappiness
+loyalty                       	love
+lubricity                     	amativeness amorousness eroticism erotism sexiness
+lust                          	concupiscence eros physical_attraction sexual_desire
+lustfulness                   	concupiscence eros physical_attraction sexual_desire
+madness                       	anger choler ire
+maleficence                   	malevolence malignity
+malevolence                   	hate hatred
+malice                        	malevolence malignity
+maliciousness                 	malevolence malignity
+malignity                     	hate hatred
+masochism                     	sexual_pleasure
+mawkishness                   	sentimentality
+meekness                      	humbleness humility
+melancholy                    	sadness unhappiness
+mellowness                    	kind-heartedness kindheartedness
+mental_anguish                	pain painfulness
+mercifulness                  	compassion compassionateness
+mercilessness                 	coldheartedness hardheartedness heartlessness
+mercy                         	compassion compassionateness
+merriment                     	happiness
+mirth                         	gaiety merriment
+mirthfulness                  	gaiety merriment
+misanthropy                   	hate hatred
+misery                        	sadness unhappiness
+misgiving                     	anxiety
+misocainea                    	misoneism
+misogamy                      	hate hatred
+misogynism                    	hate hatred
+misogyny                      	hate hatred
+misology                      	hate hatred
+misoneism                     	hate hatred
+misopedia                     	hate hatred
+moodiness                     	distemper ill_humor ill_humour
+moroseness                    	moodiness
+mortification                 	embarrassment
+mournfulness                  	sorrow
+mourning                      	sadness sorrow sorrowfulness
+murderousness                 	hate hatred
+mysophilia                    	liking
+nationalism                   	ambition aspiration dream
+nausea                        	disgust
+nervousness                   	anxiety
+nirvana                       	beatification beatitude blessedness
+nostalgia                     	hungriness longing yearning
+nymphomania                   	concupiscence eros physical_attraction sexual_desire
+odium                         	disgust hate hatred
+offence                       	anger choler ire
+offense                       	anger choler ire
+oppression                    	depression
+oppressiveness                	depression
+optimism                      	hope
+outrage                       	anger choler ire
+oversensitiveness             	sensitiveness sensitivity
+pall                          	apprehension apprehensiveness dread
+panic                         	fear fearfulness fright
+panic_attack                  	fear fearfulness fright
+partiality                    	liking
+passion                       	concupiscence eros physical_attraction sexual_desire
+pathos                        	fellow_feeling sympathy
+peace                         	quietness quietude tranquility tranquillity
+peace_of_mind                 	quietness quietude tranquility tranquillity
+peacefulness                  	quietness quietude tranquility tranquillity
+peeve                         	humor humour mood temper
+peevishness                   	distemper ill_humor ill_humour
+penance                       	compunction remorse self-reproach
+penchant                      	liking
+penis_envy                    	enviousness envy
+penitence                     	compunction remorse self-reproach
+pensiveness                   	melancholy
+perceptiveness                	sensibility
+perceptivity                  	sensibility
+perkiness                     	blitheness cheerfulness
+pessimism                     	despair
+pet                           	choler crossness fretfulness fussiness irritability peevishness petulance
+petulance                     	distemper ill_humor ill_humour
+philhellenism                 	admiration esteem
+philogyny                     	admiration esteem
+phlegm                        	apathy
+physical_attraction           	desire
+pining                        	hungriness longing yearning
+pique                         	annoyance chafe vexation
+pitilessness                  	coldheartedness hardheartedness heartlessness
+pity                          	fellow_feeling sympathy
+placidity                     	calmness
+placidness                    	calmness
+plaintiveness                 	mournfulness ruthfulness sorrowfulness
+playfulness                   	levity
+pleasantness                  	pleasance pleasure
+poignance                     	sadness sorrow sorrowfulness
+poignancy                     	sadness sorrow sorrowfulness
+predilection                  	liking
+preference                    	liking
+premonition                   	apprehension apprehensiveness dread
+presage                       	boding foreboding premonition presentiment
+presentiment                  	apprehension apprehensiveness dread
+pride                         	satisfaction
+propensity                    	inclination
+protectiveness                	affection affectionateness fondness heart philia tenderness warmheartedness warmness
+prurience                     	amativeness amorousness eroticism erotism sexiness
+pruriency                     	amativeness amorousness eroticism erotism sexiness
+puppy_love                    	love
+quality_of_life               	gratification satisfaction
+qualm                         	anxiety
+quick_temper                  	bad_temper ill_temper
+quietness                     	calmness
+quietude                      	calmness
+quiver                        	fear fearfulness fright
+radiance                      	felicity happiness
+rage                          	anger choler ire
+rancor                        	enmity hostility ill_will
+rancour                       	enmity hostility ill_will
+rapture                       	emotional_state spirit
+raptus                        	emotional_state spirit
+ravishment                    	delectation delight
+razbliuto                     	sentiment
+regard                        	affection affectionateness fondness heart philia tenderness warmheartedness warmness
+regret                        	sadness unhappiness
+rejoicing                     	happiness
+relaxation                    	quietness quietude tranquility tranquillity
+relief                        	comfort
+relish                        	enjoyment enthusiasm
+remorse                       	regret rue ruefulness sorrow
+repentance                    	compunction remorse self-reproach
+repose                        	quietness quietude tranquility tranquillity
+repugnance                    	disgust
+repulsion                     	disgust
+resentment                    	enmity hostility ill_will
+resignation                   	despair
+respect                       	affection affectionateness fondness heart philia tenderness warmheartedness warmness
+restiveness                   	anxiety
+restlessness                  	agitation
+reverence                     	emotion
+revulsion                     	disgust
+rue                           	sadness unhappiness
+ruefulness                    	sadness unhappiness
+rush                          	excitement exhilaration
+ruth                          	fellow_feeling sympathy
+ruthfulness                   	sorrow
+ruthlessness                  	coldheartedness hardheartedness heartlessness
+sadism                        	sexual_pleasure
+sadness                       	unhappiness
+sadomasochism                 	masochism sadism
+sanguineness                  	optimism
+sanguinity                    	optimism
+satisfaction                  	contentment emotional_state spirit
+satyriasis                    	concupiscence eros physical_attraction sexual_desire
+scare                         	fear fearfulness fright
+scene                         	bad_temper ill_temper
+score                         	bitterness gall rancor rancour resentment
+scorn                         	dislike
+scruple                       	anxiety
+scunner                       	dislike
+security                      	bravery fearlessness
+self-complacency              	satisfaction
+self-consciousness            	embarrassment
+self-depreciation             	humbleness humility
+self-disgust                  	shame
+self-distrust                 	timidity timidness timorousness
+self-doubt                    	timidity timidness timorousness
+self-esteem                   	pride pridefulness
+self-hatred                   	shame
+self-importance               	pride pridefulness
+self-love                     	pride pridefulness
+self-pity                     	sorrow
+self-pride                    	pride pridefulness
+self-regard                   	pride pridefulness
+self-reproach                 	regret rue ruefulness sorrow
+self-respect                  	pride pridefulness
+self-satisfaction             	satisfaction
+self-torment                  	distress hurt suffering
+self-torture                  	distress hurt suffering
+self-worth                    	pride pridefulness
+sensation                     	stir
+sensibility                   	sensitiveness sensitivity
+sensualism                    	concupiscence eros physical_attraction sexual_desire
+sensuality                    	concupiscence eros physical_attraction sexual_desire
+sensualness                   	concupiscence eros physical_attraction sexual_desire
+sensuousness                  	sensibility
+sentimentality                	sentiment
+serenity                      	quietness quietude tranquility tranquillity
+seriousness                   	gravity solemnity
+sexiness                      	concupiscence eros physical_attraction sexual_desire
+sexual_desire                 	desire
+sexual_love                   	concupiscence eros physical_attraction sexual_desire
+sexual_pleasure               	pleasance pleasure
+shadow                        	boding foreboding premonition presentiment
+shamefacedness                	embarrassment
+sheepishness                  	embarrassment
+shiver                        	fear fearfulness fright
+shock                         	stupefaction
+short_temper                  	bad_temper ill_temper
+shudder                       	fear fearfulness fright
+shyness                       	timidity timidness timorousness
+silver_lining                 	consolation solace solacement
+sincerity                     	gravity solemnity
+sinking                       	anxiety
+sinking_feeling               	anxiety
+smugness                      	complacence complacency self-complacency self-satisfaction
+soft_spot                     	affection affectionateness fondness heart philia tenderness warmheartedness warmness
+softheartedness               	concern
+solace                        	comfort
+solacement                    	comfort
+solicitousness                	concern
+solicitude                    	concern
+somberness                    	apprehension apprehensiveness dread melancholy
+sombreness                    	apprehension apprehensiveness dread melancholy
+soreness                      	hurt suffering
+sorrow                        	sadness sadness unhappiness unhappiness unhappiness
+sorrowfulness                 	sorrow unhappiness
+spirit                        	emotion
+spite                         	malevolence malignity
+spitefulness                  	malevolence malignity
+spleen                        	bad_temper ill_temper
+stage_fright                  	fear fearfulness fright
+state                         	emotional_state spirit
+stewing                       	agitation
+stir                          	agitation
+stolidity                     	apathy
+stomach                       	appetence appetency appetite inclination
+storminess                    	passion passionateness
+stupefaction                  	amazement astonishment
+stupor                        	stupefaction
+submission                    	humbleness humility
+suffering                     	pain pain painfulness painfulness
+sulk                          	humor humour mood temper
+sulkiness                     	bitterness gall humor humour mood rancor rancour resentment temper
+sullenness                    	moodiness
+surprise                      	amazement astonishment
+surrender                     	despair
+survivor_guilt                	guilt guilt_feelings guilt_trip guilty_conscience
+suspense                      	anticipation apprehension apprehensiveness dread expectancy
+sweet_tooth                   	appetence appetency appetite
+swivet                        	affright panic terror
+tantrum                       	bad_temper ill_temper
+taste                         	liking
+tearfulness                   	sadness unhappiness
+technophilia                  	enthusiasm
+technophobia                  	dislike
+tedium                        	dissatisfaction
+temper                        	annoyance chafe vexation
+temptation                    	desire
+tendency                      	inclination
+tenderheartedness             	compassion compassionateness
+tenderness                    	compassion compassionateness concern
+terror                        	fear fearfulness fright
+testiness                     	choler crossness fretfulness fussiness irritability peevishness petulance
+tetchiness                    	choler crossness fretfulness fussiness irritability peevishness petulance
+thankfulness                  	gratitude
+the_hots                      	concupiscence eros physical_attraction sexual_desire
+thrill                        	excitement exhilaration fear fearfulness fright
+throes                        	hurt suffering
+timidity                      	fear fearfulness fright
+timidness                     	fear fearfulness fright
+timorousness                  	fear fearfulness fright
+tingle                        	fear fearfulness fright
+titillation                   	excitement exhilaration
+togetherness                  	closeness intimacy
+torment                       	annoyance chafe distress hurt hurt suffering suffering vexation
+torture                       	distress hurt hurt suffering suffering
+touchiness                    	choler crossness fretfulness fussiness irritability peevishness petulance
+tranquility                   	calmness
+tranquillity                  	calmness
+transport                     	emotional_state spirit
+trepidation                   	apprehension apprehensiveness dread
+triumph                       	exultation jubilance jubilancy jubilation
+trouble                       	anxiety
+tsoris                        	distress hurt suffering
+tumult                        	agitation
+turmoil                       	agitation
+umbrage                       	anger choler ire
+unassertiveness               	diffidence self-distrust self-doubt
+uncheerfulness                	sadness unhappiness
+uncomfortableness             	embarrassment
+undertow                      	inclination
+uneasiness                    	anxiety embarrassment
+unemotionality                	apathy
+unfriendliness                	dislike
+unhappiness                   	emotional_state spirit
+unpleasantness                	pain painfulness
+unrest                        	agitation
+urge                          	desire
+vanity                        	pride pridefulness
+velleity                      	want wish wishing
+veneration                    	emotion
+vengefulness                  	malevolence malignity
+venom                         	malevolence malignity
+vexation                      	anger choler ire
+vindictiveness                	malevolence malignity
+want                          	desire
+warmheartedness               	caring lovingness
+warmth                        	caring lovingness
+warpath                       	belligerence belligerency
+weakness                      	penchant predilection preference taste
+weepiness                     	sadness unhappiness
+weight                        	oppression oppressiveness
+whim                          	desire
+wildness                      	passion passionateness
+willies                       	disquietude edginess inquietude uneasiness
+wish                          	desire
+wishfulness                   	hungriness longing yearning
+wishing                       	desire
+wistfulness                   	hungriness longing yearning
+withdrawal                    	indifference
+woe                           	mournfulness ruthfulness sorrowfulness
+woefulness                    	mournfulness ruthfulness sorrowfulness
+wonder                        	amazement astonishment
+wonderment                    	amazement astonishment
+world-weariness               	melancholy
+worry                         	anxiety
+worship                       	love
+wound                         	distress hurt suffering
+wrath                         	fury madness rage
+yearning                      	desire
+yen                           	hungriness longing yearning
+zeal                          	ardor ardour avidity avidness eagerness fervency fervidness fervor fervour fire keenness
+zest                          	enjoyment enthusiasm
+zestfulness                   	enjoyment enthusiasm
