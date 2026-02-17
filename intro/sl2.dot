@@ -1,0 +1,51 @@
+strict digraph "" {
+	graph [bb="0,0,445.25,74.5",
+		rankdir=LR
+	];
+	node [color=black,
+		fillcolor=white,
+		label="\N",
+		peripheries=1,
+		shape=rectangle,
+		style="rounded,filled"
+	];
+	edge [color=black];
+	Start	[color=red,
+		fillcolor=darksalmon,
+		height=0.61111,
+		label="Start\l",
+		peripheries=2,
+		pos="31,22",
+		width=0.86111];
+	b	[height=0.5,
+		label="b\l",
+		pos="131.75,22",
+		width=0.75];
+	Start -> b	[label=b,
+		lp="83.375,30.25",
+		pos="e,104.26,22 62.434,22 72.047,22 82.788,22 92.856,22"];
+	a1	[height=0.5,
+		label="a1\l",
+		pos="227.75,22",
+		width=0.75];
+	b -> a1	[label=a,
+		lp="179.75,30.25",
+		pos="e,200.51,22 159.18,22 168.47,22 179.1,22 189.13,22"];
+	a2	[height=0.5,
+		label="a2\l",
+		pos="323.75,22",
+		width=0.75];
+	a1 -> a2	[label=a,
+		lp="275.75,30.25",
+		pos="e,296.51,22 255.18,22 264.47,22 275.1,22 285.13,22"];
+	a2 -> a2	[label=a,
+		lp="323.75,66.25",
+		pos="e,332.3,40.153 315.2,40.153 313.89,49.539 316.74,58 323.75,58 327.7,58 330.32,55.323 331.63,51.31"];
+	End	[height=0.5,
+		label="End\l",
+		pos="418.25,22",
+		width=0.75];
+	a2 -> End	[label="!",
+		lp="371,30.25",
+		pos="e,390.92,22 351.01,22 359.89,22 370,22 379.59,22"];
+}
