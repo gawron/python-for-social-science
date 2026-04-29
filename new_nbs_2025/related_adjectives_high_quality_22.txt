@@ -1,0 +1,3771 @@
+abashment.n.01
+   Lemma('bashful.s.01.bashful')
+   Lemma('abashed.s.01.chagrined')
+   Lemma('abashed.s.01.embarrassed')
+   Lemma('abashed.s.01.abashed')
+   Lemma('bashful.s.02.blate')
+   
+abhorrence.n.01
+   Lemma('abhorrent.s.01.abhorrent')
+   Lemma('deplorable.s.02.woeful')
+   Lemma('abhorrent.s.01.obscene')
+   Lemma('abominable.s.01.odious')
+   Lemma('despised.s.01.hated')
+   Lemma('loath.s.01.loath')
+   Lemma('loath.s.01.loth')
+   Lemma('abominable.s.01.execrable')
+   Lemma('despised.s.01.despised')
+   Lemma('atrocious.s.02.dreadful')
+   Lemma('deplorable.s.02.wretched')
+   Lemma('damnable.s.01.damnable')
+   Lemma('atrocious.s.02.awful')
+   Lemma('abhorrent.s.01.detestable')
+   Lemma('antipathetic.s.01.antipathetic')
+   Lemma('antipathetic.s.01.indisposed')
+   Lemma('atrocious.s.02.terrible')
+   Lemma('loath.s.01.reluctant')
+   Lemma('despised.s.01.scorned')
+   Lemma('antipathetic.s.01.antipathetical')
+   Lemma('abominable.s.01.abominable')
+   Lemma('atrocious.s.02.painful')
+   Lemma('atrocious.s.02.atrocious')
+   Lemma('atrocious.s.02.unspeakable')
+   Lemma('despised.s.01.detested')
+   Lemma('abhorrent.s.01.repugnant')
+   Lemma('deplorable.s.02.deplorable')
+   Lemma('deplorable.s.02.miserable')
+   Lemma('antipathetic.s.01.averse')
+   Lemma('abhorrent.s.01.repulsive')
+   
+acquired_taste.n.01
+   
+addiction.n.02
+   Lemma('addicted.a.01.addicted')
+   Lemma('addictive.a.01.addictive')
+   Lemma('addictive.a.01.habit-forming')
+   
+admiration.n.01
+   Lemma('admired.s.01.admired')
+   Lemma('admirable.s.01.admirable')
+   Lemma('esteemed.s.01.honored')
+   Lemma('esteemed.s.01.esteemed')
+   Lemma('esteemed.s.01.prestigious')
+   
+affect.n.01
+   Lemma('affected.a.01.affected')
+   Lemma('moved.a.01.stirred')
+   Lemma('affected.a.02.unnatural')
+   Lemma('moved.a.01.moved')
+   Lemma('affectional.s.01.emotive')
+   Lemma('moved.a.01.touched')
+   Lemma('affectional.s.01.affectional')
+   Lemma('affecting.s.01.affecting')
+   Lemma('affectional.s.01.affective')
+   Lemma('affecting.s.01.poignant')
+   Lemma('affecting.s.01.touching')
+   
+affection.n.01
+   Lemma('tenderized.s.01.tenderised')
+   Lemma('strong.s.09.strong')
+   Lemma('crank.s.01.tippy')
+   Lemma('crank.s.01.crank')
+   Lemma('moved.a.01.moved')
+   Lemma('moved.a.01.touched')
+   Lemma('affecting.s.01.affecting')
+   Lemma('affectional.s.01.affective')
+   Lemma('sensitive.s.04.raw')
+   Lemma('affecting.s.01.poignant')
+   Lemma('affected.a.01.affected')
+   Lemma('fond.s.03.partial')
+   Lemma('affectionate.s.01.lovesome')
+   Lemma('adoring.s.02.doting')
+   Lemma('affectional.s.01.emotive')
+   Lemma('affectional.s.01.affectional')
+   Lemma('adoring.s.02.adoring')
+   Lemma('moved.a.01.stirred')
+   Lemma('warmed.s.01.warmed')
+   Lemma('affectionate.s.01.warm')
+   Lemma('calefacient.s.01.calefacient')
+   Lemma('affectionate.s.01.affectionate')
+   Lemma('tender.a.06.untoughened')
+   Lemma('warming.s.01.warming')
+   Lemma('crank.s.01.cranky')
+   Lemma('ardent.s.02.ardent')
+   Lemma('quick.s.06.quick')
+   Lemma('sensitive.s.04.sore')
+   Lemma('affectionate.s.01.tender')
+   Lemma('affected.a.02.unnatural')
+   Lemma('affectionate.s.01.fond')
+   Lemma('tenderized.s.01.tenderized')
+   Lemma('sensitive.s.04.sensitive')
+   Lemma('affecting.s.01.touching')
+   
+afterglow.n.02
+   
+agape.n.01
+   Lemma('agape.s.01.agape')
+   Lemma('agape.s.01.gaping')
+   
+agape.n.02
+   Lemma('agape.s.01.agape')
+   Lemma('agape.s.01.gaping')
+   
+aggravation.n.01
+   Lemma('exasperating.s.01.vexing')
+   Lemma('aggravated.s.02.provoked')
+   Lemma('exasperated.s.01.browned_off')
+   Lemma('aggravating.s.01.aggravating')
+   Lemma('exasperated.s.01.cheesed_off')
+   Lemma('exasperating.s.01.infuriating')
+   Lemma('aggravating.s.01.exacerbating')
+   Lemma('aggravated.s.01.aggravated')
+   Lemma('exasperating.s.01.maddening')
+   Lemma('exasperated.s.01.exasperated')
+   Lemma('aggravating.s.01.exasperating')
+   
+aggression.n.02
+   Lemma('aggressive.a.01.aggressive')
+   Lemma('aggressive.s.02.fast-growing')
+   Lemma('aggressive.s.03.belligerent')
+   Lemma('aggressive.s.02.strong-growing')
+   
+agitation.n.03
+   Lemma('agitative.s.01.agitating')
+   Lemma('agitative.s.01.provoking')
+   Lemma('agitative.s.01.agitative')
+   Lemma('agitated.a.01.agitated')
+   
+agony.n.01
+   Lemma('hag-ridden.s.01.hagridden')
+   Lemma('anguished.s.01.anguished')
+   Lemma('agonizing.s.01.agonizing')
+   Lemma('hag-ridden.s.01.hag-ridden')
+   Lemma('agonizing.s.01.excruciating')
+   Lemma('agonizing.s.01.agonising')
+   Lemma('anguished.s.01.tortured')
+   Lemma('agonizing.s.01.harrowing')
+   Lemma('agonizing.s.01.torturous')
+   Lemma('anguished.s.01.tormented')
+   Lemma('agonizing.s.01.torturesome')
+   Lemma('agonizing.s.01.torturing')
+   
+alarm.n.01
+   Lemma('appalling.s.01.appalling')
+   Lemma('aghast.s.01.appalled')
+   Lemma('alarming.a.01.alarming')
+   Lemma('aghast.s.01.dismayed')
+   Lemma('aghast.s.01.aghast')
+   Lemma('appalling.s.01.dismaying')
+   Lemma('alarmed.s.01.alarmed')
+   Lemma('aghast.s.01.shocked')
+   
+algolagnia.n.01
+   
+alienation.n.01
+   Lemma('estranging.s.01.estranging')
+   Lemma('disaffected.s.01.disaffected')
+   Lemma('disaffected.s.01.malcontent')
+   Lemma('disaffected.s.01.ill-affected')
+   Lemma('alienated.s.01.alienated')
+   Lemma('alienable.a.01.alienable')
+   Lemma('alien.s.01.foreign')
+   Lemma('disaffected.s.01.rebellious')
+   Lemma('alien.s.01.alien')
+   Lemma('alien.s.02.exotic')
+   Lemma('alienated.s.02.estranged')
+   Lemma('alienated.s.01.anomic')
+   Lemma('alienating.s.01.alienating')
+   Lemma('alienated.s.01.disoriented')
+   
+ambition.n.01
+   Lemma('aspirant.s.01.wishful')
+   Lemma('aspirant.s.01.aspirant')
+   Lemma('dreamed.s.01.dreamed')
+   Lemma('aspirant.s.01.aspiring')
+   
+ambivalence.n.01
+   Lemma('ambivalent.s.01.ambivalent')
+   
+american_dream.n.01
+   
+amicability.n.01
+   Lemma('amicable.a.01.amicable')
+   
+amorousness.n.01
+   Lemma('amative.s.01.amative')
+   Lemma('amatory.s.01.amatory')
+   Lemma('amatory.s.01.romantic')
+   Lemma('amative.s.01.amorous')
+   
+amorousness.n.02
+   Lemma('amative.s.01.amorous')
+   Lemma('aphrodisiac.a.01.aphrodisiac')
+   Lemma('erotic.s.01.erotic')
+   Lemma('erotic.s.01.titillating')
+   Lemma('amative.s.01.amative')
+   Lemma('amatory.s.01.amatory')
+   Lemma('aphrodisiac.a.01.aphrodisiacal')
+   Lemma('amatory.s.01.romantic')
+   Lemma('sexy.a.01.sexy')
+   
+amour_propre.n.01
+   Lemma('egotistic.s.01.self-loving')
+   Lemma('conceited.s.01.swollen-headed')
+   Lemma('egotistic.s.01.narcissistic')
+   Lemma('conceited.s.01.conceited')
+   Lemma('conceited.s.01.egotistic')
+   Lemma('conceited.s.01.vain')
+   Lemma('conceited.s.01.self-conceited')
+   Lemma('conceited.s.01.egotistical')
+   Lemma('conceited.s.01.swollen')
+   
+amusement.n.01
+   Lemma('amusing.s.02.mirthful')
+   Lemma('amusing.s.01.amusive')
+   Lemma('amusing.s.02.laughable')
+   Lemma('amusing.s.01.diverting')
+   Lemma('amusing.s.02.funny')
+   Lemma('amusing.s.02.comical')
+   Lemma('amusing.s.02.comic')
+   Lemma('amusing.s.02.risible')
+   Lemma('amused.s.01.amused')
+   Lemma('amusing.s.01.amusing')
+   Lemma('amused.s.01.entertained')
+   Lemma('amused.s.01.diverted')
+   
+anaphrodisia.n.01
+   
+anger.n.01
+   Lemma('angered.s.01.furious')
+   Lemma('choleric.s.02.short-tempered')
+   Lemma('angered.s.01.enraged')
+   Lemma('angered.s.01.infuriated')
+   Lemma('choleric.s.02.irascible')
+   Lemma('choleric.s.02.hot-tempered')
+   Lemma('irate.s.01.irate')
+   Lemma('irate.s.01.ireful')
+   Lemma('angered.s.01.angered')
+   Lemma('angered.s.01.maddened')
+   Lemma('choleric.s.01.choleric')
+   Lemma('choleric.s.02.hotheaded')
+   Lemma('choleric.s.02.quick-tempered')
+   
+anglophilia.n.01
+   
+anglophobia.n.01
+   
+angst.n.01
+   
+anguish.n.01
+   Lemma('hag-ridden.s.01.hagridden')
+   Lemma('anguished.s.01.anguished')
+   Lemma('agonizing.s.01.agonizing')
+   Lemma('hag-ridden.s.01.hag-ridden')
+   Lemma('agonizing.s.01.excruciating')
+   Lemma('agonizing.s.01.agonising')
+   Lemma('anguished.s.01.tortured')
+   Lemma('agonizing.s.01.harrowing')
+   Lemma('agonizing.s.01.torturous')
+   Lemma('anguished.s.01.tormented')
+   Lemma('agonizing.s.01.torturesome')
+   Lemma('agonizing.s.01.torturing')
+   
+animosity.n.01
+   
+annoyance.n.02
+   Lemma('annoying.s.01.vexing')
+   Lemma('annoying.s.01.irritating')
+   Lemma('annoying.s.01.bothersome')
+   Lemma('annoyed.s.02.harassed')
+   Lemma('annoyed.s.01.pissed')
+   Lemma('annoyed.s.02.pestered')
+   Lemma('annoying.s.01.pestiferous')
+   Lemma('chafed.s.01.chafed')
+   Lemma('annoyed.s.01.miffed')
+   Lemma('annoyed.s.01.nettled')
+   Lemma('annoyed.s.01.stung')
+   Lemma('annoyed.s.01.irritated')
+   Lemma('annoyed.s.02.vexed')
+   Lemma('chafed.s.01.galled')
+   Lemma('annoying.s.01.vexatious')
+   Lemma('annoyed.s.01.roiled')
+   Lemma('annoyed.s.02.harried')
+   Lemma('annoying.s.01.pestering')
+   Lemma('annoyed.s.01.riled')
+   Lemma('annoying.s.01.pesky')
+   Lemma('annoying.s.01.annoying')
+   Lemma('annoying.s.01.teasing')
+   Lemma('annoying.s.01.nettlesome')
+   Lemma('annoying.s.01.galling')
+   Lemma('annoying.s.01.plaguy')
+   Lemma('annoyed.s.01.steamed')
+   Lemma('annoyed.s.01.peeved')
+   Lemma('annoying.s.01.plaguey')
+   Lemma('annoyed.s.01.annoyed')
+   Lemma('annoyed.s.01.pissed_off')
+   
+antagonism.n.03
+   
+anticipation.n.01
+   Lemma('expected.a.01.expected')
+   Lemma('big.s.13.enceinte')
+   Lemma('anticipated.s.01.awaited')
+   Lemma('anticipant.s.01.anticipant')
+   Lemma('big.s.13.gravid')
+   Lemma('expectable.s.01.expectable')
+   Lemma('anticipated.s.01.anticipated')
+   Lemma('big.s.13.heavy')
+   Lemma('anticipant.s.01.expectant')
+   Lemma('big.s.13.big')
+   Lemma('big.s.13.with_child')
+   Lemma('big.s.13.great')
+   Lemma('anticipated.s.01.hoped-for')
+   Lemma('big.s.13.large')
+   Lemma('anticipant.s.01.anticipative')
+   
+antipathy.n.01
+   Lemma('disgusting.s.01.revolting')
+   Lemma('antipathetic.s.01.loath')
+   Lemma('antipathetic.s.01.loth')
+   Lemma('disgusting.s.01.wicked')
+   Lemma('disgusting.s.01.disgustful')
+   Lemma('antipathetic.s.01.antipathetic')
+   Lemma('antipathetic.s.01.indisposed')
+   Lemma('aversive.a.01.aversive')
+   Lemma('disgusting.s.01.disgusting')
+   Lemma('distasteful.s.01.unsavory')
+   Lemma('antipathetic.s.01.antipathetical')
+   Lemma('disgusting.s.01.repelling')
+   Lemma('disgusting.s.01.loathsome')
+   Lemma('disgusting.s.01.skanky')
+   Lemma('disgusting.s.01.repellent')
+   Lemma('distasteful.s.01.unsavoury')
+   Lemma('distasteful.s.01.distasteful')
+   Lemma('disgusting.s.01.foul')
+   Lemma('disgusting.s.01.repellant')
+   Lemma('disgusting.s.01.yucky')
+   Lemma('antipathetic.s.01.averse')
+   Lemma('disgusting.s.01.loathly')
+   
+anxiety.n.02
+   
+anxiousness.n.02
+   Lemma('disquieting.s.01.disquieting')
+   Lemma('disquieted.s.01.upset')
+   Lemma('disquieted.s.01.disquieted')
+   Lemma('disquieted.s.01.worried')
+   Lemma('disquieted.s.01.disturbed')
+   Lemma('disquieted.s.01.distressed')
+   
+apathy.n.01
+   
+aphrodisia.n.01
+   
+appetite.n.01
+   Lemma('appetizing.a.01.appetising')
+   Lemma('appetent.s.01.appetent')
+   Lemma('appetitive.a.01.appetitive')
+   Lemma('appetizing.a.01.appetizing')
+   
+apprehension.n.01
+   Lemma('awful.s.02.horrendous')
+   Lemma('apprehensible.s.01.intelligible')
+   Lemma('apprehensive.s.01.discerning')
+   Lemma('awful.s.02.dreadful')
+   Lemma('apprehensible.s.01.perceivable')
+   Lemma('apprehensive.s.01.apprehensive')
+   Lemma('apprehensible.s.01.apprehensible')
+   Lemma('awful.s.02.awful')
+   Lemma('apprehensible.s.01.graspable')
+   Lemma('awful.s.02.terrible')
+   Lemma('awful.s.02.frightening')
+   Lemma('awful.s.02.dreaded')
+   Lemma('awful.s.02.fearsome')
+   Lemma('awful.s.02.horrific')
+   Lemma('atrocious.s.02.abominable')
+   Lemma('awful.s.02.fearful')
+   Lemma('atrocious.s.02.painful')
+   Lemma('atrocious.s.02.atrocious')
+   Lemma('atrocious.s.02.unspeakable')
+   Lemma('awful.s.02.dread')
+   Lemma('apprehensive.s.02.worried')
+   Lemma('apprehensible.s.01.understandable')
+   Lemma('awful.s.02.direful')
+   Lemma('awful.s.02.dire')
+   
+approbation.n.01
+   Lemma('approving.s.01.approving')
+   Lemma('approving.s.01.affirmative')
+   Lemma('approving.s.01.approbatory')
+   Lemma('approving.s.01.approbative')
+   Lemma('approving.s.01.plausive')
+   
+approval.n.02
+   Lemma('approving.s.01.approving')
+   Lemma('approving.s.01.affirmative')
+   Lemma('approved.s.01.sanctioned')
+   Lemma('approved.s.01.approved')
+   Lemma('approving.s.01.approbatory')
+   Lemma('approving.s.01.approbative')
+   Lemma('approving.s.01.plausive')
+   
+ardor.n.01
+   
+ardor.n.02
+   
+ardor.n.03
+   Lemma('discharged.s.01.pink-slipped')
+   Lemma('ardent.s.01.impassioned')
+   Lemma('discharged.s.01.dismissed')
+   Lemma('ardent.s.01.perfervid')
+   Lemma('ardent.s.01.fervent')
+   Lemma('discharged.s.01.fired')
+   Lemma('ardent.s.01.fervid')
+   Lemma('ardent.s.01.fiery')
+   Lemma('ardent.s.01.torrid')
+   Lemma('ardent.s.01.ardent')
+   Lemma('discharged.s.01.discharged')
+   Lemma('discharged.s.01.laid-off')
+   
+astonishment.n.01
+   Lemma('amazed.s.01.astounded')
+   Lemma('amazing.s.01.amazing')
+   Lemma('amazing.s.02.awe-inspiring')
+   Lemma('amazed.s.01.amazed')
+   Lemma('amazed.s.01.stunned')
+   Lemma('amazed.s.01.astonished')
+   Lemma('amazing.s.02.awful')
+   Lemma('amazed.s.01.astonied')
+   Lemma('amazing.s.02.awesome')
+   Lemma('astonishing.s.02.staggering')
+   Lemma('amazing.s.01.astonishing')
+   Lemma('astonishing.s.02.astounding')
+   Lemma('amazing.s.02.awing')
+   Lemma('astonishing.s.02.stupefying')
+   
+attachment.n.01
+   Lemma('affiliated.s.01.connected')
+   Lemma('attached.a.03.committed')
+   Lemma('affiliated.s.01.affiliated')
+   Lemma('attachable.a.01.attachable')
+   Lemma('affiliated.s.01.attached')
+   
+attrition.n.03
+   Lemma('attrited.s.01.attrited')
+   Lemma('contrite.s.01.remorseful')
+   Lemma('contrite.s.01.rueful')
+   Lemma('contrite.s.01.contrite')
+   Lemma('contrite.s.01.ruthful')
+   Lemma('attritional.a.01.attritional')
+   
+awe.n.01
+   Lemma('awed.s.01.awed')
+   Lemma('amazing.s.02.amazing')
+   Lemma('amazing.s.02.awe-inspiring')
+   Lemma('awed.a.02.awestruck')
+   Lemma('amazing.s.02.awful')
+   Lemma('amazing.s.02.awesome')
+   Lemma('amazing.s.02.awing')
+   Lemma('awed.a.02.awestricken')
+   
+bad_temper.n.01
+   
+bang.n.04
+   Lemma('electrifying.s.01.thrilling')
+   Lemma('charged.s.02.supercharged')
+   Lemma('thrilled.s.01.thrilled')
+   Lemma('thrillful.s.01.thrillful')
+   Lemma('crimson.s.03.crimson')
+   Lemma('flushed.s.01.rosy-cheeked')
+   Lemma('humongous.s.01.thumping')
+   Lemma('aerated.s.02.aerated')
+   Lemma('rush.s.02.rush')
+   Lemma('crimson.s.03.red-faced')
+   Lemma('crimson.s.03.reddened')
+   Lemma('affluent.s.01.moneyed')
+   Lemma('flushed.s.01.flushed')
+   Lemma('humongous.s.01.humongous')
+   Lemma('humongous.s.01.banging')
+   Lemma('first-come-first-serve.s.01.first-come-first-serve')
+   Lemma('flush.s.01.flush')
+   Lemma('affluent.s.01.wealthy')
+   Lemma('affluent.s.01.affluent')
+   Lemma('flushed.s.01.rose-cheeked')
+   Lemma('humongous.s.01.walloping')
+   Lemma('booted.s.01.booted')
+   Lemma('charged.a.01.charged')
+   Lemma('electrifying.s.01.electrifying')
+   Lemma('humongous.s.01.whopping')
+   Lemma('affluent.s.01.loaded')
+   Lemma('flushed.s.01.rosy')
+   Lemma('rush.s.02.rushed')
+   Lemma('crimson.s.03.red')
+   
+belligerence.n.01
+   Lemma('belligerent.s.02.warring')
+   Lemma('belligerent.s.02.war-ridden')
+   Lemma('belligerent.s.02.militant')
+   Lemma('aggressive.s.03.aggressive')
+   Lemma('aggressive.s.03.belligerent')
+   
+belonging.n.01
+   
+beneficence.n.01
+   Lemma('beneficent.a.01.beneficent')
+   Lemma('beneficent.s.02.eleemosynary')
+   Lemma('beneficent.s.02.benevolent')
+   Lemma('beneficent.s.02.philanthropic')
+   
+benevolence.n.01
+   Lemma('charitable.s.03.charitable')
+   Lemma('charitable.s.03.sympathetic')
+   Lemma('benevolent.s.03.freehearted')
+   Lemma('charitable.s.03.large-hearted')
+   Lemma('benevolent.a.01.benevolent')
+   Lemma('charitable.s.03.kindly')
+   Lemma('charitable.s.03.openhearted')
+   Lemma('beneficent.s.02.eleemosynary')
+   Lemma('charitable.s.03.good-hearted')
+   Lemma('beneficent.s.02.beneficent')
+   Lemma('beneficent.s.02.philanthropic')
+   
+blahs.n.01
+   
+blessedness.n.01
+   Lemma('beatific.s.01.beatific')
+   Lemma('angelic.s.01.saintlike')
+   Lemma('angelic.s.01.saintly')
+   Lemma('angelic.s.01.sainted')
+   Lemma('angelic.s.01.angelical')
+   Lemma('angelic.s.01.angelic')
+   
+bloodlust.n.01
+   
+bonheur.n.01
+   
+boredom.n.01
+   
+broken_heart.n.01
+   
+brotherhood.n.03
+   
+buck_fever.n.01
+   
+buoyancy.n.01
+   Lemma('buoyant.s.02.chirpy')
+   Lemma('buoyant.s.02.buoyant')
+   Lemma('buoyant.s.02.perky')
+   
+calmness.n.03
+   Lemma('calm.s.01.unagitated')
+   Lemma('calm.s.01.calm')
+   Lemma('calm.s.01.serene')
+   Lemma('calm.s.01.tranquil')
+   
+caprice.n.01
+   Lemma('hotheaded.s.02.madcap')
+   Lemma('impulsive.s.01.unprompted')
+   Lemma('driving.s.01.driving')
+   Lemma('impulsive.s.01.impulsive')
+   Lemma('capricious.s.02.whimsical')
+   Lemma('hotheaded.s.02.impetuous')
+   Lemma('hotheaded.s.02.tearaway')
+   Lemma('hotheaded.s.02.brainish')
+   Lemma('capricious.s.02.capricious')
+   Lemma('hotheaded.s.02.hotheaded')
+   
+captivation.n.02
+   Lemma('captive.s.01.captive')
+   Lemma('bewitching.s.01.fascinating')
+   Lemma('captive.s.01.confined')
+   Lemma('captive.s.02.engrossed')
+   Lemma('fascinated.s.01.mesmerised')
+   Lemma('absorbing.s.01.absorbing')
+   Lemma('enchanted.a.01.enchanted')
+   Lemma('captive.s.02.intent')
+   Lemma('bewitching.s.01.entrancing')
+   Lemma('beguiled.s.01.delighted')
+   Lemma('bewitching.s.01.captivating')
+   Lemma('absorbing.s.01.riveting')
+   Lemma('fascinated.s.01.transfixed')
+   Lemma('captive.s.01.imprisoned')
+   Lemma('fascinated.s.01.spellbound')
+   Lemma('beguiled.s.01.beguiled')
+   Lemma('captive.s.02.absorbed')
+   Lemma('beguiled.s.01.entranced')
+   Lemma('bewitching.s.01.enthralling')
+   Lemma('fascinated.s.01.fascinated')
+   Lemma('captivated.s.01.charmed')
+   Lemma('bewitching.s.01.enchanting')
+   Lemma('bewitching.s.01.bewitching')
+   Lemma('captive.s.02.enwrapped')
+   Lemma('fascinated.s.01.spell-bound')
+   Lemma('absorbing.s.01.gripping')
+   Lemma('beguiled.s.01.enthralled')
+   Lemma('fascinated.s.01.hypnotised')
+   Lemma('absorbing.s.01.engrossing')
+   Lemma('captive.s.01.jailed')
+   Lemma('captive.s.02.wrapped')
+   Lemma('fascinated.s.01.mesmerized')
+   Lemma('fascinated.s.01.hypnotized')
+   Lemma('captivated.s.01.captivated')
+   
+carefreeness.n.01
+   Lemma('carefree.s.01.carefree')
+   Lemma('casual.s.01.casual')
+   Lemma('blithe.s.02.blithesome')
+   Lemma('carefree.s.02.slaphappy')
+   Lemma('light.s.11.lightsome')
+   Lemma('blithe.s.02.light-hearted')
+   Lemma('carefree.s.02.happy-go-lucky')
+   Lemma('casual.s.01.insouciant')
+   Lemma('light.s.11.tripping')
+   Lemma('light.s.11.light')
+   Lemma('blithe.s.02.blithe')
+   Lemma('carefree.s.02.devil-may-care')
+   Lemma('carefree.s.02.harum-scarum')
+   Lemma('casual.s.01.nonchalant')
+   Lemma('carefree.s.02.freewheeling')
+   Lemma('blithe.s.02.lighthearted')
+   Lemma('carefree.s.01.unworried')
+   
+chagrin.n.01
+   Lemma('embarrassed.s.02.mortified')
+   Lemma('broken.s.03.low')
+   Lemma('abashed.s.01.chagrined')
+   Lemma('broken.s.03.humiliated')
+   Lemma('demeaning.s.01.humiliating')
+   Lemma('demeaning.s.01.mortifying')
+   Lemma('abashed.s.01.embarrassed')
+   Lemma('demeaning.s.01.demeaning')
+   Lemma('abashed.s.01.abashed')
+   Lemma('demeaning.s.01.humbling')
+   Lemma('broken.s.03.broken')
+   Lemma('broken.s.03.crushed')
+   Lemma('broken.s.03.humbled')
+   
+cheerfulness.n.02
+   Lemma('comforting.s.01.comforting')
+   Lemma('blithe.s.02.blithesome')
+   Lemma('blithe.s.02.lightsome')
+   Lemma('blithe.s.02.light-hearted')
+   Lemma('cheerful.s.02.upbeat')
+   Lemma('comforting.s.01.cheering')
+   Lemma('cheerful.s.02.pollyannaish')
+   Lemma('blithe.s.01.blithe')
+   Lemma('cheerful.a.01.cheerful')
+   Lemma('blithe.s.02.lighthearted')
+   Lemma('comforting.s.01.satisfying')
+   
+cheerlessness.n.01
+   Lemma('depressing.a.01.depressing')
+   Lemma('depressing.a.01.cheerless')
+   Lemma('depressing.a.01.uncheerful')
+   
+chill.n.04
+   Lemma('chilling.s.01.scary')
+   Lemma('chilling.s.01.shivery')
+   Lemma('chilling.s.01.shuddery')
+   Lemma('chilling.s.01.chilling')
+   Lemma('chilling.s.01.scarey')
+   
+civic_pride.n.01
+   
+class_feeling.n.01
+   
+closeness.n.01
+   Lemma('cheeseparing.s.01.cheeseparing')
+   Lemma('closing.a.01.closing')
+   Lemma('cheeseparing.s.01.penny-pinching')
+   Lemma('close.s.05.faithful')
+   Lemma('closed.a.01.closed')
+   Lemma('closed.s.08.unsympathetic')
+   Lemma('close.s.07.confining')
+   Lemma('close.s.12.close-fitting')
+   Lemma('shut.a.01.unopen')
+   Lemma('cheeseparing.s.01.skinny')
+   Lemma('shut.a.01.shut')
+   Lemma('closed.s.09.closed_in')
+   Lemma('airless.s.01.stuffy')
+   Lemma('close.s.15.secretive')
+   Lemma('airless.s.01.unaired')
+   Lemma('close.s.15.closelipped')
+   Lemma('close.s.15.tightlipped')
+   Lemma('airless.s.01.airless')
+   Lemma('near.a.01.near')
+   Lemma('near.a.01.nigh')
+   Lemma('close.s.06.tight')
+   Lemma('close.a.01.close')
+   Lemma('close.s.15.closemouthed')
+   Lemma('close.s.12.snug')
+   
+cold_comfort.n.01
+   
+cold_feet.n.01
+   
+comfort.n.02
+   Lemma('comforted.s.01.comforted')
+   Lemma('comforting.s.01.comforting')
+   Lemma('comfortable.s.05.well-heeled')
+   Lemma('comfortable.s.05.well-fixed')
+   Lemma('comforting.s.01.cheering')
+   Lemma('comforting.s.02.consoling')
+   Lemma('comfortable.s.05.well-to-do')
+   Lemma('comfortable.s.05.easy')
+   Lemma('comfortable.a.01.comfortable')
+   Lemma('comfortable.s.05.well-situated')
+   Lemma('comfortable.s.05.prosperous')
+   Lemma('comforting.s.02.consolatory')
+   Lemma('comfortable.s.05.well-off')
+   Lemma('comfortable.a.01.comfy')
+   Lemma('comforting.s.01.satisfying')
+   
+comfort.n.05
+   Lemma('comforted.s.01.comforted')
+   Lemma('comforting.s.01.comforting')
+   Lemma('comfortable.s.05.well-heeled')
+   Lemma('comfortable.s.05.well-fixed')
+   Lemma('comforting.s.01.cheering')
+   Lemma('comforting.s.02.consoling')
+   Lemma('comfortable.s.05.well-to-do')
+   Lemma('comfortable.s.05.easy')
+   Lemma('comfortable.a.01.comfortable')
+   Lemma('comfortable.s.05.well-situated')
+   Lemma('comfortable.s.05.prosperous')
+   Lemma('comforting.s.02.consolatory')
+   Lemma('comfortable.s.05.well-off')
+   Lemma('comfortable.a.01.comfy')
+   Lemma('comforting.s.01.satisfying')
+   
+comfortableness.n.02
+   Lemma('comforted.s.01.comforted')
+   Lemma('comforting.s.01.comforting')
+   Lemma('comfortable.s.05.well-heeled')
+   Lemma('comfortable.s.05.well-fixed')
+   Lemma('comforting.s.01.cheering')
+   Lemma('comforting.s.02.consoling')
+   Lemma('comfortable.s.05.well-to-do')
+   Lemma('comfortable.s.05.easy')
+   Lemma('comfortable.a.01.comfortable')
+   Lemma('comfortable.s.05.well-situated')
+   Lemma('comfortable.s.05.prosperous')
+   Lemma('comforting.s.02.consolatory')
+   Lemma('comfortable.s.05.well-off')
+   Lemma('comfortable.a.01.comfy')
+   Lemma('comforting.s.01.satisfying')
+   
+commiseration.n.01
+   Lemma('pathetic.s.02.pitiful')
+   Lemma('hapless.s.01.misfortunate')
+   Lemma('hapless.s.01.poor')
+   Lemma('hapless.s.01.wretched')
+   Lemma('contrite.s.01.ruthful')
+   Lemma('hapless.s.01.hapless')
+   Lemma('deplorable.s.01.sorry')
+   Lemma('pathetic.s.02.pathetic')
+   Lemma('contrite.s.01.remorseful')
+   Lemma('pathetic.s.02.pitiable')
+   Lemma('deplorable.s.01.deplorable')
+   Lemma('hapless.s.01.piteous')
+   Lemma('deplorable.s.01.distressing')
+   Lemma('hapless.s.01.miserable')
+   Lemma('contrite.s.01.rueful')
+   Lemma('contrite.s.01.contrite')
+   Lemma('deplorable.s.01.lamentable')
+   Lemma('deplorable.s.01.sad')
+   
+compassion.n.01
+   Lemma('compassionate.a.01.compassionate')
+   
+compatibility.n.01
+   Lemma('compatible.a.01.compatible')
+   
+complacency.n.01
+   Lemma('complacent.s.01.self-complacent')
+   Lemma('complacent.s.01.self-satisfied')
+   Lemma('complacent.s.01.complacent')
+   
+complex.n.03
+   Lemma('complex.a.01.complex')
+   
+compunction.n.01
+   Lemma('contrite.s.01.remorseful')
+   Lemma('contrite.s.01.ruthful')
+   Lemma('contrite.s.01.contrite')
+   Lemma('contrite.s.01.rueful')
+   
+concern.n.02
+   Lemma('caring.s.01.caring')
+   Lemma('awful.s.02.horrendous')
+   Lemma('careful.s.02.heedful')
+   Lemma('concerned.a.01.concerned')
+   Lemma('careful.s.03.deliberate')
+   Lemma('fearful.s.04.frightful')
+   Lemma('careful.s.05.thrifty')
+   Lemma('cowardly.a.01.cowardly')
+   Lemma('awful.s.02.dreadful')
+   Lemma('awful.s.02.awful')
+   Lemma('awful.s.02.terrible')
+   Lemma('awful.s.02.frightening')
+   Lemma('awful.s.02.dreaded')
+   Lemma('awful.s.02.fearsome')
+   Lemma('awful.s.02.horrific')
+   Lemma('fearful.s.05.timorous')
+   Lemma('careful.a.01.careful')
+   Lemma('concerned.s.02.interested')
+   Lemma('fearful.s.01.fearful')
+   Lemma('careful.s.03.measured')
+   Lemma('awful.s.02.dread')
+   Lemma('implicated.s.01.implicated')
+   Lemma('awful.s.02.direful')
+   Lemma('awful.s.02.dire')
+   Lemma('fearful.s.05.trepid')
+   
+concern.n.03
+   Lemma('implicated.s.01.implicated')
+   Lemma('concerned.s.02.interested')
+   Lemma('concerned.a.01.concerned')
+   
+conditioned_emotional_response.n.01
+   
+confidence.n.02
+   Lemma('confident.s.03.surefooted')
+   Lemma('convinced.s.01.convinced')
+   Lemma('confident.s.03.sure-footed')
+   Lemma('confident.a.01.confident')
+   Lemma('convinced.s.01.positive')
+   Lemma('confiding.s.01.confiding')
+   
+conflict.n.02
+   Lemma('at_odds.s.01.self-contradictory')
+   Lemma('at_odds.s.01.at_odds')
+   Lemma('at_odds.s.01.conflicting')
+   Lemma('at_odds.s.01.contradictory')
+   
+confusion.n.03
+   Lemma('baffled.s.01.mixed-up')
+   Lemma('broken.s.08.upset')
+   Lemma('baffled.s.01.bewildered')
+   Lemma('broken.s.08.broken')
+   Lemma('confused.s.02.garbled')
+   Lemma('confusing.s.02.puzzling')
+   Lemma('confusable.s.01.mistakable')
+   Lemma('confused.s.02.disjointed')
+   Lemma('confused.s.02.unconnected')
+   Lemma('baffled.s.01.lost')
+   Lemma('baffled.s.01.confused')
+   Lemma('confused.s.02.illogical')
+   Lemma('confusing.s.02.perplexing')
+   Lemma('confusable.s.01.confusable')
+   Lemma('confused.s.02.disconnected')
+   Lemma('confusing.s.01.confusing')
+   Lemma('baffled.s.01.bemused')
+   Lemma('baffled.s.01.mazed')
+   Lemma('baffled.s.01.at_sea')
+   Lemma('confused.s.02.disordered')
+   Lemma('baffled.s.01.befuddled')
+   Lemma('discombobulated.s.01.disconcerted')
+   Lemma('baffled.s.01.baffled')
+   Lemma('discombobulated.s.01.discombobulated')
+   Lemma('confused.s.02.scattered')
+   Lemma('confused.s.03.disoriented')
+   Lemma('baffled.s.01.confounded')
+   
+conscience.n.03
+   
+consolation.n.01
+   Lemma('comforting.s.02.comforting')
+   Lemma('comforting.s.02.consolatory')
+   Lemma('consolable.a.01.consolable')
+   Lemma('comforting.s.02.consoling')
+   
+contempt.n.01
+   Lemma('contemptuous.s.01.disdainful')
+   Lemma('contemptible.a.01.contemptible')
+   Lemma('despised.s.01.hated')
+   Lemma('despiteful.s.01.despiteful')
+   Lemma('contemptuous.s.01.scornful')
+   Lemma('despised.s.01.despised')
+   Lemma('disdainful.s.02.supercilious')
+   Lemma('despiteful.s.01.vindictive')
+   Lemma('despised.s.01.scorned')
+   Lemma('contemptuous.s.01.contemptuous')
+   Lemma('disdainful.s.02.prideful')
+   Lemma('disdainful.s.02.overbearing')
+   Lemma('despiteful.s.01.spiteful')
+   Lemma('disdainful.s.02.swaggering')
+   Lemma('despised.s.01.detested')
+   Lemma('contemptuous.s.01.insulting')
+   Lemma('disdainful.s.02.imperious')
+   Lemma('disdainful.s.02.lordly')
+   Lemma('disdainful.s.02.sniffy')
+   Lemma('disdainful.s.02.haughty')
+   
+contentment.n.01
+   Lemma('contented.a.01.contented')
+   Lemma('contented.a.01.content')
+   
+coolness.n.01
+   Lemma('imperturbable.s.01.unflappable')
+   Lemma('cool.a.01.cool')
+   Lemma('cool.s.02.coolheaded')
+   Lemma('cool.s.02.nerveless')
+   Lemma('imperturbable.s.01.imperturbable')
+   
+covetousness.n.01
+   Lemma('avaricious.s.01.greedy')
+   Lemma('avaricious.s.01.avaricious')
+   Lemma('avaricious.s.01.grabby')
+   Lemma('covetous.s.01.jealous')
+   Lemma('covetous.s.01.covetous')
+   Lemma('coveted.s.01.sought_after')
+   Lemma('coveted.s.01.desired')
+   Lemma('avaricious.s.01.prehensile')
+   Lemma('coveted.s.01.in_demand')
+   Lemma('avaricious.s.01.grasping')
+   Lemma('covetous.s.01.envious')
+   Lemma('coveted.s.01.coveted')
+   
+craving.n.01
+   Lemma('craved.s.01.craved')
+   Lemma('craved.s.01.desired')
+   
+creeps.n.02
+   
+creepy-crawlies.n.01
+   Lemma('creepy.s.02.creepy')
+   Lemma('creepy.s.02.creepy-crawly')
+   
+cruelty.n.02
+   Lemma('pitiless.s.01.unpitying')
+   Lemma('pitiless.s.01.pitiless')
+   Lemma('pitiless.s.02.unkind')
+   Lemma('pitiless.s.01.remorseless')
+   Lemma('merciless.a.01.merciless')
+   Lemma('merciless.a.01.unmerciful')
+   Lemma('pitiless.s.01.ruthless')
+   
+cynicism.n.01
+   Lemma('cynical.s.01.misanthropical')
+   Lemma('cynical.s.01.misanthropic')
+   Lemma('cynical.s.01.cynical')
+   
+dander.n.02
+   
+daze.n.01
+   Lemma('dazed.s.02.groggy')
+   Lemma('dazed.s.02.foggy')
+   Lemma('aghast.s.01.appalled')
+   Lemma('disgraceful.s.01.shameful')
+   Lemma('dazed.s.01.stunned')
+   Lemma('aghast.s.01.dismayed')
+   Lemma('dazed.s.02.logy')
+   Lemma('dazed.s.01.dazed')
+   Lemma('dazed.s.01.stupid')
+   Lemma('disgraceful.s.01.disgraceful')
+   Lemma('aghast.s.01.aghast')
+   Lemma('disgraceful.s.01.scandalous')
+   Lemma('lurid.s.02.lurid')
+   Lemma('lurid.s.02.shocking')
+   Lemma('dazed.s.01.stupefied')
+   Lemma('aghast.s.01.shocked')
+   Lemma('dazed.s.02.stuporous')
+   
+defeatism.n.01
+   Lemma('defeated.a.01.defeated')
+   Lemma('defeated.s.02.thwarted')
+   Lemma('defeated.s.02.disappointed')
+   Lemma('defeated.s.02.discomfited')
+   Lemma('defeated.s.02.foiled')
+   Lemma('defeated.s.02.frustrated')
+   
+delight.n.01
+   Lemma('delectable.s.01.toothsome')
+   Lemma('delectable.s.01.pleasant-tasting')
+   Lemma('beguiled.s.01.entranced')
+   Lemma('delighted.s.01.delighted')
+   Lemma('beguiled.s.01.captivated')
+   Lemma('beguiled.s.01.beguiled')
+   Lemma('delectable.s.01.delectable')
+   Lemma('delectable.s.02.sexually_attractive')
+   Lemma('beguiled.s.01.charmed')
+   Lemma('delectable.s.01.yummy')
+   Lemma('delectable.s.01.luscious')
+   Lemma('delectable.s.01.scrumptious')
+   Lemma('delightful.s.01.delightful')
+   Lemma('delightful.s.01.delicious')
+   Lemma('beguiled.s.01.enthralled')
+   
+demoralization.n.03
+   Lemma('demoralizing.s.01.dispiriting')
+   Lemma('demoralizing.s.01.demoralising')
+   Lemma('demoralized.s.01.disheartened')
+   Lemma('demoralized.s.01.discouraged')
+   Lemma('demoralizing.s.01.demoralizing')
+   Lemma('demoralized.s.01.demoralised')
+   Lemma('demoralized.s.01.demoralized')
+   Lemma('demoralizing.s.01.disheartening')
+   
+depression.n.04
+   Lemma('gloomy.s.02.gloomy')
+   Lemma('gloomy.s.02.low')
+   Lemma('gloomy.s.02.dispirited')
+   Lemma('gloomy.s.02.down_in_the_mouth')
+   Lemma('gloomy.s.02.blue')
+   Lemma('depressed.s.01.depressed')
+   Lemma('gloomy.s.02.low-spirited')
+   Lemma('depressing.a.01.cheerless')
+   Lemma('depressed.s.01.down')
+   Lemma('gloomy.s.02.downcast')
+   Lemma('depressant.a.01.depressant')
+   Lemma('depressing.a.01.depressing')
+   Lemma('gloomy.s.02.downhearted')
+   Lemma('depressing.a.01.uncheerful')
+   Lemma('gloomy.s.02.grim')
+   
+desire.n.01
+   Lemma('desirous.a.01.desirous')
+   Lemma('desirable.s.02.worthy')
+   Lemma('desirable.s.02.suitable')
+   Lemma('coveted.s.01.coveted')
+   Lemma('desirable.a.01.desirable')
+   Lemma('coveted.s.01.sought_after')
+   Lemma('desirous.a.01.wishful')
+   Lemma('coveted.s.01.desired')
+   Lemma('craved.s.01.craved')
+   Lemma('coveted.s.01.in_demand')
+   
+despair.n.02
+   Lemma('despairing.s.01.despairing')
+   Lemma('despairing.s.01.desperate')
+   
+despisal.n.01
+   Lemma('despised.s.01.hated')
+   Lemma('despised.s.01.detested')
+   Lemma('despised.s.01.scorned')
+   Lemma('despised.s.01.despised')
+   
+despondency.n.01
+   Lemma('blue.s.08.gloomy')
+   Lemma('blue.s.08.dingy')
+   Lemma('blue.s.08.dismal')
+   Lemma('brokenhearted.s.01.heartbroken')
+   Lemma('despondent.s.01.despondent')
+   Lemma('blue.s.08.drear')
+   Lemma('blue.s.08.dreary')
+   Lemma('blue.s.08.blue')
+   Lemma('inconsolable.a.01.inconsolable')
+   Lemma('blue.s.08.drab')
+   Lemma('brokenhearted.s.01.brokenhearted')
+   Lemma('blue.s.08.dark')
+   Lemma('blue.s.08.sorry')
+   Lemma('inconsolable.a.01.unconsolable')
+   Lemma('inconsolable.a.01.disconsolate')
+   Lemma('despondent.s.01.heartsick')
+   Lemma('blue.s.08.grim')
+   
+devastation.n.02
+   Lemma('annihilating.s.02.annihilating')
+   Lemma('annihilating.s.02.withering')
+   Lemma('annihilating.s.02.devastating')
+   Lemma('annihilative.s.01.annihilative')
+   Lemma('crushing.s.01.crushing')
+   
+devotion.n.01
+   Lemma('devoted.s.01.devoted')
+   Lemma('devotional.s.01.devotional')
+   
+diffidence.n.01
+   Lemma('diffident.s.01.diffident')
+   Lemma('diffident.a.02.unsure')
+   Lemma('diffident.a.02.shy')
+   Lemma('diffident.a.02.timid')
+   
+dignity.n.01
+   Lemma('dignified.s.02.dignified')
+   Lemma('dignified.s.02.self-respectful')
+   Lemma('dignified.s.02.self-respecting')
+   
+disappointment.n.01
+   Lemma('defeated.s.02.defeated')
+   Lemma('defeated.s.02.thwarted')
+   Lemma('disappointing.s.01.dissatisfactory')
+   Lemma('disappointing.s.01.disappointing')
+   Lemma('defeated.s.02.disappointed')
+   Lemma('defeated.s.02.discomfited')
+   Lemma('disappointing.s.01.unsatisfying')
+   Lemma('defeated.s.02.foiled')
+   Lemma('defeated.s.02.frustrated')
+   
+disapproval.n.01
+   Lemma('disapproving.s.01.disapproving')
+   
+discomfiture.n.01
+   Lemma('disconcerting.s.01.disconcerting')
+   Lemma('discombobulated.s.01.disconcerted')
+   Lemma('disconcerting.s.01.upsetting')
+   Lemma('discombobulated.s.01.discombobulated')
+   
+discomfort.n.02
+   Lemma('annoying.s.01.vexing')
+   Lemma('irritating.s.02.irritating')
+   Lemma('annoying.s.01.bothersome')
+   Lemma('annoyed.s.01.pissed')
+   Lemma('annoying.s.01.pestiferous')
+   Lemma('cranky.s.02.petulant')
+   Lemma('cranky.s.02.pettish')
+   Lemma('sensitive.s.04.raw')
+   Lemma('irritating.s.02.irritative')
+   Lemma('annoyed.s.01.miffed')
+   Lemma('afflictive.s.01.afflictive')
+   Lemma('huffy.s.02.huffy')
+   Lemma('excitable.s.02.excitable')
+   Lemma('annoyed.s.01.nettled')
+   Lemma('annoyed.s.01.stung')
+   Lemma('cranky.s.02.scratchy')
+   Lemma('annoyed.s.01.irritated')
+   Lemma('annoying.s.01.vexatious')
+   Lemma('huffy.s.02.mad')
+   Lemma('annoyed.s.01.roiled')
+   Lemma('cranky.s.02.peevish')
+   Lemma('annoying.s.01.pestering')
+   Lemma('annoyed.s.01.riled')
+   Lemma('annoying.s.01.pesky')
+   Lemma('afflictive.s.01.painful')
+   Lemma('cranky.s.02.testy')
+   Lemma('cranky.s.02.tetchy')
+   Lemma('annoying.s.01.annoying')
+   Lemma('annoying.s.01.teasing')
+   Lemma('annoying.s.01.nettlesome')
+   Lemma('cranky.s.02.cranky')
+   Lemma('annoying.s.01.plaguy')
+   Lemma('annoying.s.01.galling')
+   Lemma('sensitive.s.04.sore')
+   Lemma('annoyed.s.01.steamed')
+   Lemma('annoyed.s.01.peeved')
+   Lemma('annoying.s.01.plaguey')
+   Lemma('sensitive.s.04.tender')
+   Lemma('annoyed.s.01.annoyed')
+   Lemma('annoyed.s.01.pissed_off')
+   Lemma('cranky.s.02.techy')
+   Lemma('cranky.s.02.fractious')
+   Lemma('cranky.s.02.irritable')
+   Lemma('sensitive.s.04.sensitive')
+   Lemma('cranky.s.02.peckish')
+   
+discontentment.n.01
+   Lemma('discontented.a.01.discontented')
+   Lemma('discontented.a.01.discontent')
+   
+discouragement.n.01
+   Lemma('discouraging.a.01.discouraging')
+   Lemma('demoralizing.s.01.dispiriting')
+   Lemma('appalling.s.01.appalling')
+   Lemma('demoralizing.s.01.demoralising')
+   Lemma('demoralized.s.01.disheartened')
+   Lemma('aghast.s.01.appalled')
+   Lemma('demoralized.s.01.discouraged')
+   Lemma('aghast.s.01.dismayed')
+   Lemma('demoralizing.s.01.demoralizing')
+   Lemma('demoralized.s.01.demoralised')
+   Lemma('aghast.s.01.aghast')
+   Lemma('appalling.s.01.dismaying')
+   Lemma('demoralized.s.01.demoralized')
+   Lemma('demoralizing.s.01.disheartening')
+   Lemma('aghast.s.01.shocked')
+   
+disgruntlement.n.01
+   Lemma('disgruntled.s.01.dissatisfied')
+   Lemma('disgruntled.s.01.disgruntled')
+   
+disgust.n.01
+   Lemma('disgusting.s.01.disgustful')
+   Lemma('disgusting.s.01.revolting')
+   Lemma('disgusting.s.01.repelling')
+   Lemma('disgusting.s.01.loathsome')
+   Lemma('disgusting.s.01.distasteful')
+   Lemma('disgusting.s.01.foul')
+   Lemma('disgusting.s.01.skanky')
+   Lemma('disgusted.s.01.tired_of')
+   Lemma('disgusting.s.01.repellent')
+   Lemma('disgusted.s.01.sick')
+   Lemma('disgusting.s.01.repellant')
+   Lemma('disgusting.s.01.yucky')
+   Lemma('disgusted.s.01.sick_of')
+   Lemma('disgusted.s.01.disgusted')
+   Lemma('disgusting.s.01.disgusting')
+   Lemma('disgusting.s.01.loathly')
+   Lemma('disgusted.s.01.fed_up')
+   Lemma('disgusting.s.01.wicked')
+   
+disinclination.n.01
+   Lemma('disinclined.a.01.disinclined')
+   
+dislike.n.02
+   Lemma('disliked.a.01.disliked')
+   Lemma('dislikable.s.01.dislikable')
+   
+displeasure.n.01
+   
+dissatisfaction.n.01
+   
+distance.n.04
+   Lemma('aloof.s.01.upstage')
+   Lemma('aloof.s.01.distant')
+   Lemma('aloof.s.01.aloof')
+   
+distress.n.01
+   Lemma('dysphoric.a.01.unhappy')
+   Lemma('hurt.s.01.hurt')
+   Lemma('distressing.s.01.perturbing')
+   Lemma('hurt.s.02.weakened')
+   Lemma('distressed.s.01.hard_put')
+   Lemma('stressed.s.01.stressed')
+   Lemma('deplorable.s.01.pitiful')
+   Lemma('distressing.s.01.troubling')
+   Lemma('disquieted.s.01.upset')
+   Lemma('hurtful.s.01.hurtful')
+   Lemma('miserable.s.01.wretched')
+   Lemma('distressed.s.01.hard-pressed')
+   Lemma('bearable.s.01.sufferable')
+   Lemma('deleterious.s.01.injurious')
+   Lemma('disquieted.s.01.disquieted')
+   Lemma('distressing.s.01.worrisome')
+   Lemma('disquieted.s.01.disturbed')
+   Lemma('distressed.s.01.distressed')
+   Lemma('bearable.s.01.bearable')
+   Lemma('distressing.s.01.distressful')
+   Lemma('distressing.s.01.distressing')
+   Lemma('distressed.s.01.in_a_bad_way')
+   Lemma('disquieted.s.01.worried')
+   Lemma('deleterious.s.01.deleterious')
+   Lemma('bearable.s.01.supportable')
+   Lemma('bearable.s.01.endurable')
+   Lemma('hurt.s.01.wounded')
+   Lemma('suffering.s.01.suffering')
+   Lemma('deplorable.s.01.sorry')
+   Lemma('deplorable.s.01.deplorable')
+   Lemma('distressing.s.01.worrying')
+   Lemma('miserable.s.01.miserable')
+   Lemma('dysphoric.a.01.dysphoric')
+   Lemma('deplorable.s.01.lamentable')
+   Lemma('distressing.s.01.disturbing')
+   Lemma('deplorable.s.01.sad')
+   
+dolefulness.n.01
+   Lemma('doleful.s.01.mournful')
+   Lemma('doleful.s.01.doleful')
+   
+dolor.n.01
+   Lemma('dolorous.s.01.dolorous')
+   Lemma('dolorous.s.01.dolourous')
+   Lemma('dolorous.s.01.weeping')
+   Lemma('dolorous.s.01.tearful')
+   Lemma('dolorous.s.01.lachrymose')
+   
+downheartedness.n.01
+   Lemma('gloomy.s.02.gloomy')
+   Lemma('low.a.01.low')
+   Lemma('depleted.s.01.depleted')
+   Lemma('abject.s.01.low-down')
+   Lemma('abject.s.01.scummy')
+   Lemma('broken.s.03.humiliated')
+   Lemma('gloomy.s.02.down_in_the_mouth')
+   Lemma('broken.s.03.broken')
+   Lemma('gloomy.s.02.downhearted')
+   Lemma('abject.s.01.scurvy')
+   Lemma('gloomy.s.02.dispirited')
+   Lemma('humble.s.01.humble')
+   Lemma('gloomy.s.02.low-spirited')
+   Lemma('low.s.03.low-toned')
+   Lemma('gloomy.s.02.down')
+   Lemma('low.a.05.low-pitched')
+   Lemma('broken.s.03.crushed')
+   Lemma('broken.s.03.humbled')
+   Lemma('gloomy.s.02.grim')
+   Lemma('humble.s.01.small')
+   Lemma('gloomy.s.02.blue')
+   Lemma('gloomy.s.02.depressed')
+   Lemma('gloomy.s.02.downcast')
+   Lemma('humble.s.01.modest')
+   Lemma('abject.s.01.miserable')
+   Lemma('abject.s.01.abject')
+   Lemma('humble.s.01.lowly')
+   
+dudgeon.n.01
+   
+dysphoria.n.01
+   
+eagerness.n.01
+   Lemma('avid.s.02.zealous')
+   Lemma('acute.s.03.penetrative')
+   Lemma('bang-up.s.01.bully')
+   Lemma('acute.s.03.penetrating')
+   Lemma('bang-up.s.01.smashing')
+   Lemma('avid.s.01.devouring')
+   Lemma('bang-up.s.01.nifty')
+   Lemma('exquisite.s.01.exquisite')
+   Lemma('bang-up.s.01.slap-up')
+   Lemma('bang-up.s.01.swell')
+   Lemma('avid.s.01.esurient')
+   Lemma('acute.s.03.keen')
+   Lemma('bang-up.s.01.bang-up')
+   Lemma('bang-up.s.01.dandy')
+   Lemma('avid.s.01.greedy')
+   Lemma('bang-up.s.01.not_bad')
+   Lemma('bang-up.s.01.groovy')
+   Lemma('acute.s.03.incisive')
+   Lemma('bang-up.s.01.cracking')
+   Lemma('acute.s.03.sharp')
+   Lemma('bang-up.s.01.neat')
+   Lemma('bang-up.s.01.peachy')
+   Lemma('acute.s.03.piercing')
+   Lemma('avid.s.01.avid')
+   Lemma('cutting.s.03.lancinating')
+   Lemma('eager.a.01.eager')
+   Lemma('acute.s.03.acute')
+   Lemma('cutting.s.03.stabbing')
+   Lemma('cutting.s.03.cutting')
+   Lemma('cutting.s.03.lancinate')
+   Lemma('acute.s.03.discriminating')
+   Lemma('acute.s.03.knifelike')
+   Lemma('bang-up.s.01.great')
+   Lemma('bang-up.s.01.corking')
+   
+earnestness.n.01
+   Lemma('earnest.s.01.earnest')
+   Lemma('earnest.s.01.solemn')
+   Lemma('businesslike.s.02.businesslike')
+   Lemma('earnest.s.01.sincere')
+   Lemma('dear.s.03.dear')
+   Lemma('dear.s.03.heartfelt')
+   Lemma('dear.s.03.devout')
+   
+easiness.n.01
+   Lemma('restful.a.01.reposeful')
+   Lemma('easy.s.10.wanton')
+   Lemma('easy.s.05.gentle')
+   Lemma('comfortable.s.05.well-fixed')
+   Lemma('easy.s.10.promiscuous')
+   Lemma('relaxant.s.01.relaxant')
+   Lemma('comfortable.s.05.well-situated')
+   Lemma('easy.s.02.leisurely')
+   Lemma('easy.s.10.loose')
+   Lemma('easy.s.05.soft')
+   Lemma('restful.a.01.restful')
+   Lemma('relaxed.a.01.relaxed')
+   Lemma('easy.s.02.easygoing')
+   Lemma('comfortable.s.05.well-off')
+   Lemma('restful.a.01.relaxing')
+   Lemma('easy.s.10.sluttish')
+   Lemma('easy.a.01.easy')
+   Lemma('comfortable.s.05.comfortable')
+   Lemma('comfortable.s.05.prosperous')
+   Lemma('comfortable.s.05.well-heeled')
+   Lemma('comfortable.s.05.well-to-do')
+   Lemma('easy.s.10.light')
+   
+ecstasy.n.01
+   Lemma('exalted.s.01.high-flown')
+   Lemma('exalted.s.01.idealistic')
+   Lemma('exalted.s.01.elevated')
+   Lemma('ennobling.s.02.exalting')
+   Lemma('ennobling.s.02.ennobling')
+   Lemma('exalted.s.01.noble-minded')
+   Lemma('movable.s.02.transportable')
+   Lemma('ecstatic.s.01.rapturous')
+   Lemma('exalted.s.01.high-minded')
+   Lemma('movable.s.02.transferable')
+   Lemma('exalted.s.01.grand')
+   Lemma('movable.s.02.transferrable')
+   Lemma('exalted.s.01.rarified')
+   Lemma('ecstatic.s.01.rapt')
+   Lemma('movable.s.02.moveable')
+   Lemma('ecstatic.s.01.ecstatic')
+   Lemma('exalted.s.01.sublime')
+   Lemma('ecstatic.s.01.rhapsodic')
+   Lemma('exalted.s.01.lofty')
+   Lemma('exalted.s.01.exalted')
+   Lemma('movable.s.02.movable')
+   Lemma('ecstatic.s.01.enraptured')
+   Lemma('exalted.s.01.rarefied')
+   
+edginess.n.01
+   Lemma('edgy.s.01.nervy')
+   Lemma('edgy.s.01.restive')
+   Lemma('edgy.s.01.edgy')
+   Lemma('anxious.s.02.anxious')
+   Lemma('anxious.s.02.nervous')
+   Lemma('edgy.s.01.jumpy')
+   Lemma('restless.a.03.restless')
+   Lemma('edgy.s.01.highly_strung')
+   Lemma('edgy.s.01.overstrung')
+   Lemma('anxious.s.02.queasy')
+   Lemma('anxious.s.02.unquiet')
+   Lemma('uneasy.a.01.uneasy')
+   Lemma('awkward.s.06.ill_at_ease')
+   Lemma('edgy.s.01.jittery')
+   Lemma('awkward.s.06.awkward')
+   Lemma('edgy.s.01.high-strung')
+   Lemma('edgy.s.01.uptight')
+   
+ego.n.01
+   Lemma('arrogant.s.01.chesty')
+   Lemma('arrogant.s.01.arrogant')
+   Lemma('arrogant.s.01.self-important')
+   
+elation.n.02
+   Lemma('easy.s.10.wanton')
+   Lemma('light.s.18.scant')
+   Lemma('clean.s.03.unclouded')
+   Lemma('unaccented.s.02.unaccented')
+   Lemma('light.s.23.lite')
+   Lemma('easy.s.10.promiscuous')
+   Lemma('elated.s.02.jubilant')
+   Lemma('elated.s.02.gleeful')
+   Lemma('illuminated.s.01.well-lighted')
+   Lemma('easy.s.10.loose')
+   Lemma('light.s.24.wakeful')
+   Lemma('faint.s.04.swooning')
+   Lemma('lighted.a.01.lighted')
+   Lemma('illuminated.s.01.illuminated')
+   Lemma('unaccented.s.02.weak')
+   Lemma('light.s.11.tripping')
+   Lemma('elated.s.02.joyful')
+   Lemma('lighted.a.01.lit')
+   Lemma('clean.s.03.clear')
+   Lemma('light.a.02.light-colored')
+   Lemma('faint.s.04.lightheaded')
+   Lemma('clean.s.03.clean')
+   Lemma('easy.s.10.sluttish')
+   Lemma('idle.s.04.idle')
+   Lemma('easy.s.10.easy')
+   Lemma('elated.a.01.elated')
+   Lemma('elating.s.01.elating')
+   Lemma('faint.s.04.faint')
+   Lemma('light.s.23.calorie-free')
+   Lemma('faint.s.04.light-headed')
+   Lemma('light.s.11.lightsome')
+   Lemma('elating.s.01.exhilarating')
+   Lemma('light.a.01.light')
+   Lemma('light.s.18.short')
+   Lemma('light.s.23.low-cal')
+   Lemma('abstemious.s.02.abstemious')
+   
+electra_complex.n.01
+   
+electricity.n.03
+   Lemma('electric.a.01.electric')
+   Lemma('electric.s.03.galvanizing')
+   Lemma('electric.a.01.electrical')
+   Lemma('electric.s.03.galvanising')
+   Lemma('electric.s.03.galvanic')
+   
+embarrassment.n.01
+   Lemma('embarrassed.s.02.mortified')
+   Lemma('embarrassed.s.02.humiliated')
+   Lemma('abashed.s.01.chagrined')
+   Lemma('embarrassing.s.02.mortifying')
+   Lemma('awkward.s.05.sticky')
+   Lemma('abashed.s.01.embarrassed')
+   Lemma('abashed.s.01.abashed')
+   Lemma('awkward.s.05.embarrassing')
+   Lemma('awkward.s.05.awkward')
+   Lemma('awkward.s.05.unenviable')
+   
+embarrassment.n.02
+   Lemma('embarrassed.s.02.mortified')
+   Lemma('embarrassed.s.02.humiliated')
+   Lemma('abashed.s.01.chagrined')
+   Lemma('embarrassing.s.02.mortifying')
+   Lemma('awkward.s.05.sticky')
+   Lemma('abashed.s.01.embarrassed')
+   Lemma('abashed.s.01.abashed')
+   Lemma('awkward.s.05.embarrassing')
+   Lemma('awkward.s.05.awkward')
+   Lemma('awkward.s.05.unenviable')
+   
+embitterment.n.01
+   
+emotion.n.01
+   Lemma('aroused.s.06.aroused')
+   Lemma('aroused.s.06.excited')
+   Lemma('emotional.a.01.emotional')
+   Lemma('aroused.s.06.worked_up')
+   Lemma('affectional.s.01.emotive')
+   Lemma('affectional.s.01.affectional')
+   Lemma('affectional.s.01.affective')
+   
+emotional_state.n.01
+   Lemma('bouncing.s.02.zippy')
+   Lemma('game.s.02.spunky')
+   Lemma('game.s.02.mettlesome')
+   Lemma('spirituous.s.01.spirituous')
+   Lemma('bouncing.s.02.bouncy')
+   Lemma('bouncing.s.02.peppy')
+   Lemma('game.s.02.gamy')
+   Lemma('game.s.02.gritty')
+   Lemma('game.s.02.gamey')
+   Lemma('spirited.a.01.spirited')
+   Lemma('bouncing.s.02.bouncing')
+   Lemma('game.s.02.game')
+   Lemma('spirituous.s.01.spiritous')
+   Lemma('enlivened.s.02.enlivened')
+   
+emotionlessness.n.01
+   Lemma('ardent.s.01.impassioned')
+   Lemma('indifferent.s.08.unbiased')
+   Lemma('impassive.s.01.impassive')
+   Lemma('ardent.s.01.fervid')
+   Lemma('deadpan.s.01.deadpan')
+   Lemma('deadpan.s.01.expressionless')
+   Lemma('impassable.a.01.unpassable')
+   Lemma('deadpan.s.01.unexpressive')
+   Lemma('immaterial.s.05.immaterial')
+   Lemma('indifferent.s.08.unbiassed')
+   Lemma('ardent.s.01.torrid')
+   Lemma('deaf.s.02.deaf')
+   Lemma('apathetic.s.02.indifferent')
+   Lemma('apathetic.s.02.apathetic')
+   Lemma('inert.s.02.neutral')
+   Lemma('impassive.s.01.stolid')
+   Lemma('emotionless.s.01.passionless')
+   Lemma('emotionless.s.01.emotionless')
+   Lemma('ardent.s.01.ardent')
+   Lemma('impassable.a.01.impassable')
+   Lemma('inert.s.02.inert')
+   Lemma('indifferent.s.09.so-so')
+   Lemma('ardent.s.01.perfervid')
+   Lemma('ardent.s.01.fervent')
+   Lemma('deadpan.s.01.poker-faced')
+   Lemma('ardent.s.01.fiery')
+   
+empathy.n.01
+   
+emulation.n.01
+   Lemma('emulous.s.02.rivalrous')
+   Lemma('emulous.a.01.emulous')
+   
+encouragement.n.03
+   Lemma('encouraging.a.01.encouraging')
+   Lemma('encouraging.s.02.supporting')
+   Lemma('bucked_up.s.01.encouraged')
+   Lemma('bucked_up.s.01.bucked_up')
+   
+enjoyment.n.01
+   Lemma('enjoyable.s.01.enjoyable')
+   Lemma('enjoyable.s.01.pleasurable')
+   Lemma('enjoyable.s.01.gratifying')
+   
+enthusiasm.n.01
+   
+entrancement.n.01
+   Lemma('bewitching.s.01.entrancing')
+   Lemma('bewitching.s.01.fascinating')
+   Lemma('beguiled.s.01.entranced')
+   Lemma('bewitching.s.01.enthralling')
+   Lemma('beguiled.s.01.delighted')
+   Lemma('beguiled.s.01.beguiled')
+   Lemma('bewitching.s.01.captivating')
+   Lemma('beguiled.s.01.enthralled')
+   Lemma('beguiled.s.01.charmed')
+   Lemma('bewitching.s.01.enchanting')
+   Lemma('bewitching.s.01.bewitching')
+   Lemma('ravishing.s.01.ravishing')
+   Lemma('beguiled.s.01.captivated')
+   
+envy.n.01
+   
+euphoria.n.01
+   Lemma('euphoriant.s.01.euphoriant')
+   
+exhilaration.n.01
+   Lemma('aroused.s.06.excited')
+   Lemma('delirious.s.02.delirious')
+   Lemma('aroused.s.06.emotional')
+   Lemma('activated.s.02.activated')
+   Lemma('gladdened.s.01.exhilarated')
+   Lemma('exhilarating.s.01.stimulating')
+   Lemma('excitable.a.01.excitable')
+   Lemma('gladdened.s.01.gladdened')
+   Lemma('delirious.s.02.frantic')
+   Lemma('delirious.s.02.unrestrained')
+   Lemma('delirious.s.02.mad')
+   Lemma('exciting.a.01.exciting')
+   Lemma('aroused.s.06.aroused')
+   Lemma('excitant.s.01.excitant')
+   Lemma('elating.s.01.elating')
+   Lemma('excitant.s.01.excitatory')
+   Lemma('aroused.s.06.worked_up')
+   Lemma('exhilarating.s.01.exhilarating')
+   Lemma('excitable.s.02.irritable')
+   Lemma('excitant.s.01.excitative')
+   
+expectation.n.03
+   Lemma('expected.a.01.expected')
+   Lemma('big.s.13.enceinte')
+   Lemma('big.s.13.gravid')
+   Lemma('anticipant.s.01.anticipant')
+   Lemma('expectable.s.01.expectable')
+   Lemma('big.s.13.heavy')
+   Lemma('anticipant.s.01.expectant')
+   Lemma('big.s.13.big')
+   Lemma('big.s.13.with_child')
+   Lemma('big.s.13.great')
+   Lemma('big.s.13.large')
+   Lemma('anticipant.s.01.anticipative')
+   
+exuberance.n.01
+   Lemma('exuberant.s.03.luxuriant')
+   Lemma('excessive.s.02.excessive')
+   Lemma('exuberant.s.03.lush')
+   Lemma('excessive.s.02.extravagant')
+   Lemma('exuberant.s.03.profuse')
+   Lemma('exuberant.s.03.riotous')
+   Lemma('ebullient.s.01.exuberant')
+   Lemma('ebullient.s.01.ebullient')
+   Lemma('ebullient.s.01.high-spirited')
+   Lemma('excessive.s.02.overweening')
+   
+exultation.n.01
+   Lemma('exultant.s.01.exultant')
+   Lemma('exultant.s.01.triumphant')
+   Lemma('exultant.s.01.triumphal')
+   Lemma('elated.s.02.joyful')
+   Lemma('exultant.s.01.prideful')
+   Lemma('elated.s.02.elated')
+   Lemma('exultant.s.01.rejoicing')
+   Lemma('exultant.s.01.jubilant')
+   Lemma('elated.s.02.gleeful')
+   Lemma('exultant.s.01.exulting')
+   
+faintness.n.01
+   Lemma('faint.s.04.light-headed')
+   Lemma('faint.s.04.lightheaded')
+   Lemma('faint.s.06.timid')
+   Lemma('faint.s.04.swooning')
+   Lemma('faint.s.06.faint-hearted')
+   Lemma('faint.s.01.weak')
+   Lemma('faint.s.04.light')
+   Lemma('dim.s.02.wispy')
+   Lemma('faint.s.03.feeble')
+   Lemma('faint.s.06.fainthearted')
+   Lemma('dim.s.02.vague')
+   Lemma('dim.s.02.shadowy')
+   Lemma('faint.s.01.faint')
+   Lemma('dim.s.02.dim')
+   
+fatigue.n.03
+   Lemma('exhausted.s.01.washed-out')
+   Lemma('exhausted.s.01.dog-tired')
+   Lemma('exhausted.s.01.played_out')
+   Lemma('exhausted.s.01.fatigued')
+   Lemma('exhausted.s.01.worn_out')
+   Lemma('exhausted.s.01.worn-out')
+   Lemma('exhausted.s.01.spent')
+   Lemma('exhausted.s.01.exhausted')
+   Lemma('exhausted.s.01.fagged')
+   
+favor.n.04
+   Lemma('golden.s.06.lucky')
+   Lemma('golden.s.06.golden')
+   Lemma('favorable.a.01.favourable')
+   Lemma('favored.s.01.pet')
+   Lemma('favored.s.01.favored')
+   Lemma('favorable.a.01.favorable')
+   Lemma('favored.s.01.favourite')
+   Lemma('favored.s.01.preferred')
+   Lemma('favored.s.01.preferent')
+   Lemma('friendly.s.02.well-disposed')
+   Lemma('favored.s.01.favorite')
+   Lemma('friendly.s.02.friendly')
+   Lemma('golden.s.06.prosperous')
+   Lemma('favored.s.01.best-loved')
+   
+fear.n.01
+   Lemma('awful.s.02.horrendous')
+   Lemma('atrocious.s.03.ugly')
+   Lemma('fearful.s.04.frightful')
+   Lemma('cowardly.a.01.cowardly')
+   Lemma('atrocious.s.03.horrible')
+   Lemma('awful.s.02.dreadful')
+   Lemma('atrocious.s.03.horrifying')
+   Lemma('awful.s.02.awful')
+   Lemma('awful.s.02.terrible')
+   Lemma('awful.s.02.frightening')
+   Lemma('awful.s.02.dreaded')
+   Lemma('awful.s.02.fearsome')
+   Lemma('awful.s.02.horrific')
+   Lemma('fearful.s.05.timorous')
+   Lemma('fearful.s.01.fearful')
+   Lemma('atrocious.s.03.atrocious')
+   Lemma('awful.s.02.dread')
+   Lemma('frightful.s.02.tremendous')
+   Lemma('awful.s.02.direful')
+   Lemma('awful.s.02.dire')
+   Lemma('fearful.s.05.trepid')
+   
+fear.n.03
+   Lemma('awful.s.02.horrendous')
+   Lemma('reverent.a.01.reverent')
+   Lemma('amazing.s.02.awe-inspiring')
+   Lemma('amazing.s.02.awesome')
+   Lemma('respectful.s.02.venerating')
+   Lemma('respectful.s.02.respectful')
+   Lemma('fearful.s.04.frightful')
+   Lemma('cowardly.a.01.cowardly')
+   Lemma('godly.s.01.worshipful')
+   Lemma('awful.s.02.dreadful')
+   Lemma('awed.a.02.awestruck')
+   Lemma('awful.s.02.awful')
+   Lemma('august.s.02.revered')
+   Lemma('awful.s.02.terrible')
+   Lemma('awful.s.02.frightening')
+   Lemma('awful.s.02.dreaded')
+   Lemma('awful.s.02.fearsome')
+   Lemma('awful.s.02.horrific')
+   Lemma('fearful.s.05.timorous')
+   Lemma('amazing.s.02.amazing')
+   Lemma('fearful.s.01.fearful')
+   Lemma('respectful.s.02.reverential')
+   Lemma('august.s.02.august')
+   Lemma('awful.s.02.dread')
+   Lemma('awed.a.02.awestricken')
+   Lemma('genital.a.01.genital')
+   Lemma('genital.a.01.venereal')
+   Lemma('awed.s.01.awed')
+   Lemma('awful.s.02.direful')
+   Lemma('godly.s.01.godly')
+   Lemma('awful.s.02.dire')
+   Lemma('amazing.s.02.awing')
+   Lemma('august.s.02.venerable')
+   Lemma('fearful.s.05.trepid')
+   
+fearlessness.n.01
+   Lemma('unafraid.a.01.fearless')
+   Lemma('audacious.s.01.audacious')
+   Lemma('unafraid.a.01.unafraid')
+   Lemma('audacious.s.01.brave')
+   Lemma('audacious.s.01.intrepid')
+   Lemma('audacious.s.01.unfearing')
+   Lemma('audacious.s.01.dauntless')
+   Lemma('audacious.s.01.hardy')
+   
+feelings.n.01
+   
+fetish.n.01
+   
+fever.n.02
+   Lemma('feverish.s.03.feverous')
+   Lemma('feverish.s.03.feverish')
+   Lemma('fevered.s.01.fevered')
+   
+fidget.n.01
+   Lemma('restless.s.01.ungratified')
+   Lemma('antsy.s.01.fidgety')
+   Lemma('antsy.s.01.fretful')
+   Lemma('restless.s.01.restless')
+   Lemma('antsy.s.01.itchy')
+   Lemma('restless.a.03.uneasy')
+   Lemma('restless.s.01.unsatisfied')
+   Lemma('antsy.s.01.antsy')
+   
+filial_love.n.01
+   
+fit.n.01
+   Lemma('fitful.s.02.off-and-on')
+   Lemma('fit.s.02.set')
+   Lemma('fit.a.01.fit')
+   Lemma('fitted.a.01.fitted')
+   Lemma('fitful.s.01.fitful')
+   Lemma('fitful.s.01.spasmodic')
+   Lemma('fitting.s.01.fitting')
+   Lemma('fitful.s.02.interrupted')
+   Lemma('fit.s.02.primed')
+   Lemma('fitting.s.02.meet')
+   
+fondness.n.01
+   Lemma('fond.s.03.partial')
+   Lemma('fanciful.s.01.fanciful')
+   Lemma('fabricated.s.01.fancied')
+   Lemma('fabricated.s.01.fictitious')
+   Lemma('affectionate.s.01.lovesome')
+   Lemma('affectionate.s.01.warm')
+   Lemma('affectionate.s.01.tender')
+   Lemma('fanciful.s.02.imaginary')
+   Lemma('adoring.s.02.doting')
+   Lemma('affectionate.s.01.fond')
+   Lemma('fabricated.s.01.fabricated')
+   Lemma('affectionate.s.01.affectionate')
+   Lemma('fancy.a.01.fancy')
+   Lemma('fanciful.s.01.notional')
+   Lemma('fabricated.s.01.fictional')
+   Lemma('adoring.s.02.adoring')
+   
+foreboding.n.01
+   Lemma('fateful.s.02.portentous')
+   Lemma('fateful.s.02.fateful')
+   Lemma('fateful.s.02.foreboding')
+   
+forgiveness.n.01
+   Lemma('excusable.s.02.venial')
+   Lemma('absolvitory.s.01.exonerative')
+   Lemma('forgiving.a.01.forgiving')
+   Lemma('absolvitory.s.01.absolvitory')
+   Lemma('excusable.s.02.forgivable')
+   Lemma('excusable.s.02.excusable')
+   
+forlornness.n.01
+   Lemma('bare.s.08.barren')
+   Lemma('bare.s.08.bleak')
+   Lemma('bare.s.08.desolate')
+   Lemma('forlorn.s.01.forlorn')
+   Lemma('bare.s.08.bare')
+   Lemma('bare.s.08.stark')
+   
+friendliness.n.01
+   Lemma('friendly.a.01.friendly')
+   Lemma('friendly.s.02.favorable')
+   Lemma('friendly.s.02.well-disposed')
+   
+frisson.n.01
+   Lemma('chilling.s.01.scary')
+   Lemma('electrifying.s.01.thrilling')
+   Lemma('chilling.s.01.shivery')
+   Lemma('chilling.s.01.shuddery')
+   Lemma('tickling.s.01.tickling')
+   Lemma('shuddering.s.01.shuddering')
+   Lemma('thrilled.s.01.thrilled')
+   Lemma('tickling.s.01.titillating')
+   Lemma('electrifying.s.01.electrifying')
+   Lemma('chilling.s.01.chilling')
+   Lemma('chilling.s.01.scarey')
+   Lemma('thrillful.s.01.thrillful')
+   Lemma('shaky.s.02.shivering')
+   Lemma('shaky.s.02.shaky')
+   Lemma('tickling.s.01.tingling')
+   Lemma('shaky.s.02.trembling')
+   
+frustration.n.01
+   Lemma('defeated.s.02.defeated')
+   Lemma('defeated.s.02.thwarted')
+   Lemma('frustrating.s.02.thwarting')
+   Lemma('defeated.s.02.disappointed')
+   Lemma('frustrating.s.02.frustrative')
+   Lemma('defeated.s.02.discomfited')
+   Lemma('frustrating.s.01.frustrating')
+   Lemma('defeated.s.02.foiled')
+   Lemma('defeated.s.02.frustrated')
+   
+frustration.n.03
+   Lemma('defeated.s.02.defeated')
+   Lemma('defeated.s.02.thwarted')
+   Lemma('frustrating.s.02.thwarting')
+   Lemma('defeated.s.02.disappointed')
+   Lemma('frustrating.s.02.frustrative')
+   Lemma('defeated.s.02.discomfited')
+   Lemma('frustrating.s.01.frustrating')
+   Lemma('defeated.s.02.foiled')
+   Lemma('defeated.s.02.frustrated')
+   
+fulfillment.n.01
+   Lemma('fulfilled.s.01.fulfilled')
+   
+fury.n.01
+   Lemma('delirious.s.02.excited')
+   Lemma('delirious.s.02.delirious')
+   Lemma('hot.s.02.hot')
+   Lemma('harebrained.s.01.insane')
+   Lemma('angry.s.02.tempestuous')
+   Lemma('angry.s.02.furious')
+   Lemma('brainsick.s.01.unhinged')
+   Lemma('huffy.s.02.huffy')
+   Lemma('angry.s.02.angry')
+   Lemma('brainsick.s.01.crazy')
+   Lemma('delirious.s.02.frantic')
+   Lemma('delirious.s.02.unrestrained')
+   Lemma('huffy.s.02.mad')
+   Lemma('brainsick.s.01.disturbed')
+   Lemma('hot.s.02.raging')
+   Lemma('brainsick.s.01.demented')
+   Lemma('brainsick.s.01.brainsick')
+   Lemma('brainsick.s.01.sick')
+   Lemma('angry.s.02.wild')
+   Lemma('brainsick.s.01.unbalanced')
+   Lemma('huffy.s.02.sore')
+   Lemma('harebrained.s.01.harebrained')
+   
+gaiety.n.01
+   
+gaiety.n.02
+   Lemma('played.a.01.played')
+   Lemma('playful.a.01.playful')
+   
+gladness.n.01
+   Lemma('beaming.s.01.beaming')
+   Lemma('glad.s.02.happy')
+   Lemma('gladsome.s.01.gladsome')
+   Lemma('glad.a.01.glad')
+   
+gloat.n.01
+   
+gloom.n.02
+   Lemma('glooming.s.01.gloomy')
+   Lemma('gloomy.s.02.low')
+   Lemma('blue.s.08.dingy')
+   Lemma('drab.s.02.sombre')
+   Lemma('blue.s.08.dreary')
+   Lemma('blue.s.08.dismal')
+   Lemma('gloomy.s.02.down_in_the_mouth')
+   Lemma('blue.s.08.dark')
+   Lemma('glooming.s.01.glooming')
+   Lemma('gloomy.s.02.downhearted')
+   Lemma('somber.s.02.melancholy')
+   Lemma('gloomy.s.02.dispirited')
+   Lemma('gloomy.s.02.low-spirited')
+   Lemma('blue.s.08.drab')
+   Lemma('gloomy.s.02.down')
+   Lemma('drab.s.02.sober')
+   Lemma('drab.s.02.somber')
+   Lemma('gloomy.s.02.grim')
+   Lemma('blue.s.08.drear')
+   Lemma('gloomy.s.02.blue')
+   Lemma('gloomy.s.02.depressed')
+   Lemma('glooming.s.01.sulky')
+   Lemma('gloomy.s.02.downcast')
+   Lemma('blue.s.08.sorry')
+   Lemma('glooming.s.01.gloomful')
+   Lemma('blue.s.08.disconsolate')
+   
+glow.n.04
+   Lemma('glowing.s.01.glowing')
+   
+gold_fever.n.01
+   
+good_humor.n.01
+   Lemma('amiable.s.01.amiable')
+   Lemma('affable.s.01.genial')
+   Lemma('affable.s.01.cordial')
+   Lemma('affable.s.01.affable')
+   Lemma('amiable.s.01.good-humoured')
+   Lemma('amiable.s.01.good-humored')
+   
+good_will.n.03
+   
+gratefulness.n.01
+   Lemma('grating.s.01.raspy')
+   Lemma('appreciated.s.01.comprehended')
+   Lemma('grateful.a.01.grateful')
+   Lemma('appreciated.s.01.appreciated')
+   Lemma('appreciable.s.01.appreciable')
+   Lemma('grateful.a.01.thankful')
+   Lemma('grating.s.01.rough')
+   Lemma('grating.s.01.gravelly')
+   Lemma('grating.s.01.scratchy')
+   Lemma('appreciated.s.01.apprehended')
+   Lemma('appreciative.s.01.appreciative')
+   Lemma('grating.s.01.grating')
+   Lemma('grating.s.01.rasping')
+   
+gratification.n.01
+   
+gratitude.n.01
+   
+gravity.n.03
+   Lemma('earnest.s.01.earnest')
+   Lemma('grave.s.01.solemn')
+   Lemma('earnest.s.01.sincere')
+   Lemma('grave.s.01.grave')
+   Lemma('grave.s.01.sedate')
+   Lemma('grave.s.01.sober')
+   
+grief.n.01
+   Lemma('grievous.s.02.grievous')
+   Lemma('grievous.s.02.heartbreaking')
+   Lemma('grievous.s.02.heartrending')
+   
+growing_pains.n.02
+   
+grudge.n.01
+   Lemma('grudging.s.01.grudging')
+   Lemma('grudging.s.02.niggardly')
+   Lemma('grudging.s.02.scrimy')
+   
+guilt.n.02
+   
+guilt_pang.n.01
+   
+gusto.n.01
+   Lemma('zestful.s.01.barmy')
+   Lemma('zestful.s.01.zesty')
+   Lemma('zestful.s.01.yeasty')
+   Lemma('zestful.s.01.zestful')
+   
+hankering.n.01
+   
+happiness.n.01
+   Lemma('happy.s.04.well-chosen')
+   Lemma('happy.a.01.happy')
+   Lemma('felicitous.s.02.felicitous')
+   Lemma('glad.s.02.glad')
+   
+happiness.n.02
+   Lemma('happy.s.04.well-chosen')
+   Lemma('happy.a.01.happy')
+   Lemma('felicitous.s.02.felicitous')
+   Lemma('glad.s.02.glad')
+   
+harassment.n.01
+   Lemma('hag-ridden.s.01.hagridden')
+   Lemma('anguished.s.01.anguished')
+   Lemma('hag-ridden.s.01.hag-ridden')
+   Lemma('annoyed.s.02.harassed')
+   Lemma('anguished.s.01.tortured')
+   Lemma('annoyed.s.02.annoyed')
+   Lemma('annoyed.s.02.pestered')
+   Lemma('annoyed.s.02.vexed')
+   Lemma('anguished.s.01.tormented')
+   Lemma('annoyed.s.02.harried')
+   
+hate.n.01
+   Lemma('despised.s.01.detested')
+   Lemma('despised.s.01.hated')
+   Lemma('hateful.s.02.mean')
+   Lemma('hateful.a.01.hateful')
+   Lemma('despised.s.01.scorned')
+   Lemma('despised.s.01.despised')
+   
+heartburning.n.01
+   
+heartlessness.n.01
+   Lemma('hardhearted.a.01.heartless')
+   Lemma('hardhearted.a.01.hardhearted')
+   
+heartstrings.n.01
+   
+heaviness.n.02
+   Lemma('heavy.s.07.sullen')
+   Lemma('arduous.s.01.operose')
+   Lemma('heavy.s.26.sound')
+   Lemma('arduous.s.01.toilsome')
+   Lemma('arduous.s.01.gruelling')
+   Lemma('heavy.s.07.threatening')
+   Lemma('heavy.s.23.laboured')
+   Lemma('heavy.a.01.heavy')
+   Lemma('fleshy.s.01.overweight')
+   Lemma('arduous.s.01.arduous')
+   Lemma('big.s.13.with_child')
+   Lemma('arduous.s.01.backbreaking')
+   Lemma('intemperate.s.03.hard')
+   Lemma('intemperate.s.03.intemperate')
+   Lemma('grave.s.03.grievous')
+   Lemma('clayey.s.02.cloggy')
+   Lemma('clayey.s.02.clayey')
+   Lemma('heavy.s.07.lowering')
+   Lemma('big.s.06.big')
+   Lemma('heavy.s.25.leaden')
+   Lemma('heavy.s.26.wakeless')
+   Lemma('fleshy.s.01.fleshy')
+   Lemma('big.s.13.enceinte')
+   Lemma('heavy.s.23.labored')
+   Lemma('arduous.s.01.laborious')
+   Lemma('heavy.s.18.ponderous')
+   Lemma('grave.s.03.grave')
+   Lemma('grave.s.03.weighty')
+   Lemma('dense.s.01.impenetrable')
+   Lemma('heavy.s.26.profound')
+   Lemma('big.s.13.large')
+   Lemma('arduous.s.01.punishing')
+   Lemma('heavy.s.18.lumbering')
+   Lemma('arduous.s.01.grueling')
+   Lemma('big.s.13.gravid')
+   Lemma('heavy.s.15.sonorous')
+   Lemma('big.s.13.expectant')
+   Lemma('dense.s.01.dense')
+   Lemma('heavy.s.22.weighed_down')
+   Lemma('big.s.13.great')
+   
+heavyheartedness.n.01
+   
+helplessness.n.03
+   Lemma('helpless.s.01.helpless')
+   Lemma('helpless.s.01.incapacitated')
+   Lemma('helpless.s.02.lost')
+   
+hero_worship.n.01
+   
+hesitance.n.01
+   Lemma('hesitant.s.01.hesitant')
+   Lemma('hesitant.s.01.hesitating')
+   
+hilarity.n.01
+   Lemma('gay.s.02.mirthful')
+   Lemma('amusing.s.02.laughable')
+   Lemma('hilar.a.01.hilar')
+   Lemma('amusing.s.02.funny')
+   Lemma('gay.s.02.jocund')
+   Lemma('gay.s.02.jovial')
+   Lemma('gay.s.02.gay')
+   Lemma('amusing.s.02.comical')
+   Lemma('amusing.s.02.comic')
+   Lemma('amusing.s.02.risible')
+   Lemma('elated.s.02.joyful')
+   Lemma('gay.s.02.merry')
+   Lemma('amusing.s.02.amusing')
+   Lemma('elated.s.02.elated')
+   Lemma('elated.s.02.jubilant')
+   Lemma('elated.s.02.gleeful')
+   Lemma('gay.s.02.jolly')
+   
+homesickness.n.01
+   Lemma('homesick.s.01.homesick')
+   
+hope.n.01
+   Lemma('bright.s.10.bright')
+   Lemma('bright.s.10.promising')
+   Lemma('hopeful.a.01.hopeful')
+   
+hope.n.02
+   Lemma('bright.s.10.bright')
+   Lemma('bright.s.10.promising')
+   Lemma('hopeful.a.01.hopeful')
+   
+hopefulness.n.02
+   Lemma('bright.s.10.bright')
+   Lemma('bright.s.10.promising')
+   Lemma('hopeful.a.01.hopeful')
+   
+hopelessness.n.01
+   Lemma('hopeless.a.01.hopeless')
+   
+horror.n.01
+   
+hostility.n.03
+   Lemma('hostile.s.04.unfriendly')
+   Lemma('hostile.s.04.uncongenial')
+   Lemma('hostile.a.01.hostile')
+   
+huffiness.n.01
+   Lemma('huffy.s.01.touchy')
+   Lemma('huffy.s.02.sore')
+   Lemma('huffy.s.01.huffy')
+   Lemma('huffy.s.01.thin-skinned')
+   Lemma('huffy.s.01.feisty')
+   Lemma('huffy.s.02.mad')
+   
+humility.n.02
+   Lemma('broken.s.03.humiliated')
+   Lemma('humble.s.01.humble')
+   Lemma('broken.s.03.low')
+   Lemma('demeaning.s.01.humiliating')
+   Lemma('demeaning.s.01.mortifying')
+   Lemma('humble.s.01.small')
+   Lemma('humble.s.03.menial')
+   Lemma('demeaning.s.01.demeaning')
+   Lemma('demeaning.s.01.humbling')
+   Lemma('humble.s.01.modest')
+   Lemma('broken.s.03.broken')
+   Lemma('humble.s.01.lowly')
+   Lemma('broken.s.03.crushed')
+   Lemma('base.s.02.base')
+   Lemma('broken.s.03.humbled')
+   Lemma('base.s.02.baseborn')
+   
+hysteria.n.02
+   
+ill_humor.n.01
+   
+impatience.n.02
+   Lemma('impatient.a.01.impatient')
+   Lemma('impatient.s.02.raring')
+   
+inclination.n.05
+   Lemma('disposed.s.01.disposed')
+   Lemma('disposed.s.01.fain')
+   Lemma('inclined.a.01.inclined')
+   Lemma('disposed.s.01.prepared')
+   
+indifference.n.01
+   Lemma('indifferent.s.09.so-so')
+   Lemma('indifferent.s.08.unbiased')
+   Lemma('indifferent.s.08.unbiassed')
+   Lemma('immaterial.s.05.immaterial')
+   Lemma('inert.s.02.neutral')
+   Lemma('deaf.s.02.deaf')
+   Lemma('apathetic.s.02.indifferent')
+   Lemma('apathetic.s.02.apathetic')
+   Lemma('inert.s.02.inert')
+   
+indignation.n.01
+   Lemma('hideous.s.01.horrific')
+   Lemma('hideous.s.01.horrid')
+   Lemma('exorbitant.s.01.extortionate')
+   Lemma('exorbitant.s.01.unconscionable')
+   Lemma('indignant.s.01.indignant')
+   Lemma('hideous.s.01.hideous')
+   Lemma('indignant.s.01.incensed')
+   Lemma('exorbitant.s.01.usurious')
+   Lemma('indignant.s.01.outraged')
+   Lemma('exorbitant.s.01.steep')
+   Lemma('indignant.s.01.umbrageous')
+   Lemma('hideous.s.01.outrageous')
+   Lemma('exorbitant.s.01.exorbitant')
+   
+infatuation.n.01
+   Lemma('enamored.s.01.in_love')
+   Lemma('enamored.s.01.taken_with')
+   Lemma('enamored.s.01.infatuated')
+   Lemma('enamored.s.01.enamored')
+   Lemma('enamored.s.01.smitten')
+   Lemma('enamored.s.01.soft_on')
+   Lemma('enamored.s.01.potty')
+   
+inferiority_complex.n.01
+   
+infuriation.n.01
+   Lemma('exasperating.s.01.vexing')
+   Lemma('angered.s.01.furious')
+   Lemma('angered.s.01.enraged')
+   Lemma('angered.s.01.infuriated')
+   Lemma('exasperating.s.01.maddening')
+   Lemma('exasperating.s.01.infuriating')
+   Lemma('angered.s.01.angered')
+   Lemma('angered.s.01.maddened')
+   Lemma('exasperating.s.01.exasperating')
+   
+ingratitude.n.01
+   Lemma('ungrateful.a.01.thankless')
+   Lemma('ungrateful.a.01.ungrateful')
+   Lemma('ungrateful.a.01.unthankful')
+   
+insecurity.n.02
+   Lemma('insecure.a.01.insecure')
+   Lemma('insecure.a.02.unsafe')
+   
+insight.n.02
+   Lemma('perceptive.a.01.perceptive')
+   Lemma('perceptible.a.01.perceptible')
+   Lemma('insightful.s.01.insightful')
+   Lemma('detectable.s.02.detectable')
+   
+intimidation.n.02
+   Lemma('intimidated.s.01.intimidated')
+   Lemma('daunting.s.01.intimidating')
+   Lemma('daunting.s.01.daunting')
+   
+intimidation.n.03
+   Lemma('intimidated.s.01.intimidated')
+   Lemma('daunting.s.01.intimidating')
+   Lemma('daunting.s.01.daunting')
+   
+intoxication.n.03
+   Lemma('intoxicated.a.01.intoxicated')
+   Lemma('heady.s.02.heady')
+   Lemma('intoxicated.a.01.drunk')
+   Lemma('intoxicated.a.01.inebriated')
+   Lemma('intoxicant.s.01.intoxicant')
+   Lemma('intoxicant.s.01.intoxicating')
+   
+irascibility.n.01
+   Lemma('choleric.s.02.short-tempered')
+   Lemma('choleric.s.02.irascible')
+   Lemma('choleric.s.02.hot-tempered')
+   Lemma('choleric.s.02.choleric')
+   Lemma('choleric.s.02.hotheaded')
+   Lemma('choleric.s.02.quick-tempered')
+   
+irritability.n.01
+   Lemma('annoying.s.01.vexing')
+   Lemma('irritating.s.02.irritating')
+   Lemma('annoying.s.01.bothersome')
+   Lemma('crabbed.s.01.crabby')
+   Lemma('finical.s.01.particular')
+   Lemma('annoyed.s.01.pissed')
+   Lemma('crossed.a.01.crossed')
+   Lemma('fretted.s.02.interlaced')
+   Lemma('crabbed.s.01.crabbed')
+   Lemma('fretted.s.02.latticed')
+   Lemma('crabbed.s.01.fussy')
+   Lemma('annoying.s.01.pestiferous')
+   Lemma('cranky.s.02.petulant')
+   Lemma('cranky.s.02.pettish')
+   Lemma('choleric.s.02.hotheaded')
+   Lemma('fretful.s.02.querulous')
+   Lemma('antsy.s.01.antsy')
+   Lemma('choleric.s.02.quick-tempered')
+   Lemma('irritating.s.02.irritative')
+   Lemma('fretful.s.02.whiney')
+   Lemma('annoyed.s.01.miffed')
+   Lemma('excitable.s.02.excitable')
+   Lemma('annoyed.s.01.nettled')
+   Lemma('annoyed.s.01.stung')
+   Lemma('cranky.s.02.scratchy')
+   Lemma('annoyed.s.01.irritated')
+   Lemma('choleric.s.02.irascible')
+   Lemma('annoying.s.01.vexatious')
+   Lemma('crabbed.s.01.bad-tempered')
+   Lemma('fretted.a.01.fretted')
+   Lemma('busy.s.02.busy')
+   Lemma('annoyed.s.01.roiled')
+   Lemma('cranky.s.02.peevish')
+   Lemma('annoying.s.01.pestering')
+   Lemma('crabbed.s.01.grouchy')
+   Lemma('cross.s.01.transverse')
+   Lemma('annoyed.s.01.riled')
+   Lemma('finical.s.01.finicky')
+   Lemma('annoying.s.01.pesky')
+   Lemma('finical.s.01.finical')
+   Lemma('choleric.s.02.short-tempered')
+   Lemma('irritating.s.03.painful')
+   Lemma('cranky.s.02.testy')
+   Lemma('cross.s.01.cross')
+   Lemma('cranky.s.02.tetchy')
+   Lemma('choleric.s.02.hot-tempered')
+   Lemma('annoying.s.01.annoying')
+   Lemma('crabbed.s.01.ill-tempered')
+   Lemma('annoying.s.01.teasing')
+   Lemma('annoying.s.01.nettlesome')
+   Lemma('cranky.s.02.cranky')
+   Lemma('annoying.s.01.plaguy')
+   Lemma('annoying.s.01.galling')
+   Lemma('antsy.s.01.fidgety')
+   Lemma('cross.s.01.thwartwise')
+   Lemma('finical.s.01.picky')
+   Lemma('annoyed.s.01.steamed')
+   Lemma('annoyed.s.01.peeved')
+   Lemma('crabbed.s.01.grumpy')
+   Lemma('annoying.s.01.plaguey')
+   Lemma('fretful.s.02.whiny')
+   Lemma('antsy.s.01.fretful')
+   Lemma('annoyed.s.01.annoyed')
+   Lemma('annoyed.s.01.pissed_off')
+   Lemma('cranky.s.02.techy')
+   Lemma('antsy.s.01.itchy')
+   Lemma('cross.s.01.transversal')
+   Lemma('fretted.s.02.latticelike')
+   Lemma('cranky.s.02.fractious')
+   Lemma('cranky.s.02.irritable')
+   Lemma('choleric.s.01.choleric')
+   Lemma('cranky.s.02.peckish')
+   
+isolation.n.02
+   Lemma('isolated.s.05.quarantined')
+   Lemma('isolating.s.01.isolating')
+   Lemma('detached.s.02.separated')
+   Lemma('detached.s.02.set-apart')
+   Lemma('isolated.s.01.isolated')
+   Lemma('apart.s.01.obscure')
+   Lemma('detached.s.02.detached')
+   Lemma('isolated.s.01.stray')
+   Lemma('isolated.s.04.stranded')
+   Lemma('apart.s.01.apart')
+   Lemma('disjunct.s.03.disjunct')
+   Lemma('isolated.s.04.marooned')
+   Lemma('isolable.s.01.isolable')
+   
+jealousy.n.01
+   
+jitteriness.n.01
+   Lemma('rough.a.09.jolting')
+   Lemma('rough.a.09.rocky')
+   Lemma('edgy.s.01.nervy')
+   Lemma('edgy.s.01.restive')
+   Lemma('edgy.s.01.edgy')
+   Lemma('rough.a.09.rough')
+   Lemma('rough.a.09.jolty')
+   Lemma('edgy.s.01.jumpy')
+   Lemma('edgy.s.01.highly_strung')
+   Lemma('rough.a.09.bumpy')
+   Lemma('edgy.s.01.overstrung')
+   Lemma('jittery.a.01.jittery')
+   Lemma('edgy.s.01.high-strung')
+   Lemma('edgy.s.01.uptight')
+   
+jocundity.n.01
+   Lemma('gay.s.02.mirthful')
+   Lemma('jesting.s.01.jocose')
+   Lemma('gay.s.02.jocund')
+   Lemma('gay.s.02.jovial')
+   Lemma('gay.s.02.gay')
+   Lemma('jesting.s.01.joking')
+   Lemma('gay.s.02.merry')
+   Lemma('jesting.s.01.jesting')
+   Lemma('gay.s.02.jolly')
+   Lemma('jesting.s.01.jocular')
+   
+joie_de_vivre.n.01
+   
+jollity.n.01
+   Lemma('gay.s.02.mirthful')
+   Lemma('gay.s.02.jocund')
+   Lemma('gay.s.02.jovial')
+   Lemma('gay.s.02.gay')
+   Lemma('gay.s.02.merry')
+   Lemma('gay.s.02.jolly')
+   
+joy.n.01
+   Lemma('elated.s.02.gleeful')
+   Lemma('joyful.a.01.joyful')
+   Lemma('elated.s.02.elated')
+   Lemma('elated.s.02.jubilant')
+   
+joylessness.n.01
+   Lemma('joyless.a.01.joyless')
+   
+kindheartedness.n.01
+   
+languor.n.01
+   Lemma('dreamy.s.02.dreamy')
+   Lemma('dreamy.s.02.languid')
+   Lemma('dreamy.s.02.lackadaisical')
+   Lemma('dreamy.s.02.languorous')
+   Lemma('dreamy.s.01.woolgathering')
+   Lemma('dreamy.s.01.moony')
+   
+languor.n.02
+   Lemma('dispirited.s.01.dispirited')
+   Lemma('dreamy.s.02.dreamy')
+   Lemma('dreamy.s.02.languid')
+   Lemma('dreamy.s.02.lackadaisical')
+   Lemma('dreamy.s.02.languorous')
+   Lemma('listless.s.01.listless')
+   
+leaning.n.01
+   Lemma('lean.s.03.skimpy')
+   Lemma('atilt.s.01.leaning')
+   Lemma('atilt.s.01.tipped')
+   Lemma('atilt.s.01.atilt')
+   Lemma('atilt.s.01.tilted')
+   Lemma('thin.a.02.lean')
+   Lemma('thin.a.02.thin')
+   Lemma('atilt.s.01.canted')
+   
+lecherousness.n.01
+   Lemma('lascivious.s.01.lascivious')
+   Lemma('lascivious.s.01.lewd')
+   Lemma('lubricious.s.02.lustful')
+   Lemma('lustful.s.03.concupiscent')
+   Lemma('lubricious.s.02.prurient')
+   Lemma('lecherous.s.01.lecherous')
+   Lemma('lubricious.s.02.salacious')
+   Lemma('lubricious.s.02.lubricious')
+   Lemma('lascivious.s.01.libidinous')
+   Lemma('lustful.s.03.lusty')
+   
+levity.n.01
+   
+libido.n.01
+   
+liking.n.01
+   Lemma('liked.a.01.liked')
+   Lemma('comparable.s.02.comparable')
+   Lemma('likely.a.01.likely')
+   Lemma('probable.a.01.probable')
+   Lemma('like.a.01.like')
+   Lemma('comparable.s.02.corresponding')
+   Lemma('like.a.02.same')
+   Lemma('likely.s.03.potential')
+   Lemma('alike.a.01.alike')
+   Lemma('like.a.01.similar')
+   
+lividity.n.01
+   Lemma('ashen.s.01.livid')
+   Lemma('ashen.s.01.bloodless')
+   Lemma('ashen.s.01.blanched')
+   Lemma('black-and-blue.s.01.black-and-blue')
+   Lemma('ashen.s.01.ashen')
+   Lemma('ashen.s.01.white')
+   
+longing.n.01
+   Lemma('farseeing.s.02.prospicient')
+   Lemma('hungry.a.01.hungry')
+   Lemma('farseeing.s.02.farsighted')
+   Lemma('athirst.s.01.athirst')
+   Lemma('farseeing.s.02.longsighted')
+   Lemma('farseeing.s.02.farseeing')
+   Lemma('long.a.01.long')
+   Lemma('athirst.s.01.thirsty')
+   Lemma('retentive.a.01.retentive')
+   Lemma('farseeing.s.02.foresightful')
+   Lemma('farseeing.s.02.foresighted')
+   Lemma('retentive.a.01.recollective')
+   Lemma('retentive.a.01.tenacious')
+   
+love.n.01
+   Lemma('lovely.s.01.lovely')
+   Lemma('loving.a.01.loving')
+   Lemma('loved.a.01.loved')
+   Lemma('adorable.s.01.endearing')
+   Lemma('adorable.s.01.adorable')
+   
+love.n.04
+   Lemma('lovely.s.01.lovely')
+   Lemma('loving.a.01.loving')
+   Lemma('loved.a.01.loved')
+   Lemma('adorable.s.01.endearing')
+   Lemma('adorable.s.01.adorable')
+   
+lovesickness.n.01
+   Lemma('lovesick.s.01.lovesick')
+   
+lovingness.n.01
+   Lemma('careful.a.01.careful')
+   Lemma('caring.s.01.caring')
+   Lemma('careful.s.02.heedful')
+   Lemma('careful.s.03.measured')
+   Lemma('careful.s.03.deliberate')
+   Lemma('careful.s.05.thrifty')
+   
+loyalty.n.02
+   
+maleficence.n.01
+   Lemma('maleficent.a.01.maleficent')
+   
+malevolence.n.01
+   Lemma('malignant.a.01.malignant')
+   Lemma('malefic.s.01.malefic')
+   Lemma('malefic.s.01.evil')
+   Lemma('malefic.s.01.malign')
+   Lemma('malevolent.s.01.malevolent')
+   
+malice.n.01
+   Lemma('poisonous.s.03.vicious')
+   Lemma('despiteful.s.01.despiteful')
+   Lemma('despiteful.s.01.spiteful')
+   Lemma('deadly.s.03.deadly')
+   Lemma('poisonous.s.03.poisonous')
+   Lemma('deadly.s.03.venomous')
+   Lemma('malicious.a.01.malicious')
+   Lemma('venomed.s.01.venomed')
+   Lemma('deadly.s.03.virulent')
+   Lemma('despiteful.s.01.vindictive')
+   
+masochism.n.01
+   
+mawkishness.n.01
+   Lemma('bathetic.s.01.kitschy')
+   Lemma('bathetic.s.01.slushy')
+   Lemma('bathetic.s.01.soupy')
+   Lemma('bathetic.s.01.schmalzy')
+   Lemma('bathetic.s.01.schmaltzy')
+   Lemma('bathetic.s.01.mawkish')
+   Lemma('bathetic.s.01.drippy')
+   Lemma('bathetic.s.01.hokey')
+   Lemma('bathetic.s.01.maudlin')
+   Lemma('bathetic.s.01.sentimental')
+   Lemma('bathetic.s.01.bathetic')
+   Lemma('bathetic.s.01.soppy')
+   Lemma('bathetic.s.01.mushy')
+   
+meekness.n.01
+   Lemma('meek.s.01.meek')
+   Lemma('meek.s.03.spiritless')
+   Lemma('meek.s.01.modest')
+   Lemma('meek.s.01.mild')
+   Lemma('slavish.s.02.slavish')
+   Lemma('submissive.a.01.submissive')
+   Lemma('slavish.s.02.subservient')
+   Lemma('meek.s.02.tame')
+   
+melancholy.n.01
+   Lemma('melancholy.s.01.melancholy')
+   Lemma('somber.s.02.somber')
+   Lemma('somber.s.02.sombre')
+   Lemma('melancholy.s.01.melancholic')
+   
+mellowness.n.01
+   Lemma('laid-back.s.01.mellow')
+   Lemma('laid-back.s.01.laid-back')
+   Lemma('high.s.07.high')
+   Lemma('mellow.s.02.mellowed')
+   
+mental_anguish.n.01
+   
+mercifulness.n.01
+   Lemma('merciful.a.01.merciful')
+   
+misanthropy.n.01
+   
+misery.n.02
+   
+misocainea.n.01
+   
+misogamy.n.01
+   
+misogyny.n.01
+   Lemma('misogynous.s.01.misogynistic')
+   Lemma('misogynic.s.01.misogynic')
+   Lemma('misogynous.s.01.misogynous')
+   
+misology.n.01
+   
+misoneism.n.01
+   
+misopedia.n.01
+   
+moodiness.n.01
+   Lemma('dark.s.06.morose')
+   Lemma('dark.s.06.moody')
+   Lemma('dark.s.06.sullen')
+   Lemma('dark.s.06.glowering')
+   Lemma('moody.s.02.temperamental')
+   Lemma('dark.s.06.dour')
+   Lemma('dark.s.06.glum')
+   Lemma('dark.s.06.dark')
+   Lemma('dark.s.06.saturnine')
+   Lemma('dark.s.06.sour')
+   
+moroseness.n.01
+   Lemma('dark.s.06.morose')
+   Lemma('dark.s.06.moody')
+   Lemma('dark.s.06.sullen')
+   Lemma('dark.s.06.glowering')
+   Lemma('dark.s.06.dour')
+   Lemma('dark.s.06.glum')
+   Lemma('dark.s.06.dark')
+   Lemma('dark.s.06.saturnine')
+   Lemma('heavy.s.07.threatening')
+   Lemma('heavy.s.07.heavy')
+   Lemma('heavy.s.07.lowering')
+   Lemma('dark.s.06.sour')
+   
+mournfulness.n.01
+   Lemma('mournful.s.01.mournful')
+   Lemma('sorrowful.a.01.sorrowful')
+   Lemma('bereaved.s.01.bereft')
+   Lemma('bereaved.s.01.mourning')
+   Lemma('contrite.s.01.ruthful')
+   Lemma('bereaved.s.01.bereaved')
+   Lemma('bereaved.s.01.sorrowing')
+   Lemma('contrite.s.01.remorseful')
+   Lemma('contrite.s.01.rueful')
+   Lemma('contrite.s.01.contrite')
+   Lemma('bereaved.s.01.grief-stricken')
+   Lemma('mournful.s.01.plaintive')
+   Lemma('bereaved.s.01.grieving')
+   Lemma('doleful.s.01.doleful')
+   
+mourning.n.01
+   Lemma('mournful.s.01.mournful')
+   Lemma('bereaved.s.01.bereft')
+   Lemma('bereaved.s.01.mourning')
+   Lemma('bereaved.s.01.bereaved')
+   Lemma('bereaved.s.01.sorrowing')
+   Lemma('bereaved.s.01.grief-stricken')
+   Lemma('mournful.s.01.plaintive')
+   Lemma('bereaved.s.01.grieving')
+   Lemma('doleful.s.01.doleful')
+   
+murderousness.n.01
+   Lemma('homicidal.s.01.homicidal')
+   Lemma('murdered.s.01.murdered')
+   Lemma('homicidal.s.01.murderous')
+   
+mysophilia.n.01
+   
+nationalism.n.03
+   Lemma('home.s.03.interior')
+   Lemma('national.a.01.national')
+   Lemma('home.s.03.internal')
+   Lemma('home.s.03.home')
+   
+nausea.n.02
+   
+nirvana.n.01
+   Lemma('enlightening.a.01.enlightening')
+   Lemma('educated.s.02.educated')
+   Lemma('enlightening.a.01.informative')
+   Lemma('edifying.a.01.edifying')
+   Lemma('enlightening.a.01.illuminating')
+   Lemma('enlightened.a.01.enlightened')
+   
+nostalgia.n.01
+   
+nymphomania.n.01
+   
+oedipus_complex.n.01
+   
+oppression.n.03
+   Lemma('oppressive.s.02.tyrannous')
+   Lemma('laden.s.02.oppressed')
+   Lemma('oppressive.s.01.oppressive')
+   Lemma('laden.s.02.laden')
+   Lemma('oppressive.s.02.tyrannical')
+   
+optimism.n.01
+   Lemma('optimum.s.01.optimal')
+   Lemma('optimum.s.01.optimum')
+   
+oversensitiveness.n.01
+   Lemma('oversensitive.s.01.oversensitive')
+   
+pain.n.02
+   Lemma('offended.s.01.pained')
+   Lemma('atrocious.s.02.abominable')
+   Lemma('atrocious.s.02.dreadful')
+   Lemma('afflictive.s.01.afflictive')
+   Lemma('afflictive.s.01.sore')
+   Lemma('irritating.s.03.irritating')
+   Lemma('atrocious.s.02.awful')
+   Lemma('painful.a.01.painful')
+   Lemma('offended.s.01.offended')
+   Lemma('atrocious.s.02.atrocious')
+   Lemma('atrocious.s.02.terrible')
+   Lemma('atrocious.s.02.unspeakable')
+   
+pang.n.01
+   Lemma('cutting.s.03.keen')
+   Lemma('stabbing.s.01.stabbing')
+   Lemma('cutting.s.03.cutting')
+   Lemma('cutting.s.03.lancinating')
+   Lemma('cutting.s.03.lancinate')
+   Lemma('cutting.s.03.knifelike')
+   Lemma('stabbing.s.01.wounding')
+   Lemma('cutting.s.03.piercing')
+   
+panic.n.01
+   
+passion.n.01
+   Lemma('passionate.a.01.passionate')
+   
+passion.n.05
+   Lemma('passionate.a.01.passionate')
+   
+peace.n.03
+   Lemma('calm.s.01.unagitated')
+   Lemma('restful.a.01.reposeful')
+   Lemma('peaceful.a.01.peaceful')
+   Lemma('calm.s.01.calm')
+   Lemma('calm.s.01.serene')
+   Lemma('calm.s.01.tranquil')
+   Lemma('restful.a.01.restful')
+   Lemma('peaceful.a.01.peaceable')
+   Lemma('passive.s.02.passive')
+   Lemma('restful.a.01.relaxing')
+   
+peeve.n.01
+   Lemma('annoyed.s.01.miffed')
+   Lemma('annoyed.s.01.riled')
+   Lemma('annoyed.s.01.steamed')
+   Lemma('annoyed.s.01.peeved')
+   Lemma('annoyed.s.01.nettled')
+   Lemma('annoyed.s.01.stung')
+   Lemma('annoyed.s.01.annoyed')
+   Lemma('annoyed.s.01.irritated')
+   Lemma('annoyed.s.01.pissed')
+   Lemma('annoyed.s.01.pissed_off')
+   Lemma('annoyed.s.01.roiled')
+   
+penis_envy.n.01
+   
+pensiveness.n.01
+   Lemma('pensive.s.02.wistful')
+   Lemma('brooding.s.01.meditative')
+   Lemma('brooding.s.01.contemplative')
+   Lemma('brooding.s.01.broody')
+   Lemma('brooding.s.01.pondering')
+   Lemma('brooding.s.01.reflective')
+   Lemma('brooding.s.01.pensive')
+   Lemma('brooding.s.01.brooding')
+   Lemma('brooding.s.01.ruminative')
+   Lemma('brooding.s.01.musing')
+   
+pessimism.n.01
+   Lemma('pessimal.s.01.pessimal')
+   Lemma('pessimal.s.01.pessimum')
+   
+pet.n.03
+   Lemma('favored.s.01.pet')
+   Lemma('favored.s.01.favored')
+   Lemma('favored.s.01.favourite')
+   Lemma('favored.s.01.preferred')
+   Lemma('favored.s.01.preferent')
+   Lemma('favored.s.01.favorite')
+   Lemma('favored.s.01.best-loved')
+   
+philhellenism.n.01
+   Lemma('philhellenic.a.01.Graecophilic')
+   Lemma('philhellenic.a.01.philhellene')
+   Lemma('philhellenic.a.01.Graecophile')
+   Lemma('philhellenic.a.01.philhellenic')
+   
+philogyny.n.01
+   
+pining.n.01
+   
+pique.n.02
+   Lemma('annoying.s.01.vexing')
+   Lemma('irritating.s.02.irritating')
+   Lemma('annoying.s.01.bothersome')
+   Lemma('annoyed.s.01.pissed')
+   Lemma('temperate.a.01.temperate')
+   Lemma('tempering.s.01.tempering')
+   Lemma('annoying.s.01.pestiferous')
+   Lemma('cranky.s.02.petulant')
+   Lemma('cranky.s.02.pettish')
+   Lemma('irritating.s.02.irritative')
+   Lemma('annoyed.s.01.miffed')
+   Lemma('excitable.s.02.excitable')
+   Lemma('annoyed.s.01.nettled')
+   Lemma('annoyed.s.01.stung')
+   Lemma('cranky.s.02.scratchy')
+   Lemma('annoyed.s.01.irritated')
+   Lemma('annoying.s.01.vexatious')
+   Lemma('annoyed.s.01.roiled')
+   Lemma('cranky.s.02.peevish')
+   Lemma('annoying.s.01.pestering')
+   Lemma('annoyed.s.01.riled')
+   Lemma('annoying.s.01.pesky')
+   Lemma('irritating.s.03.painful')
+   Lemma('cranky.s.02.testy')
+   Lemma('cranky.s.02.tetchy')
+   Lemma('annoying.s.01.annoying')
+   Lemma('moderate.s.02.moderate')
+   Lemma('annoying.s.01.teasing')
+   Lemma('annoying.s.01.nettlesome')
+   Lemma('cranky.s.02.cranky')
+   Lemma('annoying.s.01.plaguy')
+   Lemma('annoying.s.01.galling')
+   Lemma('tempered.a.01.tempered')
+   Lemma('tempered.a.01.toughened')
+   Lemma('annoyed.s.01.steamed')
+   Lemma('annoyed.s.01.peeved')
+   Lemma('annoying.s.01.plaguey')
+   Lemma('annoyed.s.01.annoyed')
+   Lemma('annoyed.s.01.pissed_off')
+   Lemma('cranky.s.02.techy')
+   Lemma('tempered.a.01.hardened')
+   Lemma('cranky.s.02.fractious')
+   Lemma('cranky.s.02.irritable')
+   Lemma('tempered.a.01.treated')
+   Lemma('cranky.s.02.peckish')
+   
+placidity.n.01
+   Lemma('placid.s.01.unruffled')
+   Lemma('placid.s.01.placid')
+   Lemma('placid.s.01.smooth')
+   Lemma('placid.s.01.tranquil')
+   Lemma('equable.s.02.even-tempered')
+   Lemma('equable.s.02.equable')
+   Lemma('equable.s.02.good-tempered')
+   Lemma('placid.s.01.quiet')
+   Lemma('placid.s.01.still')
+   
+plaintiveness.n.01
+   Lemma('mournful.s.01.mournful')
+   Lemma('mournful.s.01.plaintive')
+   
+pleasantness.n.01
+   Lemma('pleasant.a.01.pleasant')
+   
+pleasure.n.01
+   Lemma('enjoyable.s.01.enjoyable')
+   Lemma('enjoyable.s.01.pleasurable')
+   Lemma('enjoyable.s.01.gratifying')
+   
+poignance.n.01
+   
+preference.n.01
+   Lemma('tasteful.a.01.tasteful')
+   Lemma('favored.s.01.pet')
+   Lemma('favored.s.01.favored')
+   Lemma('neat.s.03.neat')
+   Lemma('favored.s.01.favourite')
+   Lemma('preferable.s.01.preferred')
+   Lemma('favored.s.01.preferent')
+   Lemma('neat.s.03.refined')
+   Lemma('favored.s.01.favorite')
+   Lemma('preferable.s.01.preferable')
+   Lemma('favored.s.01.best-loved')
+   
+presage.n.01
+   
+pride.n.01
+   Lemma('exultant.s.01.exultant')
+   Lemma('disdainful.s.02.haughty')
+   Lemma('disdainful.s.02.disdainful')
+   Lemma('disdainful.s.02.supercilious')
+   Lemma('disdainful.s.02.imperious')
+   Lemma('exultant.s.01.triumphant')
+   Lemma('exultant.s.01.triumphal')
+   Lemma('disdainful.s.02.prideful')
+   Lemma('disdainful.s.02.overbearing')
+   Lemma('exultant.s.01.rejoicing')
+   Lemma('disdainful.s.02.lordly')
+   Lemma('exultant.s.01.jubilant')
+   Lemma('disdainful.s.02.sniffy')
+   Lemma('disdainful.s.02.swaggering')
+   Lemma('exultant.s.01.exulting')
+   
+pride.n.02
+   Lemma('exultant.s.01.exultant')
+   Lemma('disdainful.s.02.haughty')
+   Lemma('disdainful.s.02.disdainful')
+   Lemma('disdainful.s.02.supercilious')
+   Lemma('disdainful.s.02.imperious')
+   Lemma('exultant.s.01.triumphant')
+   Lemma('exultant.s.01.triumphal')
+   Lemma('disdainful.s.02.prideful')
+   Lemma('disdainful.s.02.overbearing')
+   Lemma('exultant.s.01.rejoicing')
+   Lemma('disdainful.s.02.lordly')
+   Lemma('exultant.s.01.jubilant')
+   Lemma('disdainful.s.02.sniffy')
+   Lemma('disdainful.s.02.swaggering')
+   Lemma('exultant.s.01.exulting')
+   
+protectiveness.n.01
+   Lemma('protective.a.01.protective')
+   Lemma('protected.a.01.protected')
+   Lemma('protecting.s.01.protecting')
+   Lemma('protected.s.02.saved')
+   
+prurience.n.01
+   Lemma('animal.s.01.fleshly')
+   Lemma('lascivious.s.01.lascivious')
+   Lemma('lascivious.s.01.lewd')
+   Lemma('lubricated.a.01.greased')
+   Lemma('lubricated.a.01.lubricated')
+   Lemma('lascivious.s.01.lustful')
+   Lemma('lascivious.s.01.libidinous')
+   Lemma('animal.s.01.animal')
+   Lemma('animal.s.01.carnal')
+   Lemma('animal.s.01.sensual')
+   
+puppy_love.n.01
+   Lemma('enamored.s.01.in_love')
+   Lemma('enamored.s.01.soft_on')
+   Lemma('broken.s.03.humiliated')
+   Lemma('broken.s.03.low')
+   Lemma('enamored.s.01.taken_with')
+   Lemma('enamored.s.01.infatuated')
+   Lemma('crushing.s.01.devastating')
+   Lemma('crushing.s.01.crushing')
+   Lemma('enamored.s.01.enamored')
+   Lemma('broken.s.03.broken')
+   Lemma('enamored.s.01.smitten')
+   Lemma('crushed.s.01.crushed')
+   Lemma('broken.s.03.humbled')
+   Lemma('enamored.s.01.potty')
+   
+quality_of_life.n.01
+   
+radiance.n.03
+   
+razbliuto.n.01
+   
+regard.n.06
+   Lemma('deferent.s.01.deferent')
+   Lemma('estimable.s.02.good')
+   Lemma('respectful.s.02.venerating')
+   Lemma('respective.s.01.several')
+   Lemma('respectful.a.01.respectful')
+   Lemma('deferent.s.01.deferential')
+   Lemma('goodly.s.01.sizeable')
+   Lemma('respective.s.01.various')
+   Lemma('goodly.s.01.hefty')
+   Lemma('respectable.a.01.respectable')
+   Lemma('goodly.s.01.sizable')
+   Lemma('respective.s.01.respective')
+   Lemma('deferent.s.01.regardful')
+   Lemma('goodly.s.01.tidy')
+   Lemma('respectful.s.02.reverential')
+   Lemma('respected.s.01.respected')
+   Lemma('respected.s.01.well-thought-of')
+   Lemma('estimable.s.02.estimable')
+   Lemma('regardant.s.01.regardant')
+   Lemma('goodly.s.01.healthy')
+   Lemma('estimable.s.02.honorable')
+   Lemma('goodly.s.01.goodly')
+   Lemma('goodly.s.01.goodish')
+   
+rejoicing.n.01
+   Lemma('exultant.s.01.exultant')
+   Lemma('exultant.s.01.triumphant')
+   Lemma('exultant.s.01.triumphal')
+   Lemma('exultant.s.01.prideful')
+   Lemma('exultant.s.01.rejoicing')
+   Lemma('exultant.s.01.jubilant')
+   Lemma('exultant.s.01.exulting')
+   
+relief.n.01
+   Lemma('alleviated.s.01.alleviated')
+   Lemma('alleviative.s.01.alleviative')
+   Lemma('alleviative.s.01.mitigative')
+   Lemma('alleviated.s.01.relieved')
+   Lemma('alleviative.s.01.alleviatory')
+   Lemma('alleviative.s.01.palliative')
+   Lemma('alleviative.s.01.mitigatory')
+   Lemma('alleviated.s.01.eased')
+   Lemma('alleviative.s.01.lenitive')
+   
+repentance.n.01
+   Lemma('penitent.a.01.repentant')
+   Lemma('penitent.a.01.penitent')
+   
+repugnance.n.01
+   Lemma('abhorrent.s.01.abhorrent')
+   Lemma('abhorrent.s.01.obscene')
+   Lemma('hideous.s.02.hideous')
+   Lemma('abhorrent.s.01.detestable')
+   Lemma('abhorrent.s.01.repugnant')
+   Lemma('abhorrent.s.01.repulsive')
+   
+resentment.n.01
+   Lemma('annoying.s.01.vexing')
+   Lemma('annoying.s.01.irritating')
+   Lemma('annoying.s.01.bothersome')
+   Lemma('acerb.s.02.acid')
+   Lemma('acerb.s.02.acerbic')
+   Lemma('annoying.s.01.pestiferous')
+   Lemma('chafed.s.01.chafed')
+   Lemma('acerb.s.02.blistering')
+   Lemma('biting.s.02.biting')
+   Lemma('acerb.s.02.acerb')
+   Lemma('acerb.s.02.acrid')
+   Lemma('rancorous.s.01.rancorous')
+   Lemma('acerb.s.02.sulphurous')
+   Lemma('chafed.s.01.galled')
+   Lemma('annoying.s.01.vexatious')
+   Lemma('acerb.s.02.virulent')
+   Lemma('annoying.s.01.pestering')
+   Lemma('acerb.s.02.caustic')
+   Lemma('annoying.s.01.pesky')
+   Lemma('acerb.s.02.sulfurous')
+   Lemma('acerb.s.02.vitriolic')
+   Lemma('annoying.s.01.annoying')
+   Lemma('annoying.s.01.teasing')
+   Lemma('annoying.s.01.nettlesome')
+   Lemma('annoying.s.01.plaguy')
+   Lemma('annoying.s.01.galling')
+   Lemma('annoying.s.01.plaguey')
+   Lemma('acrimonious.s.01.bitter')
+   Lemma('acrimonious.s.01.acrimonious')
+   Lemma('resentful.a.01.resentful')
+   
+resignation.n.01
+   
+sadism.n.01
+   
+sadness.n.01
+   Lemma('deplorable.s.01.pitiful')
+   Lemma('deplorable.s.01.sorry')
+   Lemma('unhappy.a.01.unhappy')
+   Lemma('deplorable.s.01.deplorable')
+   Lemma('infelicitous.s.02.infelicitous')
+   Lemma('deplorable.s.01.distressing')
+   Lemma('dysphoric.a.01.dysphoric')
+   Lemma('deplorable.s.01.lamentable')
+   Lemma('sad.a.01.sad')
+   Lemma('dysphoric.a.01.distressed')
+   
+sadness.n.02
+   Lemma('sorrowful.a.01.sorrowful')
+   Lemma('deplorable.s.01.pitiful')
+   Lemma('bereaved.s.01.bereft')
+   Lemma('bereaved.s.01.mourning')
+   Lemma('bereaved.s.01.bereaved')
+   Lemma('deplorable.s.01.sorry')
+   Lemma('bereaved.s.01.sorrowing')
+   Lemma('deplorable.s.01.deplorable')
+   Lemma('deplorable.s.01.distressing')
+   Lemma('bereaved.s.01.grieving')
+   Lemma('bereaved.s.01.grief-stricken')
+   Lemma('deplorable.s.01.lamentable')
+   Lemma('sad.a.01.sad')
+   
+sadomasochism.n.01
+   
+sanguinity.n.01
+   Lemma('gory.s.02.butcherly')
+   Lemma('gory.s.02.sanguineous')
+   Lemma('rubicund.s.01.rubicund')
+   Lemma('gory.s.02.gory')
+   Lemma('rubicund.s.01.ruddy')
+   Lemma('rubicund.s.01.florid')
+   Lemma('gory.s.02.sanguinary')
+   Lemma('sanguine.s.01.sanguine')
+   Lemma('gory.s.02.slaughterous')
+   
+satisfaction.n.01
+   
+satyriasis.n.01
+   
+scare.n.02
+   Lemma('frightened.s.01.frightened')
+   Lemma('frightened.s.01.scared')
+   
+schadenfreude.n.01
+   
+scruple.n.02
+   
+scunner.n.01
+   
+security.n.03
+   Lemma('impregnable.s.01.strong')
+   Lemma('impregnable.s.01.impregnable')
+   Lemma('dependable.s.04.good')
+   Lemma('secure.a.01.unafraid')
+   Lemma('impregnable.s.01.unattackable')
+   Lemma('dependable.s.04.dependable')
+   Lemma('secure.a.01.secure')
+   Lemma('impregnable.s.01.inviolable')
+   Lemma('dependable.s.04.safe')
+   Lemma('secure.a.01.untroubled')
+   Lemma('impregnable.s.01.unassailable')
+   
+self-consciousness.n.01
+   Lemma('self-conscious.s.01.self-conscious')
+   Lemma('self-conscious.s.01.self-aware')
+   Lemma('anxious.s.02.anxious')
+   Lemma('anxious.s.02.nervous')
+   Lemma('restless.a.03.restless')
+   Lemma('anxious.s.02.queasy')
+   Lemma('anxious.s.02.unquiet')
+   Lemma('uneasy.a.01.uneasy')
+   Lemma('awkward.s.06.ill_at_ease')
+   Lemma('awkward.s.06.awkward')
+   Lemma('uncomfortable.a.01.uncomfortable')
+   
+self-depreciation.n.01
+   
+self-disgust.n.01
+   
+self-esteem.n.01
+   
+self-pity.n.01
+   
+self-torture.n.01
+   
+sensation.n.03
+   Lemma('arresting.s.01.stunning')
+   Lemma('arresting.s.01.arresting')
+   Lemma('sensational.a.01.sensational')
+   Lemma('sensational.a.03.sensory')
+   Lemma('sensate.s.01.sensate')
+   
+sensibility.n.02
+   Lemma('reasonable.a.01.sensible')
+   Lemma('reasonable.a.01.reasonable')
+   Lemma('sensible.a.02.sensitive')
+   
+sensitivity.n.03
+   Lemma('allergic.s.02.hypersensitive')
+   Lemma('sensible.a.02.sensible')
+   Lemma('allergic.s.02.sensitised')
+   Lemma('allergic.s.02.supersensitive')
+   Lemma('sensitive.s.04.sore')
+   Lemma('allergic.s.02.allergic')
+   Lemma('sensitive.s.04.tender')
+   Lemma('sensitizing.a.01.sensitizing')
+   Lemma('allergic.s.02.hypersensitised')
+   Lemma('allergic.s.02.sensitized')
+   Lemma('allergic.s.02.supersensitised')
+   Lemma('sensitizing.a.01.sensitising')
+   Lemma('allergic.s.02.hypersensitized')
+   Lemma('sensitive.s.04.raw')
+   Lemma('sensitive.a.01.sensitive')
+   Lemma('allergic.s.02.supersensitized')
+   
+sensuality.n.01
+   Lemma('animal.s.01.fleshly')
+   Lemma('sensual.s.02.sultry')
+   Lemma('animal.s.01.animal')
+   Lemma('animal.s.01.carnal')
+   Lemma('animal.s.01.sensual')
+   
+sensuousness.n.01
+   
+sentiment.n.01
+   Lemma('bathetic.s.01.kitschy')
+   Lemma('bathetic.s.01.slushy')
+   Lemma('bathetic.s.01.soupy')
+   Lemma('bathetic.s.01.schmalzy')
+   Lemma('bathetic.s.01.schmaltzy')
+   Lemma('bathetic.s.01.mawkish')
+   Lemma('bathetic.s.01.drippy')
+   Lemma('bathetic.s.01.hokey')
+   Lemma('bathetic.s.01.maudlin')
+   Lemma('sentimental.s.01.sentimental')
+   Lemma('bathetic.s.01.bathetic')
+   Lemma('bathetic.s.01.soppy')
+   Lemma('bathetic.s.01.mushy')
+   
+sentimentality.n.02
+   Lemma('bathetic.s.01.kitschy')
+   Lemma('bathetic.s.01.slushy')
+   Lemma('bathetic.s.01.soupy')
+   Lemma('bathetic.s.01.schmalzy')
+   Lemma('bathetic.s.01.schmaltzy')
+   Lemma('bathetic.s.01.mawkish')
+   Lemma('bathetic.s.01.drippy')
+   Lemma('bathetic.s.01.hokey')
+   Lemma('bathetic.s.01.maudlin')
+   Lemma('sentimental.s.01.sentimental')
+   Lemma('bathetic.s.01.bathetic')
+   Lemma('bathetic.s.01.soppy')
+   Lemma('bathetic.s.01.mushy')
+   
+sex.n.03
+   Lemma('sexed.s.01.sexed')
+   
+sexual_desire.n.01
+   Lemma('lustful.s.03.lustful')
+   Lemma('lustful.s.03.concupiscent')
+   Lemma('lustful.s.03.lusty')
+   
+sexual_pleasure.n.01
+   
+shadow.n.04
+   Lemma('shady.s.04.shadowed')
+   Lemma('shady.s.04.shadowy')
+   Lemma('shady.s.04.shady')
+   Lemma('shady.s.04.umbrageous')
+   
+shame.n.01
+   Lemma('black.s.12.inglorious')
+   Lemma('black.s.12.black')
+   Lemma('black.s.12.ignominious')
+   Lemma('discredited.s.02.discredited')
+   Lemma('black.s.12.shameful')
+   Lemma('black.s.12.opprobrious')
+   Lemma('guilty.s.02.shamed')
+   Lemma('guilty.s.02.guilty')
+   Lemma('guilty.s.02.shamefaced')
+   Lemma('black.s.12.disgraceful')
+   Lemma('disgraceful.s.01.scandalous')
+   Lemma('disgraceful.s.01.shocking')
+   Lemma('discredited.s.02.disgraced')
+   Lemma('discredited.s.02.dishonored')
+   Lemma('guilty.s.02.hangdog')
+   
+shamefacedness.n.01
+   Lemma('shamefaced.s.02.shamefaced')
+   Lemma('sheeplike.s.01.sheeplike')
+   Lemma('sheeplike.s.01.sheepish')
+   
+shyness.n.01
+   
+silver_lining.n.01
+   
+sinking.n.03
+   
+smugness.n.01
+   Lemma('smug.s.01.self-satisfied')
+   Lemma('smug.s.01.smug')
+   
+soft_spot.n.02
+   
+softheartedness.n.01
+   Lemma('tenderized.s.01.tenderised')
+   Lemma('sensitive.s.04.sore')
+   Lemma('crank.s.01.tippy')
+   Lemma('affectionate.s.01.lovesome')
+   Lemma('affectionate.s.01.warm')
+   Lemma('tender.a.01.tender')
+   Lemma('affectionate.s.01.fond')
+   Lemma('crank.s.01.crank')
+   Lemma('affectionate.s.01.affectionate')
+   Lemma('tender.a.06.untoughened')
+   Lemma('tenderized.s.01.tenderized')
+   Lemma('crank.s.01.cranky')
+   Lemma('sensitive.s.04.raw')
+   Lemma('sensitive.s.04.sensitive')
+   
+solicitude.n.01
+   Lemma('solicitous.s.01.solicitous')
+   
+sorrow.n.01
+   Lemma('sorrowful.a.01.sorrowful')
+   Lemma('bereaved.s.01.mourning')
+   Lemma('bereaved.s.01.bereft')
+   Lemma('bereaved.s.01.bereaved')
+   Lemma('bereaved.s.01.sorrowing')
+   Lemma('bereaved.s.01.grief-stricken')
+   Lemma('bereaved.s.01.grieving')
+   
+sorrow.n.02
+   Lemma('sorrowful.a.01.sorrowful')
+   Lemma('bereaved.s.01.mourning')
+   Lemma('bereaved.s.01.bereft')
+   Lemma('contrite.s.01.ruthful')
+   Lemma('bereaved.s.01.bereaved')
+   Lemma('regretful.a.01.sorry')
+   Lemma('bereaved.s.01.sorrowing')
+   Lemma('contrite.s.01.remorseful')
+   Lemma('contrite.s.01.rueful')
+   Lemma('contrite.s.01.contrite')
+   Lemma('bereaved.s.01.grief-stricken')
+   Lemma('bereaved.s.01.grieving')
+   Lemma('regretful.a.01.regretful')
+   Lemma('regretful.a.01.bad')
+   
+soul.n.03
+   Lemma('soulful.s.01.soulful')
+   
+stage_fright.n.01
+   
+state.n.06
+   Lemma('stately.s.02.statuesque')
+   Lemma('baronial.s.01.baronial')
+   Lemma('courtly.s.01.courtly')
+   Lemma('declared.s.02.declared')
+   Lemma('baronial.s.01.stately')
+   Lemma('courtly.s.01.formal')
+   Lemma('baronial.s.01.noble')
+   Lemma('declared.s.02.stated')
+   Lemma('baronial.s.01.imposing')
+   
+stewing.n.01
+   Lemma('boiled.s.01.boiled')
+   Lemma('boiled.s.01.stewed')
+   Lemma('boiled.s.01.poached')
+   
+stir.n.02
+   Lemma('moved.a.01.affected')
+   Lemma('stirring.s.02.soul-stirring')
+   Lemma('moved.a.01.stirred')
+   Lemma('stimulated.s.01.aroused')
+   Lemma('stimulated.s.01.stimulated')
+   Lemma('rousing.s.01.rousing')
+   Lemma('moved.a.01.moved')
+   Lemma('rousing.s.01.stirring')
+   Lemma('stimulated.s.01.stirred_up')
+   Lemma('moved.a.01.touched')
+   
+stomach.n.03
+   Lemma('gastric.a.01.stomachal')
+   Lemma('gastric.a.01.stomachic')
+   Lemma('gastric.a.01.gastric')
+   
+stomach.n.04
+   Lemma('gastric.a.01.stomachal')
+   Lemma('gastric.a.01.stomachic')
+   Lemma('gastric.a.01.gastric')
+   
+storminess.n.02
+   Lemma('stormy.a.01.stormy')
+   Lemma('stormy.s.02.tempestuous')
+   
+stupefaction.n.01
+   
+suffering.n.04
+   Lemma('bearable.s.01.endurable')
+   Lemma('hurtful.s.01.hurtful')
+   Lemma('miserable.s.01.wretched')
+   Lemma('bearable.s.01.bearable')
+   Lemma('hurt.s.01.wounded')
+   Lemma('bearable.s.01.sufferable')
+   Lemma('suffering.s.01.suffering')
+   Lemma('deleterious.s.01.deleterious')
+   Lemma('hurt.s.01.hurt')
+   Lemma('hurt.s.02.weakened')
+   Lemma('deleterious.s.01.injurious')
+   Lemma('miserable.s.01.miserable')
+   Lemma('bearable.s.01.supportable')
+   
+sulk.n.01
+   Lemma('glooming.s.01.gloomy')
+   Lemma('huffish.s.01.sulky')
+   Lemma('huffish.s.01.huffish')
+   Lemma('glooming.s.01.gloomful')
+   Lemma('glooming.s.01.glooming')
+   Lemma('sluggish.s.01.sluggish')
+   
+sulkiness.n.02
+   Lemma('glooming.s.01.gloomy')
+   Lemma('huffish.s.01.sulky')
+   Lemma('huffish.s.01.huffish')
+   Lemma('glooming.s.01.gloomful')
+   Lemma('glooming.s.01.glooming')
+   Lemma('sluggish.s.01.sluggish')
+   
+surprise.n.01
+   Lemma('surprised.a.01.surprised')
+   Lemma('surprising.a.01.surprising')
+   
+survivor_guilt.n.01
+   
+suspense.n.01
+   Lemma('cliff-hanging.s.01.suspensive')
+   Lemma('cliff-hanging.s.01.suspenseful')
+   Lemma('cliff-hanging.s.01.cliff-hanging')
+   Lemma('cliff-hanging.s.01.nail-biting')
+   
+suspense.n.03
+   Lemma('cliff-hanging.s.01.suspensive')
+   Lemma('cliff-hanging.s.01.suspenseful')
+   Lemma('cliff-hanging.s.01.cliff-hanging')
+   Lemma('cliff-hanging.s.01.nail-biting')
+   
+sweet_tooth.n.01
+   
+swivet.n.01
+   
+sympathy.n.02
+   
+technophilia.n.01
+   
+technophobia.n.01
+   
+temper.n.02
+   Lemma('tempered.a.01.tempered')
+   Lemma('humorous.a.01.humorous')
+   Lemma('humorous.a.01.humourous')
+   Lemma('tempered.a.01.toughened')
+   Lemma('temperate.a.01.temperate')
+   Lemma('tempered.a.01.hardened')
+   Lemma('tempering.s.01.tempering')
+   Lemma('moderate.s.02.moderate')
+   Lemma('tempered.a.01.treated')
+   Lemma('humoral.a.01.humoral')
+   
+temptation.n.02
+   
+tenderness.n.03
+   Lemma('tenderized.s.01.tenderised')
+   Lemma('sensitive.s.04.sore')
+   Lemma('crank.s.01.tippy')
+   Lemma('affectionate.s.01.lovesome')
+   Lemma('affectionate.s.01.warm')
+   Lemma('tender.a.01.tender')
+   Lemma('affectionate.s.01.fond')
+   Lemma('crank.s.01.crank')
+   Lemma('affectionate.s.01.affectionate')
+   Lemma('tender.a.06.untoughened')
+   Lemma('tenderized.s.01.tenderized')
+   Lemma('crank.s.01.cranky')
+   Lemma('sensitive.s.04.raw')
+   Lemma('sensitive.s.04.sensitive')
+   
+testiness.n.01
+   Lemma('huffy.s.01.touchy')
+   Lemma('delicate.s.06.ticklish')
+   Lemma('cranky.s.02.peevish')
+   Lemma('cranky.s.02.nettlesome')
+   Lemma('huffy.s.01.huffy')
+   Lemma('cranky.s.02.scratchy')
+   Lemma('cranky.s.02.irritable')
+   Lemma('cranky.s.02.testy')
+   Lemma('huffy.s.01.thin-skinned')
+   Lemma('cranky.s.02.techy')
+   Lemma('delicate.s.06.delicate')
+   Lemma('cranky.s.02.tetchy')
+   Lemma('huffy.s.01.feisty')
+   Lemma('cranky.s.02.fractious')
+   Lemma('cranky.s.02.cranky')
+   Lemma('cranky.s.02.petulant')
+   Lemma('cranky.s.02.pettish')
+   Lemma('cranky.s.02.peckish')
+   
+the_hots.n.01
+   
+thing.n.11
+   
+throes.n.01
+   
+timidity.n.01
+   Lemma('fearful.s.05.timorous')
+   Lemma('diffident.a.02.shy')
+   Lemma('timid.a.01.timid')
+   Lemma('fearful.s.05.fearful')
+   Lemma('faint.s.06.faint-hearted')
+   Lemma('diffident.a.02.unsure')
+   Lemma('faint.s.06.fainthearted')
+   Lemma('diffident.a.02.diffident')
+   Lemma('faint.s.06.faint')
+   Lemma('fearful.s.05.trepid')
+   
+titillation.n.01
+   Lemma('tickling.s.01.tickling')
+   Lemma('teased.s.01.teased')
+   Lemma('titillating.s.01.titillating')
+   Lemma('erotic.s.01.erotic')
+   Lemma('tickling.s.01.tingling')
+   Lemma('teased.s.01.titillated')
+   
+togetherness.n.01
+   Lemma('together.s.01.together')
+   
+tranquillity.n.02
+   Lemma('calm.s.01.unagitated')
+   Lemma('placid.s.01.placid')
+   Lemma('ataractic.s.01.tranquilising')
+   Lemma('ataractic.s.01.sedative')
+   Lemma('hushed.s.01.subdued')
+   Lemma('placid.s.01.quiet')
+   Lemma('ataractic.s.01.ataraxic')
+   Lemma('placid.s.01.unruffled')
+   Lemma('placid.s.01.smooth')
+   Lemma('ataractic.s.01.tranquillising')
+   Lemma('calm.s.01.serene')
+   Lemma('quiet.s.03.restrained')
+   Lemma('hushed.s.01.muted')
+   Lemma('placid.s.01.tranquil')
+   Lemma('ataractic.s.01.tranquillizing')
+   Lemma('placid.s.01.still')
+   Lemma('calm.s.01.calm')
+   Lemma('hushed.s.01.hushed')
+   Lemma('ataractic.s.01.ataractic')
+   Lemma('ataractic.s.01.tranquilizing')
+   
+trepidation.n.01
+   Lemma('fearful.s.05.fearful')
+   Lemma('fearful.s.05.timorous')
+   Lemma('fearful.s.05.trepid')
+   
+triumph.n.02
+   
+tsoris.n.01
+   
+tumult.n.02
+   
+umbrage.n.01
+   Lemma('nauseating.s.01.nauseous')
+   Lemma('indignant.s.01.indignant')
+   Lemma('indignant.s.01.incensed')
+   Lemma('shady.s.04.shadowed')
+   Lemma('shady.s.04.shady')
+   Lemma('nauseating.s.01.vile')
+   Lemma('offensive.s.01.offensive')
+   Lemma('unsavory.a.01.unsavory')
+   Lemma('offensive.s.01.violative')
+   Lemma('nauseating.s.01.loathsome')
+   Lemma('unsavory.a.01.unsavoury')
+   Lemma('nauseating.s.01.queasy')
+   Lemma('nauseating.s.01.noisome')
+   Lemma('indignant.s.01.outraged')
+   Lemma('shady.s.04.umbrageous')
+   Lemma('shady.s.04.shadowy')
+   Lemma('nauseating.s.01.nauseating')
+   Lemma('dysphemistic.a.01.dysphemistic')
+   Lemma('nauseating.s.01.sickening')
+   
+unassertiveness.n.01
+   Lemma('unassertive.a.01.unassertive')
+   
+unconcern.n.02
+   Lemma('unconcerned.a.01.unconcerned')
+   
+undertow.n.01
+   
+unfriendliness.n.01
+   Lemma('unfriendly.a.01.unfriendly')
+   Lemma('hostile.s.04.uncongenial')
+   Lemma('hostile.s.04.hostile')
+   Lemma('unfriendly.s.03.inimical')
+   
+unhappiness.n.02
+   Lemma('unhappy.a.01.unhappy')
+   Lemma('dysphoric.a.01.dysphoric')
+   Lemma('infelicitous.s.02.infelicitous')
+   Lemma('dysphoric.a.01.distressed')
+   
+unpleasantness.n.01
+   Lemma('graceless.s.01.graceless')
+   Lemma('unpleasant.a.01.unpleasant')
+   Lemma('graceless.s.01.unpleasing')
+   
+unrest.n.02
+   Lemma('unrefreshed.s.01.unrefreshed')
+   Lemma('unrefreshed.s.01.unrested')
+   
+urge.n.02
+   
+velleity.n.01
+   
+vindictiveness.n.01
+   Lemma('revengeful.s.01.vengeful')
+   Lemma('despiteful.s.01.despiteful')
+   Lemma('revengeful.s.01.revengeful')
+   Lemma('revengeful.s.01.vindictive')
+   Lemma('despiteful.s.01.spiteful')
+   
+warmheartedness.n.01
+   
+warpath.n.01
+   
+weakness.n.05
+   Lemma('decrepit.s.02.rickety')
+   Lemma('fallible.s.02.fallible')
+   Lemma('decrepit.s.02.decrepit')
+   Lemma('fallible.s.02.imperfect')
+   Lemma('decrepit.s.02.debile')
+   Lemma('weak.a.01.weak')
+   Lemma('unaccented.s.02.unaccented')
+   Lemma('decrepit.s.02.infirm')
+   Lemma('unaccented.s.02.light')
+   Lemma('decrepit.s.02.sapless')
+   Lemma('decrepit.s.02.feeble')
+   Lemma('decrepit.s.02.weakly')
+   Lemma('fallible.s.02.frail')
+   Lemma('watery.s.04.watery')
+   Lemma('faint.s.01.faint')
+   Lemma('watery.s.04.washy')
+   
+weepiness.n.01
+   Lemma('dolorous.s.01.dolorous')
+   Lemma('fierce.s.02.trigger-happy')
+   Lemma('fierce.s.02.tearing')
+   Lemma('fierce.s.02.vehement')
+   Lemma('fierce.s.02.fierce')
+   Lemma('weepy.s.01.weepy')
+   Lemma('fierce.s.02.violent')
+   Lemma('dolorous.s.01.dolourous')
+   Lemma('dolorous.s.01.weeping')
+   Lemma('tearful.a.01.tearful')
+   Lemma('dolorous.s.01.lachrymose')
+   
+weight.n.05
+   Lemma('leaden.s.02.weighted')
+   Lemma('leaden.s.02.leaden')
+   
+wildness.n.01
+   Lemma('godforsaken.s.01.godforsaken')
+   Lemma('raving_mad.s.01.raving_mad')
+   Lemma('barbarian.s.01.savage')
+   Lemma('baseless.s.01.unwarranted')
+   Lemma('godforsaken.s.01.waste')
+   Lemma('crazy.s.05.dotty')
+   Lemma('angry.s.02.tempestuous')
+   Lemma('hazardous.s.01.risky')
+   Lemma('angry.s.02.furious')
+   Lemma('baseless.s.01.groundless')
+   Lemma('baseless.s.01.baseless')
+   Lemma('angry.s.02.angry')
+   Lemma('abandoned.s.01.deserted')
+   Lemma('crazy.s.05.crazy')
+   Lemma('hazardous.s.01.hazardous')
+   Lemma('abandoned.s.01.derelict')
+   Lemma('angry.s.02.raging')
+   Lemma('baseless.s.01.unfounded')
+   Lemma('wild.a.02.untamed')
+   Lemma('baseless.s.01.idle')
+   Lemma('fantastic.s.03.fantastic')
+   Lemma('abandoned.s.01.abandoned')
+   Lemma('wild.a.01.wild')
+   Lemma('barbarian.s.01.uncivilized')
+   Lemma('violent.s.03.violent')
+   Lemma('barbarian.s.01.barbarian')
+   Lemma('crazy.s.05.gaga')
+   Lemma('barbarian.s.01.uncivilised')
+   Lemma('barbarian.s.01.barbaric')
+   
+willies.n.01
+   
+wish.n.01
+   Lemma('desirous.a.01.desirous')
+   Lemma('lacking.s.02.wanting')
+   Lemma('wanted.a.01.wanted')
+   Lemma('cherished.s.01.cherished')
+   Lemma('lacking.s.02.lacking')
+   Lemma('lacking.s.02.absent')
+   Lemma('cherished.s.01.treasured')
+   Lemma('lacking.s.02.missing')
+   Lemma('desirous.a.01.wishful')
+   Lemma('aspirant.s.01.aspiring')
+   Lemma('aspirant.s.01.aspirant')
+   Lemma('deficient.s.01.deficient')
+   Lemma('cherished.s.01.precious')
+   
+wishfulness.n.01
+   Lemma('desirous.a.01.wishful')
+   Lemma('aspirant.s.01.aspirant')
+   Lemma('desirous.a.01.desirous')
+   Lemma('aspirant.s.01.aspiring')
+   
+wistfulness.n.01
+   Lemma('pensive.s.02.wistful')
+   Lemma('pensive.s.02.pensive')
+   
+withdrawal.n.04
+   Lemma('detached.s.05.uncaring')
+   Lemma('detached.s.06.free')
+   Lemma('detachable.a.01.detachable')
+   Lemma('degage.s.02.degage')
+   Lemma('degage.s.02.uninvolved')
+   Lemma('detached.s.02.isolated')
+   Lemma('detached.s.02.set-apart')
+   Lemma('degage.s.02.detached')
+   Lemma('detached.s.05.unaffectionate')
+   Lemma('detached.s.02.separated')
+   
+woe.n.02
+   Lemma('woebegone.s.02.woebegone')
+   Lemma('woebegone.s.02.woeful')
+   Lemma('deplorable.s.02.wretched')
+   Lemma('deplorable.s.02.deplorable')
+   Lemma('deplorable.s.02.miserable')
+   Lemma('deplorable.s.02.execrable')
+   
+wonder.n.01
+   Lemma('admired.s.01.admired')
+   Lemma('fantastic.s.02.marvellous')
+   Lemma('inquisitive.s.01.wondering')
+   Lemma('inquisitive.s.01.speculative')
+   Lemma('fantastic.s.02.marvelous')
+   Lemma('inquisitive.s.01.questioning')
+   Lemma('fantastic.s.02.tremendous')
+   Lemma('fantastic.s.02.wonderful')
+   Lemma('fantastic.s.02.grand')
+   Lemma('fantastic.s.02.wondrous')
+   Lemma('admirable.s.01.admirable')
+   Lemma('fantastic.s.02.terrific')
+   Lemma('fantastic.s.02.fantastic')
+   Lemma('fantastic.s.02.howling')
+   Lemma('inquisitive.s.01.inquisitive')
+   Lemma('fantastic.s.02.rattling')
+   
+world-weariness.n.01
+   Lemma('bored.s.01.bored')
+   Lemma('bored.s.01.world-weary')
+   
+worry.n.02
+   Lemma('disruptive.s.01.disruptive')
+   Lemma('distressing.s.01.troubling')
+   Lemma('disquieted.s.01.upset')
+   Lemma('apprehensive.s.02.apprehensive')
+   Lemma('disruptive.s.01.tumultuous')
+   Lemma('disruptive.s.01.riotous')
+   Lemma('distressing.s.01.distressful')
+   Lemma('distressing.s.01.perturbing')
+   Lemma('disruptive.s.01.turbulent')
+   Lemma('disquieted.s.01.disquieted')
+   Lemma('distressing.s.01.distressing')
+   Lemma('distressing.s.01.worrisome')
+   Lemma('distressing.s.01.worrying')
+   Lemma('troubled.a.01.troubled')
+   Lemma('disquieted.s.01.worried')
+   Lemma('disquieted.s.01.disturbed')
+   Lemma('distressing.s.01.disturbing')
+   Lemma('disquieted.s.01.distressed')
+   
+worship.n.02
+   Lemma('adoring.s.01.worshipful')
+   Lemma('adorable.s.01.lovely')
+   Lemma('adored.s.01.idolized')
+   Lemma('godly.s.01.reverent')
+   Lemma('adored.s.01.idolised')
+   Lemma('adored.s.01.adored')
+   Lemma('adoring.s.02.doting')
+   Lemma('adoring.s.02.fond')
+   Lemma('godly.s.01.godly')
+   Lemma('adorable.s.01.adorable')
+   Lemma('adored.s.01.worshipped')
+   Lemma('adorable.s.01.endearing')
+   Lemma('adoring.s.01.adoring')
+   
+wound.n.03
+   Lemma('hurt.s.01.wounded')
+   Lemma('wound.s.01.wound')
+   Lemma('stabbing.s.01.stabbing')
+   Lemma('hurt.s.01.hurt')
+   Lemma('stabbing.s.01.wounding')
+   
+wrath.n.01
+   Lemma('wrathful.s.01.wrathful')
+   Lemma('wrathful.s.01.wrothful')
+   Lemma('wrathful.s.01.wroth')
+   
+zeal.n.02
+   
